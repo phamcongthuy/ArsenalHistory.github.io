@@ -6,6 +6,15 @@ layout: default
 
   <h1 class="page-heading">Posts</h1>
 
+<div class="logos">
+  <div class="midnightHeader default">
+     <div class="logo">&nbsp;</div>
+   </div>
+   <div class="midnightHeader white">
+      <div class="logo"></div>
+    </div>
+</div>
+
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -23,4 +32,11 @@ layout: default
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 {% include javascript.html %}
+<script>
+// Start midnight
+$(document).ready(function(){
+  // Change this to the correct selector.
+  $('.logos').midnight();
+});
+</script>
 </div>

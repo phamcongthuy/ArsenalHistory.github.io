@@ -1,0 +1,19 @@
+
+.logos{
+.midnightHeader {
+  &.default {
+    .logo{
+      background: url(/assets/img/arsenal.svg) no-repeat;
+      background-size: contain;
+      height:100px;
+    }
+  }
+  &.white {
+    .logo{
+      background: url(/assets/img/arsenal_crest_1932.svg) no-repeat;
+      background-size: contain;
+      height:100px;
+    }
+  }
+}
+}
