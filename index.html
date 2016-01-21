@@ -4,39 +4,37 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1>History</h1>
+  <blockquote>
+       IT'S NOT IMPOSSIBLE. I KNOW IT WILL BE DIFFICULT FOR US TO GO THROUGH THE SEASON UNBEATEN. BUT IF WE KEEP THE RIGHT ATTITUDE IT'S POSSIBLE WE CAN DO IT.
+    </blockquote>
 
-<div class="logos">
-  <div class="midnightHeader default">
-     <div class="logo">&nbsp;</div>
-   </div>
-   <div class="midnightHeader white">
-      <div class="logo"></div>
-    </div>
-</div>
 
-  <ul class="post-list">
+
+  <div class="row">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="col s12 m4">
+      <div class="card hoverable">
+        <div class="card-image">
+          <img src="assets/img/alexissanchez.jpg">
+          <span class="card-title">{{ post.title }}
+          </span>
+        </div>
+        <div class="card-content">
+          <p>{{post.content}}</p>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </div>
+        <div class="card-action">
+          <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+        </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-
-        {{post.content}}
-
-      </li>
+      </div>
+    </div>
     {% endfor %}
-  </ul>
+  </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-{% include javascript.html %}
-<script>
-// Start midnight
-$(document).ready(function(){
-  // Change this to the correct selector.
-  $('.logos').midnight();
-});
-</script>
+
+  <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
+  {% include javascript.html %}
+
 </div>

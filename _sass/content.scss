@@ -1,19 +1,28 @@
+.logos {
 
-.logos{
-.midnightHeader {
-  &.default {
-    .logo{
-      background: url(/assets/img/arsenal.svg) no-repeat;
-      background-size: contain;
-      height:100px;
+  font-size: 60px;
+  position: fixed;
+  .midnightHeader {
+    &.default {
+      .logo {
+        background-image: url(/assets/img/arsenal.svg);
+      }
+    }
+    &.white {
+      .logo {
+        background-image: url(/assets/img/arsenal_crest_1932.svg);
+
+      }
     }
   }
-  &.white {
-    .logo{
-      background: url(/assets/img/arsenal_crest_1932.svg) no-repeat;
-      background-size: contain;
-      height:100px;
-    }
+  [class*="logo"]{
+    background-size: contain;
+    height: 100px;
+    margin:10px 60px 0px 60px;
+      background-repeat: no-repeat;
   }
 }
+
+body{
+  background-color: #fcfcfc;
 }
