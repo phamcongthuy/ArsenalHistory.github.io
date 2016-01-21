@@ -6,17 +6,19 @@ layout: default
 
   <h1>History</h1>
   <blockquote>
-       IT'S NOT IMPOSSIBLE. I KNOW IT WILL BE DIFFICULT FOR US TO GO THROUGH THE SEASON UNBEATEN. BUT IF WE KEEP THE RIGHT ATTITUDE IT'S POSSIBLE WE CAN DO IT.
-    </blockquote>
+    IT'S NOT IMPOSSIBLE. I KNOW IT WILL BE DIFFICULT FOR US TO GO THROUGH THE SEASON UNBEATEN. BUT IF WE KEEP THE RIGHT ATTITUDE IT'S POSSIBLE WE CAN DO IT.
+  </blockquote>
 
+  {% for post in site.posts %}
+  {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
+  {% if modulo == '0' or forloop.first %}
+     <div class="row">
+   {% endif %}
 
-
-  <div class="row">
-    {% for post in site.posts %}
     <div class="col s12 m4">
       <div class="card hoverable">
         <div class="card-image">
-          <img src="assets/img/alexissanchez.jpg">
+          <img src="{{ post.image }}">
           <span class="card-title">{{ post.title }}
           </span>
         </div>
@@ -27,11 +29,13 @@ layout: default
         <div class="card-action">
           <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
         </div>
-
       </div>
     </div>
-    {% endfor %}
-  </div>
+  {% if modulo == '2' or forloop.last %}
+     </div>
+   {% endif %}
+
+ {% endfor %}
 
 
   <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml " | prepend: site.baseurl }}">via RSS</a></p>
