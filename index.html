@@ -3,13 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
-  <h1>History</h1>
-  <blockquote>
-    IT'S NOT IMPOSSIBLE. I KNOW IT WILL BE DIFFICULT FOR US TO GO THROUGH THE SEASON UNBEATEN.<br/>
-    BUT IF WE KEEP THE RIGHT ATTITUDE IT'S POSSIBLE WE CAN DO IT. - <strong>ARSENE WENGER</strong>
-  </blockquote>
-
+  
   {% for post in paginator.posts %}
   {% capture modulo %}{{ forloop.index0 | mod:4 }}{% endcapture %}
 
