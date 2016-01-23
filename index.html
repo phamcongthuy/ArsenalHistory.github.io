@@ -11,6 +11,7 @@ layout: default
 
   {% for post in site.posts %}
   {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
+
   {% if modulo == '0' or forloop.first %}
      <div class="row">
    {% endif %}
