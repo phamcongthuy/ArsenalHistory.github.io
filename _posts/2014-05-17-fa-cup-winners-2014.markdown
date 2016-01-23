@@ -1,12 +1,8 @@
 ---
 layout: post
-title:  "Arsenal - FA Cup Winners"
+title:  "FA Cup 2014 Winners"
 date:   2014-05-17 22:26:48 +0000
 categories: jekyll update
-image: "/assets/img/alexissanchez.jpg"
+image: "/assets/img/fa-cup-2014.jpg"
+video: "https://www.youtube.com/embed/7K5j4mMfBK0"
 ---
-
-
-
-<div class="content-2014">
-</div>

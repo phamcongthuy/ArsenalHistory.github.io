@@ -7,33 +7,40 @@ layout: default
   <h1>History</h1>
   <blockquote>
     IT'S NOT IMPOSSIBLE. I KNOW IT WILL BE DIFFICULT FOR US TO GO THROUGH THE SEASON UNBEATEN.<br/>
-    BUT IF WE KEEP THE RIGHT ATTITUDE IT'S POSSIBLE WE CAN DO IT. - <i>ARSENE WENGER</i>
+    BUT IF WE KEEP THE RIGHT ATTITUDE IT'S POSSIBLE WE CAN DO IT. - <strong>ARSENE WENGER</strong>
   </blockquote>
 
   {% for post in paginator.posts %}
-  {% capture modulo %}{{ forloop.index0 | mod:3 }}{% endcapture %}
+  {% capture modulo %}{{ forloop.index0 | mod:4 }}{% endcapture %}
 
   {% if modulo == '0' or forloop.first %}
      <div class="row">
    {% endif %}
 
-    <div class="col s12 m4">
+    <div class="col s12 m3">
       <div class="card hoverable">
         <div class="card-image">
-          <img src="{{ post.image }}">
+          <img class="activator responsive-img" src="{{ post.image }}">
           <span class="card-title">{{ post.title }}
           </span>
         </div>
         <div class="card-content">
+          <i class="activator material-icons right">more_vert</i>
           <p>{{post.content}}</p>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         <div class="card-action">
           <a href="{{ post.url | prepend: site.baseurl }}">Read more</a>
         </div>
+        <div class="card-reveal">
+          <span class="card-title grey-text text-darken-4">{{ post.title }}<i class="material-icons right">close</i></span>
+           <div class="video-container">
+          <iframe class="responsive-video" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+        </div>
       </div>
     </div>
-  {% if modulo == '2' or forloop.last %}
+  {% if modulo == '3' or forloop.last %}
      </div>
    {% endif %}
 
