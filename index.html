@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  
+
   {% for post in paginator.posts %}
   {% capture modulo %}{{ forloop.index0 | mod:4 }}{% endcapture %}
 
@@ -11,8 +11,8 @@ layout: default
      <div class="row">
    {% endif %}
 
-    <div class="col s12 m3">
-      <div class="card hoverable">
+    <div class="col s12 m6 l3">
+      <div class="card medium hoverable">
         <div class="card-image">
           <img class="activator responsive-img" src="{{ post.image }}">
           <span class="card-title">{{ post.title }}
