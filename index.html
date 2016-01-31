@@ -13,11 +13,12 @@ layout: default
       <div class="card medium hoverable">
         <div class="card-image">
           <img class="responsive-img" src="{{ post.image }}">
-          <span class="card-title">{{ post.title }}
+
+          <span class="card-title valign-wrapper">{{ post.title }}
+            <i class="activator small material-icons right">play_circle_outline</i>
           </span>
         </div>
         <div class="card-content">
-          <i class="activator small material-icons right">play_circle_outline</i>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         <div class="card-action">

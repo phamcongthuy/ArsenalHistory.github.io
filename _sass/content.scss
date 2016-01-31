@@ -21,11 +21,15 @@ body::after {
   .card-title {
     background-color: #EA323D;
     opacity: 25%;
-    width:100%;
+    width: 100%;
     opacity: 0.8;
   }
+
+  i {
+   cursor: pointer;
+ }
 }
 
-.card-content i{
-  cursor: pointer;
+.video-container {
+  margin-top: 10px;
 }
