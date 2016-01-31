@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FA Cup Winners"
-date:   1993-05-17 22:26:48 +0000
+date:   1993-05-17
 categories: premier-league
 image: "/assets/img/fa-cup-1993.jpg"
 ---

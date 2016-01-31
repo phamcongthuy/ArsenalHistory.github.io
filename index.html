@@ -4,12 +4,10 @@ layout: default
 
 <div class="home">
 
-  {% for post in paginator.posts %}
-  {% capture modulo %}{{ forloop.index0 | mod:4 }}{% endcapture %}
-
+  {% for post in paginator.posts %} {% capture modulo %}{{ forloop.index0 | mod:4 }}{% endcapture %}
   {% if modulo == '0' or forloop.first %}
-     <div class="row">
-   {% endif %}
+  <div class="row">
+    {% endif %}
 
     <div class="col s12 m6 l3">
       <div class="card medium hoverable">
@@ -19,8 +17,7 @@ layout: default
           </span>
         </div>
         <div class="card-content">
-          <i class="activator material-icons right">more_vert</i>
-          <p>{{post.content}}</p>
+          <i class="activator small material-icons right">play_circle_outline</i>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </div>
         <div class="card-action">
@@ -28,44 +25,31 @@ layout: default
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">{{ post.title }}<i class="material-icons right">close</i></span>
-           <div class="video-container">
-          <iframe class="responsive-video" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe>
-        </div>
+          <div class="video-container">
+            <iframe class="responsive-video" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
     </div>
-  {% if modulo == '3' or forloop.last %}
-     </div>
-   {% endif %}
-
- {% endfor %}
-
- {% if paginator.total_pages > 1 %}
- <ul class="pagination">
-   {% if paginator.previous_page %}
-      <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_left</i></a></li>
-   {% else %}
-      <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
-   {% endif %}
-
-   {% for page in (1..paginator.total_pages) %}
-     {% if page == paginator.page %}
-       <em>{{ page }}</em>
-     {% elsif page == 1 %}
-         <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
-     {% else %}
-     <li class="waves-effect"><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
-     {% endif %}
-   {% endfor %}
-
-   {% if paginator.next_page %}
-       <li class="waves-effect"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_right</i></a></li>
-   {% else %}
-      <li class="disabled"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
-   {% endif %}
- </ul>
- {% endif %}
-
-  {% include javascript.html %}
+    {% if modulo == '3' or forloop.last %}
+  </div>
+  {% endif %} {% endfor %} {% if paginator.total_pages > 1 %}
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+    <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_left</i></a></li>
+    {% else %}
+    <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+    {% endif %} {% for page in (1..paginator.total_pages) %} {% if page == paginator.page %}
+    <em>{{ page }}</em> {% elsif page == 1 %}
+    <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+    {% else %}
+    <li class="waves-effect"><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %} {% endfor %} {% if paginator.next_page %}
+    <li class="waves-effect"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_right</i></a></li>
+    {% else %}
+    <li class="disabled"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+    {% endif %}
+  </ul>
+  {% endif %} {% include javascript.html %}
 
 </div>

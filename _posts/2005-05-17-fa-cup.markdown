@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "FA Cup Winners"
-date:   2005-05-17 23:45:48 +0000
+date:   2005-05-17
 categories: fa-cup
 image: "/assets/img/fa-cup-2005.jpg"
 video: "https://www.youtube.com/embed/hZRhkwfhCVI"
