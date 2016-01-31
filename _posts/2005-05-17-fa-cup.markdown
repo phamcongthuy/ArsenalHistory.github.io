@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "FA Cup 2005 Winners"
+title:  "FA Cup Winners"
 date:   2005-05-17 23:45:48 +0000
-categories: jekyll update
+categories: fa-cup
 image: "/assets/img/fa-cup-2005.jpg"
 video: "https://www.youtube.com/embed/hZRhkwfhCVI"
 ---

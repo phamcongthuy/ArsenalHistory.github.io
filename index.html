@@ -43,9 +43,9 @@ layout: default
  {% if paginator.total_pages > 1 %}
  <ul class="pagination">
    {% if paginator.previous_page %}
-      <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">Previous</i></a></li>
+      <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_left</i></a></li>
    {% else %}
-      <li class="disabled"><a href="#!"><i class="material-icons">Previous</i></a></li>
+      <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
    {% endif %}
 
    {% for page in (1..paginator.total_pages) %}
@@ -59,9 +59,9 @@ layout: default
    {% endfor %}
 
    {% if paginator.next_page %}
-       <li class="waves-effect"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">Next</i></a></li>
+       <li class="waves-effect"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_right</i></a></li>
    {% else %}
-      <li class="disabled"><a href="#!"><i class="material-icons">Next</i></a></li>
+      <li class="disabled"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
    {% endif %}
  </ul>
  {% endif %}

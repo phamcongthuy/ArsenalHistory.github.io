@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "FA Cup 2014 Winners"
+title:  "FA Cup Winners"
 date:   2014-05-17 22:26:48 +0000
-categories: jekyll update
+categories: fa-cup
 image: "/assets/img/fa-cup-2014.jpg"
 video: "https://www.youtube.com/embed/7K5j4mMfBK0"
 ---

@@ -3,7 +3,8 @@
     <nav class="site-nav">
       <div class="trigger">
         <div class="logos">
-          {% include arsenal_1932.svg %}
+          <a href="/">{% include arsenal_1932.svg %}</a>
+          <!--<img src="/assets/img/facup-logo.png" />-->
         </div>
         {% for my_page in site.pages %} {% if my_page.title %}
         <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a> {% endif %} {% endfor %}

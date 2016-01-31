@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "FA Cup Winners"
+date:   1998-05-17 22:26:48 +0000
+categories: fa-cup
+image: "/assets/img/fa-cup-1998.jpg"
+---
