@@ -1,8 +1,22 @@
 ---
 layout: default
 ---
-
-<div class="home">
+<div class="row">
+  <div class="col s12 m6">
+    <div class="center promo promo-example card-panel">
+      {% include premier-league.svg %}
+      <p class="promo-caption">13 league titles</p>
+      <p class="light center">One of the most successful teams in England going unbeaten in 2003-04</p>
+    </div>
+  </div>
+  <div class="col s12 m6">
+    <div class="center promo promo-example card-panel">
+      <img src="/assets/img/emirates-fa-cup.jpg" />
+      <p class="promo-caption">12 FA Cup titles</p>
+      <p class="light center">The most successful team in FA Cup history</p>
+    </div>
+  </div>
+</div>
 
   {% for post in paginator.posts %} {% capture modulo %}{{ forloop.index0 | mod:4 }}{% endcapture %}
   {% if modulo == '0' or forloop.first %}
@@ -11,9 +25,8 @@ layout: default
 
     <div class="col s12 m6 l3">
       <div class="card medium hoverable">
-        <div class="card-image">
-          <img class="responsive-img" src="{{ post.image }}">
-
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="responsive-img activator" src="{{ post.image }}">
           <span class="card-title valign-wrapper">{{ post.title }}
             <i class="activator small material-icons right">play_circle_outline</i>
           </span>
@@ -52,5 +65,3 @@ layout: default
     {% endif %}
   </ul>
   {% endif %} {% include javascript.html %}
-
-</div>

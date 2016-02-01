@@ -1,16 +1,15 @@
 <header class="site-header">
-  <div class="wrapper">
-    <nav class="site-nav">
-      <div class="trigger">
-        <div class="logos">
-          <a href="/">{% include arsenal_1932.svg %}</a>
-          <a href="/">{% include arsenal.svg %}</a>
-          <a href="/">{% include arsenal-2002.svg %}</a>
-          <!--<img src="/assets/img/facup-logo.png" />-->
-        </div>
-        {% for my_page in site.pages %} {% if my_page.title %}
-        <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a> {% endif %} {% endfor %}
-      </div>
-    </nav>
-  </div>
+  <nav>
+   <div class="nav-wrapper logos">
+     <a href="/" class="brand-logo">{% include arsenal_1932.svg %}</a>
+     <ul id="nav-mobile" class="right hide-on-med-and-down">
+       <li><a href="/">History of Arsenal Football Club</a></li>
+       {% for my_page in site.pages %}
+       {% if my_page.title %}
+        <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a> </li>
+       {% endif %}
+       {% endfor %}
+     </ul>
+   </div>
+ </nav>
 </header>

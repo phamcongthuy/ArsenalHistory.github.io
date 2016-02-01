@@ -1,6 +1,9 @@
 .logos {
   svg {
-    height: 45px;
+    height: 35px;
+    @media only screen and (min-width: 601px) {
+      height: 45px;
+    }
     margin-left: 10px;
     margin-top: 10px;
   }
@@ -17,19 +20,33 @@ body::after {
   position: fixed;
   z-index: -1;
 }
-.card-image {
-  .card-title {
-    background-color: #EA323D;
-    opacity: 25%;
-    width: 100%;
-    opacity: 0.8;
+.card {
+  .card-image {
+    .card-title {
+      background-color: #EA323D;
+      width: 100%;
+      opacity: 0.8;
+      padding: 10px;
+    }
+    i {
+      cursor: pointer;
+    }
   }
-
-  i {
-   cursor: pointer;
- }
 }
-
 .video-container {
   margin-top: 10px;
+}
+h1 {
+  font-size: 3em;
+}
+.promo {
+  svg {
+    height: 70px;
+  }
+  img {
+    height: 70px;
+  }
+}
+main {
+  margin-top: 15px;
 }
