@@ -4,4 +4,5 @@ title:  "FA Cup Winners"
 date:   1998-05-17
 categories: fa-cup
 image: "/assets/img/fa-cup-1998.jpg"
+video: "https://www.youtube.com/embed/9pGtiVag3is"
 ---

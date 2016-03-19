@@ -4,4 +4,5 @@ title:  "FA Cup Winners"
 date:   2002-05-17
 categories: fa-cup
 image: "/assets/img/fa-cup-2002.jpg"
+video: "https://www.youtube.com/embed/WP_8O05dSgc"
 ---
