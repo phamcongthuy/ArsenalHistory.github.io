@@ -46,8 +46,8 @@ layout: default
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">{{ post.title }}<i class="material-icons right">close</i></span>
-          <div class="video-container" >
-            <iframe class="responsive-video" id="video_{{forloop.index}}" data-video="{{post.video}}" frameborder="0" allowfullscreen></iframe>
+          <div class="video-container" itemscope itemtype="http://schema.org/VideoObject">
+            <iframe class="responsive-video" itemprop="embedUrl" content="{{post.video}}" id="video_{{forloop.index}}" data-video="{{post.video}}" frameborder="0" allowfullscreen></iframe>
           </div>
         </div>
       </div>
