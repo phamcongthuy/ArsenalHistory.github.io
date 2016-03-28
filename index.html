@@ -32,10 +32,10 @@ layout: default
 
     <div class="col s12 m6 l3">
       <div class="card medium hoverable">
-        <div class="card-image waves-effect waves-block waves-light">
-          <img class="responsive-img activator" src="{{ post.image }}" onclick="ga('send', 'event', 'link', 'click', {{ post.title }})">
-          <span class="card-title activator valign-wrapper" onclick="ga('send', 'event', 'link', 'click', {{ post.title }})">{{ post.title }}
-            <i class="activator small material-icons right" onclick="ga('send', 'event', 'link', 'click', {{ post.title }})">play_circle_outline</i>
+        <div class="card-image waves-effect waves-block waves-light activator">
+          <img class="responsive-img activator" data-id="video_{{forloop.index}}" lsrc="{{ post.image }}" onclick="ga('send', 'event', 'link', 'click', '{{ post.title }}')" />
+          <span class="card-title activator valign-wrapper" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', {{ post.title }})">{{ post.title }}
+            <i class="activator small material-icons right" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', {{ post.title }})">play_circle_outline</i>
           </span>
         </div>
         <div class="card-content">
@@ -46,8 +46,8 @@ layout: default
         </div>
         <div class="card-reveal">
           <span class="card-title grey-text text-darken-4">{{ post.title }}<i class="material-icons right">close</i></span>
-          <div class="video-container">
-            <iframe class="responsive-video" src="{{ post.video }}" frameborder="0" allowfullscreen></iframe>
+          <div class="video-container" >
+            <iframe class="responsive-video" id="video_{{forloop.index}}" data-video="{{post.video}}" frameborder="0" allowfullscreen></iframe>
           </div>
         </div>
       </div>
