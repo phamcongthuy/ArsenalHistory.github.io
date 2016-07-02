@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://arsenalhistory.github.io" # the base hostname & protocol for your site
 
 gems: [jekyll-paginate]
-paginate: 6
+paginate: 8
 paginate_path: "/page:num"
 
 # Build settings
