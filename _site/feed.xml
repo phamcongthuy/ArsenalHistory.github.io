@@ -6,8 +6,8 @@
 </description>
     <link>http://arsenalhistory.github.io/</link>
     <atom:link href="http://arsenalhistory.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Jul 2016 19:07:46 +0100</pubDate>
-    <lastBuildDate>Sat, 02 Jul 2016 19:07:46 +0100</lastBuildDate>
+    <pubDate>Sat, 02 Jul 2016 20:34:12 +0100</pubDate>
+    <lastBuildDate>Sat, 02 Jul 2016 20:34:12 +0100</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -33,6 +33,32 @@
         
         
         <category>fa-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 5-2 spurs</title>
+        <description>
+</description>
+        <pubDate>Sat, 17 Nov 2012 00:00:00 +0000</pubDate>
+        <link>http://arsenalhistory.github.io/premier-league/2012/11/17/arsenal-5-2-spurs.html</link>
+        <guid isPermaLink="true">http://arsenalhistory.github.io/premier-league/2012/11/17/arsenal-5-2-spurs.html</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 5-2 spurs</title>
+        <description>
+</description>
+        <pubDate>Sun, 26 Feb 2012 00:00:00 +0000</pubDate>
+        <link>http://arsenalhistory.github.io/premier-league/2012/02/26/arsenal-5-2-spurs.html</link>
+        <guid isPermaLink="true">http://arsenalhistory.github.io/premier-league/2012/02/26/arsenal-5-2-spurs.html</guid>
+        
+        
+        <category>premier-league</category>
         
       </item>
     
@@ -108,32 +134,6 @@
         <pubDate>Sun, 17 May 1998 00:00:00 +0100</pubDate>
         <link>http://arsenalhistory.github.io/premier-league/1998/05/17/premier-league.html</link>
         <guid isPermaLink="true">http://arsenalhistory.github.io/premier-league/1998/05/17/premier-league.html</guid>
-        
-        
-        <category>premier-league</category>
-        
-      </item>
-    
-      <item>
-        <title>FA Cup Winners</title>
-        <description>
-</description>
-        <pubDate>Sun, 17 May 1998 00:00:00 +0100</pubDate>
-        <link>http://arsenalhistory.github.io/fa-cup/1998/05/17/fa-cup.html</link>
-        <guid isPermaLink="true">http://arsenalhistory.github.io/fa-cup/1998/05/17/fa-cup.html</guid>
-        
-        
-        <category>fa-cup</category>
-        
-      </item>
-    
-      <item>
-        <title>Cup Winners Cup</title>
-        <description>
-</description>
-        <pubDate>Tue, 17 May 1994 00:00:00 +0100</pubDate>
-        <link>http://arsenalhistory.github.io/premier-league/1994/05/17/cup-winners-cup.html</link>
-        <guid isPermaLink="true">http://arsenalhistory.github.io/premier-league/1994/05/17/cup-winners-cup.html</guid>
         
         
         <category>premier-league</category>
