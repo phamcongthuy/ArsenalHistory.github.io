@@ -50,3 +50,12 @@ h1 {
 main {
   margin-top: 15px;
 }
+
+ul {
+&.pagination{
+    margin-bottom: 0;
+    color: #000;
+    background-color: rgba(51,51,51,0.08);
+
+  }
+}
