@@ -32,6 +32,18 @@ body::after {
       cursor: pointer;
     }
   }
+
+  &.medium{
+  
+      .card-content{
+        max-height: 100%;
+      }
+  }
+
+  .card-content{
+    padding: 10px;
+    max-height: 100%;
+  }
 }
 .video-container {
   margin-top: 10px;
@@ -58,4 +70,8 @@ ul {
     background-color: rgba(51,51,51,0.08);
 
   }
+}
+
+img.responsive-img{
+  height: 200px;
 }
