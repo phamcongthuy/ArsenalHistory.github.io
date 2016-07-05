@@ -5,4 +5,5 @@ date:   1993-05-17
 categories: premier-league
 image: "/assets/img/fa-cup-1993.jpg"
 video: "https://www.youtube.com/embed/Dh8555moM_s"
+summary: "Andy Linighan was the hero in extra time for Arsenal as he scored the crucial header to win Arsenal the FA Cup."
 ---
