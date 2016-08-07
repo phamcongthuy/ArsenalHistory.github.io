@@ -6,5 +6,5 @@ categories: fa-cup
 image: "/assets/img/fa-cup-1993.jpg"
 video: "https://www.youtube.com/embed/Dh8555moM_s"
 summary: "Andy Linighan was the hero in extra time for Arsenal as he scored the crucial header to win Arsenal the FA Cup."
-url: 1993/arsenal-2-1-sheffield-wednesday
+permalink: 1993/arsenal-2-1-sheffield-wednesday
 ---

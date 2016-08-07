@@ -6,5 +6,5 @@ categories: premier-league
 image: "/assets/img/premier-league-1998.jpg"
 video: "https://www.youtube.com/embed/V1z6L_Lb620"
 summary: "A comfortable victory for Arsenal gave Arsene Wenger his first trophy for Arsenal. An own goal frim Bilic and a double from Overmars set Arsenal on their way before the captain Tony Adams sealed the 4-0 victory"
-url: 1998/arsenal-4-0-everton
+permalink: 1998/arsenal-4-0-everton
 ---
