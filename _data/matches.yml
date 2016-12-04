@@ -2,19 +2,19 @@
   date:   1989-05-17
   categories: premier-league
   image: "/assets/img/league-1989.jpg"
-  video: "https://www.youtube.com/embed/bQmO3S2eLPE"
+  video: "bQmO3S2eLPE"
 
 - title:  "League Winners"
   date:   1991-05-17
   categories: premier-league
   image: "/assets/img/league-1991.jpg"
-  video: "https://www.youtube.com/embed/25p7i78zuWE"
+  video: "25p7i78zuWE"
 
 - title:  "FA Cup Winners"
   date:   1993-05-17
   categories: premier-league
   image: "/assets/img/fa-cup-1993.jpg"
-  video: "https://www.youtube.com/embed/Dh8555moM_s"
+  video: "Dh8555moM_s"
 
 - layout: post
   title:  "League Cup Winners"
@@ -26,58 +26,58 @@
   date:   1994-05-17
   categories: premier-league
   image: "/assets/img/cup-winners-cup-1994.jpg"
-  video: "https://www.youtube.com/embed/UQDULgLXwBs"
+  video: "UQDULgLXwBs"
 
 - title:  "FA Cup Winners"
   date:   1998-05-17
   categories: fa-cup
   image: "/assets/img/fa-cup-1998.jpg"
-  video: "https://www.youtube.com/embed/9pGtiVag3is"
+  video: "9pGtiVag3is"
 
 - title:  "League Winners"
   date:   1998-05-17
   categories: premier-league
   image: "/assets/img/premier-league-1998.jpg"
-  video: "https://www.youtube.com/embed/V1z6L_Lb620"
+  video: "V1z6L_Lb620"
 
 - title:  "FA Cup Winners"
   date:   2002-05-17
   categories: fa-cup
   image: "/assets/img/fa-cup-2002.jpg"
-  video: "https://www.youtube.com/embed/WP_8O05dSgc"
+  video: "WP_8O05dSgc"
 
 - title:  "League Winners"
   date:   2002-05-17
   categories: premier-league
   image: "/assets/img/premier-league-2002.jpg"
-  video: "https://www.youtube.com/embed/hRDJNoax8p8"
+  video: "hRDJNoax8p8"
 
 - title:  "FA Cup Winners"
   date:   2003-05-17
   categories: fa-cup
   image: "/assets/img/fa-cup-2003.jpg"
-  video: "https://www.youtube.com/embed/oRGiMoRforg"
+  video: "oRGiMoRforg"
 
 - title:  "The Invincibles"
   date:   2004-05-15
   categories: premier-league
   image: "/assets/img/invincibles.jpg"
-  video: "https://www.youtube.com/embed/4kkiCdpvY9M"
+  video: "4kkiCdpvY9M"
 
 - title:  "FA Cup Winners"
   date:   2005-05-17
   categories: fa-cup
   image: "/assets/img/fa-cup-2005.jpg"
-  video: "https://www.youtube.com/embed/hZRhkwfhCVI"
+  video: "hZRhkwfhCVI"
 
 - title:  "FA Cup Winners"
   date:   2014-05-17
   categories: fa-cup
   image: "/assets/img/fa-cup-2014.jpg"
-  video: "https://www.youtube.com/embed/7K5j4mMfBK0"
+  video: "7K5j4mMfBK0"
 
 - title:  "FA Cup Winners"
   date:   2015-05-30
   categories: fa-cup
   image: "/assets/img/fa-cup-2015.jpg"
-  video: "https://www.youtube.com/embed/YWZ6RoKkPLE"
+  video: "YWZ6RoKkPLE"

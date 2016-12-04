@@ -4,7 +4,7 @@ title:  "FA Cup Winners"
 date:   2003-05-17
 categories: fa-cup
 image: "/assets/img/fa-cup-2003.jpg"
-video: "https://www.youtube.com/embed/oRGiMoRforg"
+video: "oRGiMoRforg"
 summary: "Arsenal beat southampton 1-0 to secure their 9th FA Cup. An early Robert Pires goal secured the cup."
 permalink: 2003/arsenal-1-0-southampton/
 ---
