@@ -6,8 +6,8 @@
 </description>
     <link>http://arsenalhistory.github.io/</link>
     <atom:link href="http://arsenalhistory.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 21:25:26 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 21:25:26 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 21:33:11 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 21:33:11 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -95,6 +95,18 @@
       </item>
     
       <item>
+        <title>Everton 4-1 Arsenal</title>
+        <description>Arsenal start the defence of their title with a convincing win over Everton</description>
+        <pubDate>Sun, 15 Aug 2004 00:00:00 +0100</pubDate>
+        <link>http://arsenalhistory.github.io/2004/everton-4-1-arsenal</link>
+        <guid isPermaLink="true">http://arsenalhistory.github.io/2004/everton-4-1-arsenal</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
         <title>The Invincibles</title>
         <description>Arsenal became the first team to win the Premier League unbeaten. Goals from Thierry Henry and Patrick Vieira secured the win over Leicester City.</description>
         <pubDate>Sat, 15 May 2004 00:00:00 +0100</pubDate>
@@ -115,18 +127,6 @@
         
         
         <category>premier-league</category>
-        
-      </item>
-    
-      <item>
-        <title>FA Cup Winners</title>
-        <description>Arsenal beat southampton 1-0 to secure their 9th FA Cup. An early Robert Pires goal secured the cup.</description>
-        <pubDate>Sat, 17 May 2003 00:00:00 +0100</pubDate>
-        <link>http://arsenalhistory.github.io/2003/arsenal-1-0-southampton/</link>
-        <guid isPermaLink="true">http://arsenalhistory.github.io/2003/arsenal-1-0-southampton/</guid>
-        
-        
-        <category>fa-cup</category>
         
       </item>
     
