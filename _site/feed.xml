@@ -6,8 +6,8 @@
 </description>
     <link>http://arsenalhistory.github.io/</link>
     <atom:link href="http://arsenalhistory.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Dec 2016 20:48:24 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Dec 2016 20:48:24 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Dec 2016 21:07:29 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Dec 2016 21:07:29 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -107,6 +107,18 @@
       </item>
     
       <item>
+        <title>Leeds 1-4 Arsenal</title>
+        <description>Arsenal sweep past Leeds with an outstanding attacking display</description>
+        <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+        <link>http://arsenalhistory.github.io/2003/leeds-1-4-arsenal/</link>
+        <guid isPermaLink="true">http://arsenalhistory.github.io/2003/leeds-1-4-arsenal/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
         <title>FA Cup Winners</title>
         <description>Arsenal beat southampton 1-0 to secure their 9th FA Cup. An early Robert Pires goal secured the cup.</description>
         <pubDate>Sat, 17 May 2003 00:00:00 +0100</pubDate>
@@ -115,18 +127,6 @@
         
         
         <category>fa-cup</category>
-        
-      </item>
-    
-      <item>
-        <title>Leeds 1-4 Arsenal</title>
-        <description>A Double from Kanu gave Arsenal a comprehensive 1-4 victory over Leeds United.</description>
-        <pubDate>Sat, 28 Sep 2002 00:00:00 +0100</pubDate>
-        <link>http://arsenalhistory.github.io/2002/leeds-1-4-arsenal/</link>
-        <guid isPermaLink="true">http://arsenalhistory.github.io/2002/leeds-1-4-arsenal/</guid>
-        
-        
-        <category>premier-league</category>
         
       </item>
     
