@@ -3,7 +3,7 @@
    <div class="nav-wrapper logos">
      <a href="/" class="brand-logo">{% include arsenal_1932.svg %}</a>
      <ul id="nav-mobile" class="right hide-on-med-and-down">
-       <li><a href="/">History of Arsenal Football Club</a></li>
+       <li><a href="/"><h1>History of Arsenal Football Club</h1></a></li>
        {% for my_page in site.pages %}
        {% if my_page.title %}
         <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a> </li>

@@ -11,7 +11,7 @@ layout: default
   </div>
   <div class="col s12 m4">
     <div class="center promo promo-example card-panel">
-      <img src="/assets/img/emirates-fa-cup.jpg" />
+      <img src="/assets/img/emirates-fa-cup.jpg" alt="FA cup logo" />
       <p class="promo-caption">12 FA Cup titles</p>
       <p class="light center">One of the most successful teams in FA Cup history</p>
     </div>
@@ -31,7 +31,7 @@ layout: default
     <div class="col s12 m6 l3">
       <div class="card medium hoverable">
         <div class="card-image waves-effect waves-block waves-light activator">
-          <img class="responsive-img activator" data-id="video_{{forloop.index}}" lsrc="https://img.youtube.com/vi/{{post.video}}/0.jpg" onclick="ga('send', 'event', 'link', 'click', '{{ post.title }}')" />
+          <img class="responsive-img activator" data-id="video_{{forloop.index}}" data-src="https://img.youtube.com/vi/{{post.video}}/0.jpg" onclick="ga('send', 'event', 'link', 'click', '{{ post.title }}')" alt="{{ post.title }}" />
           <span class="card-title activator valign-wrapper" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', '{{ post.title }}')">{{ post.title }}
             <i class="activator small material-icons right" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', '{{ post.title }}')">play_circle_outline</i>
           </span>

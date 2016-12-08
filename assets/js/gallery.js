@@ -1,6 +1,6 @@
 $(document)
     .ready(function() {
-      $('.responsive-img[lsrc]')
+      $('.responsive-img[data-src]')
           .each(function() { $(this)
-                                 .attr('src', $(this).attr('lsrc')); });
+                                 .attr('src', $(this).data('src')); });
     });
