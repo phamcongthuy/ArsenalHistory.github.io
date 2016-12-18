@@ -11,7 +11,7 @@ email: hemdagem@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A history of all the famous moments for the Arsenal Football Club. A record 12 FA Cup wins. Going unbeaten in 2003/2004 which immortalised the club.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://arsenalhistory.github.io" # the base hostname & protocol for your site
+url: "https://arsenalhistory.github.io" # the base hostname & protocol for your site
 
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 8
