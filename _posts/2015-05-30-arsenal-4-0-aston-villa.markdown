@@ -1,0 +1,9 @@
+---
+layout: post
+header: FA Cup Winners
+date:   2015-05-30
+categories: fa-cup
+video: "YWZ6RoKkPLE"
+summary: "Arsenal win the FA Cup for a record 12 times, punishing Aston Villa 4-0. A wonder goal from Alexis Sanchez put Arsenal in command after Theo Walcott's opener. Per Mertesacker and Olivier Giroud completed the rout."
+title: arsenal-4-0-aston-villa
+---

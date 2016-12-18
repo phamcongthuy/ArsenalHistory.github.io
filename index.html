@@ -31,9 +31,9 @@ layout: default
     <div class="col s12 m6 l3">
       <div class="card medium hoverable">
         <div class="card-image waves-effect waves-block waves-light activator">
-          <img class="responsive-img activator" data-id="video_{{forloop.index}}" data-src="https://img.youtube.com/vi/{{post.video}}/0.jpg" onclick="ga('send', 'event', 'link', 'click', '{{ post.title }}')" alt="{{ post.title }}" />
-          <span class="card-title activator valign-wrapper" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', '{{ post.title }}')">{{ post.title }}
-            <i class="activator small material-icons right" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', '{{ post.title }}')">play_circle_outline</i>
+          <img class="responsive-img activator" data-id="video_{{forloop.index}}" data-src="https://img.youtube.com/vi/{{post.video}}/0.jpg" onclick="ga('send', 'event', 'link', 'click', '{{ post.header }}')" alt="{{ post.header }}" />
+          <span class="card-title activator valign-wrapper" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', '{{ post.header }}')">{{ post.header }}
+            <i class="activator small material-icons right" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', '{{ post.header }}')">play_circle_outline</i>
           </span>
         </div>
         <div class="card-content">
@@ -41,7 +41,7 @@ layout: default
           <p>{{post.summary}}</p>
         </div>
         <div class="card-reveal">
-          <span class="card-title grey-text text-darken-4">{{ post.title }}<i class="material-icons right">close</i></span>
+          <span class="card-title grey-text text-darken-4">{{ post.header }}<i class="material-icons right">close</i></span>
           <div class="video-container">
             <iframe class="responsive-video" content="https://www.youtube.com/embed/{{post.video}}" id="video_{{forloop.index}}" data-video="https://www.youtube.com/embed/{{post.video}}" frameborder="0" allowfullscreen></iframe>
           </div>

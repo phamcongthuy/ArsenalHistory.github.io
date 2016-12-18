@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<ul>
+ {% for test in site.data.season.2016-2017 %}
+<li>
+
+    {{ test.ArsenalScore | plus : test.ArsenalScore }}
+
+{{test.Competition}}
+</li>
+{% endfor %}
+</ul>

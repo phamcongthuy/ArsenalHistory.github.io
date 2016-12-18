@@ -1,9 +1,0 @@
----
-layout: post
-title:  "League Winners"
-date:   1989-05-17
-categories: premier-league
-video: "bQmO3S2eLPE"
-summary: "The most memorable league victory for Arsenal as they needed to win by two clear goals at Anfield against the Champions Liverpool. Michael Thomas scored in injury time to give Arsenal a 2-0 win after Alan Smith opened the scoring."
-permalink: 1989/liverpool-0-2-arsenal/
----

@@ -1,0 +1,9 @@
+---
+layout: post
+header: FA Cup Winners
+date:   2002-05-17
+categories: fa-cup
+video: "WP_8O05dSgc"
+summary: "Stunning goals from Ray Parlour and Freddie Ljungberg gave Arsenal a 2-0 victory over Chelsea. That was Arsenal's 8th FA Cup victory."
+title: arsenal-2-0-chelsea
+---

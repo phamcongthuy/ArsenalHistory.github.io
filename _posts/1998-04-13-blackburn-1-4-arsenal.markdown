@@ -5,5 +5,5 @@ date: 1998-04-13
 categories: premier-league
 video: TWTNSsqG2uk
 summary: Arsenal brushed aside title rivals Blackburn with a scintillating first half display.
-permalink: 1998/blackburn-1-4-arsenal/
+title: blackburn-1-4-arsenal
 ---
