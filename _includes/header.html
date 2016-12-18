@@ -1,15 +1,19 @@
 <header class="site-header">
   <nav>
-   <div class="nav-wrapper logos">
-     <a href="/" class="brand-logo">{% include arsenal_1932.svg %}</a>
-     <ul id="nav-mobile" class="right hide-on-med-and-down">
-       <li><a href="/">History of Arsenal Football Club</a></li>
-       {% for my_page in site.pages %}
-       {% if my_page.title %}
-        <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a> </li>
-       {% endif %}
-       {% endfor %}
-     </ul>
-   </div>
- </nav>
+    <div class="nav-wrapper logos">
+      <a href="/" class="brand-logo">{% include arsenal_1932.svg %}</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="/">History of Arsenal Football Club</a></li>
+        <li><a href="/season/2016-2017">2016-2017</a></li>
+        <a class='dropdown-button btn' href='#' data-activates='dropdown1'>Drop Me!</a>
+
+        <!-- Dropdown Structure -->
+        <ul id='dropdown1' class='dropdown-content'>
+           {% for data in site.data.season %}
+          <li><a href="/season/{{data.url}}">one</a></li>
+           {% endfor %}
+        </ul>
+      </ul>
+    </div>
+  </nav>
 </header>
