@@ -5,14 +5,15 @@
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="/">History of Arsenal Football Club</a></li>
         <li><a href="/season/2016-2017">2016-2017</a></li>
-        <a class='dropdown-button btn' href='#' data-activates='dropdown1'>Drop Me!</a>
-
-        <!-- Dropdown Structure -->
-        <ul id='dropdown1' class='dropdown-content'>
-           {% for data in site.data.season %}
-          <li><a href="/season/{{data.url}}">one</a></li>
-           {% endfor %}
-        </ul>
+        <li> <a class='dropdown-button btn' href='#' data-activates='dropdown3'>Choose Season</a>
+          <!-- Dropdown Structure -->
+          <ul id='dropdown3' class='dropdown-content'>
+            {% for org_hash in site.data.season %} 
+            {% assign data = org_hash[1] %}
+            <li><a href="/season/{{ data.Season }}/">{{ data.Season }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
       </ul>
     </div>
   </nav>

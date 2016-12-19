@@ -1,456 +1,457 @@
-- Competition : Community Shield
-  Date : 2004-08-08 15:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Man Utd
-  ArsenalScore : 3
+Season : 2004-2005
+Matches :
+ - Competition : Community Shield
+   Date : 2004-08-08 15:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Man Utd
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2004-08-15 14:00
-  HomeTeam : Everton
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : Premiership
+   Date : 2004-08-15 14:00
+   HomeTeam : Everton
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : Premiership
-  Date : 2004-08-22 16:05
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 3
-  AwayTeam : Middlesbro
-  ArsenalScore : 5
+ - Competition : Premiership
+   Date : 2004-08-22 16:05
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 3
+   AwayTeam : Middlesbro
+   ArsenalScore : 5
 
-- Competition : Premiership
-  Date : 2004-08-25 19:45
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Blackburn
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2004-08-25 19:45
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Blackburn
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2004-08-28 00:00
-  HomeTeam : Norwich
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : Premiership
+   Date : 2004-08-28 00:00
+   HomeTeam : Norwich
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : Premiership
-  Date : 2004-09-11 15:00
-  HomeTeam : Fulham
-  HomeScore : 0
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2004-09-11 15:00
+   HomeTeam : Fulham
+   HomeScore : 0
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2004-09-14 19:45
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : PSV Eindhoven
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2004-09-14 19:45
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : PSV Eindhoven
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2004-09-18 12:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Bolton
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2004-09-18 12:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Bolton
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2004-09-25 15:00
-  HomeTeam : Man City
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2004-09-25 15:00
+   HomeTeam : Man City
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2004-09-29 19:45
-  HomeTeam : Rosenborg
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2004-09-29 19:45
+   HomeTeam : Rosenborg
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2004-10-02 15:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Charlton
-  ArsenalScore : 4
+ - Competition : Premiership
+   Date : 2004-10-02 15:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Charlton
+   ArsenalScore : 4
 
-- Competition : Premiership
-  Date : 2004-10-16 15:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Aston Villa
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2004-10-16 15:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Aston Villa
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2004-10-20 19:45
-  HomeTeam : Panathinaikos
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2004-10-20 19:45
+   HomeTeam : Panathinaikos
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2004-10-24 16:05
-  HomeTeam : Man Utd
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premiership
+   Date : 2004-10-24 16:05
+   HomeTeam : Man Utd
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Carling Cup
-  Date : 2004-10-27 19:45
-  HomeTeam : Man City
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Carling Cup
+   Date : 2004-10-27 19:45
+   HomeTeam : Man City
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2004-10-30 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Southampton
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2004-10-30 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Southampton
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2004-11-02 19:45
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Panathinaikos
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2004-11-02 19:45
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Panathinaikos
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2004-11-06 17:15
-  HomeTeam : C Palace
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2004-11-06 17:15
+   HomeTeam : C Palace
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Carling Cup
-  Date : 2004-11-09 19:45
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Everton
-  ArsenalScore : 3
+ - Competition : Carling Cup
+   Date : 2004-11-09 19:45
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Everton
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2004-11-13 12:00
-  HomeTeam : Tottenham
-  HomeScore : 4
-  AwayScore : 5
-  AwayTeam : Arsenal
-  ArsenalScore : 5
+ - Competition : Premiership
+   Date : 2004-11-13 12:00
+   HomeTeam : Tottenham
+   HomeScore : 4
+   AwayScore : 5
+   AwayTeam : Arsenal
+   ArsenalScore : 5
 
-- Competition : Premiership
-  Date : 2004-11-20 15:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : West Brom
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2004-11-20 15:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : West Brom
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2004-11-24 19:45
-  HomeTeam : PSV Eindhoven
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2004-11-24 19:45
+   HomeTeam : PSV Eindhoven
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2004-11-28 16:05
-  HomeTeam : Liverpool
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2004-11-28 16:05
+   HomeTeam : Liverpool
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Carling Cup
-  Date : 2004-12-01 19:45
-  HomeTeam : Man Utd
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Carling Cup
+   Date : 2004-12-01 19:45
+   HomeTeam : Man Utd
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premiership
-  Date : 2004-12-04 15:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Birmingham
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2004-12-04 15:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Birmingham
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2004-12-07 19:45
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 1
-  AwayTeam : Rosenborg
-  ArsenalScore : 5
+ - Competition : Champions League
+   Date : 2004-12-07 19:45
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 1
+   AwayTeam : Rosenborg
+   ArsenalScore : 5
 
-- Competition : Premiership
-  Date : 2004-12-12 16:05
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Chelsea
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2004-12-12 16:05
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Chelsea
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2004-12-19 16:05
-  HomeTeam : Portsmouth
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2004-12-19 16:05
+   HomeTeam : Portsmouth
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2004-12-26 13:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Fulham
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2004-12-26 13:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Fulham
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2004-12-29 20:00
-  HomeTeam : Newcastle
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2004-12-29 20:00
+   HomeTeam : Newcastle
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2005-01-01 15:00
-  HomeTeam : Charlton
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2005-01-01 15:00
+   HomeTeam : Charlton
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2005-01-04 19:45
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Man City
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2005-01-04 19:45
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Man City
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 2005-01-09 14:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Stoke
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 2005-01-09 14:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Stoke
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2005-01-15 17:15
-  HomeTeam : Bolton
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premiership
+   Date : 2005-01-15 17:15
+   HomeTeam : Bolton
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premiership
-  Date : 2005-01-23 16:05
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Newcastle
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2005-01-23 16:05
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Newcastle
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 2005-01-29 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Wolves
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 2005-01-29 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Wolves
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2005-02-01 20:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 4
-  AwayTeam : Man Utd
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2005-02-01 20:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 4
+   AwayTeam : Man Utd
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2005-02-05 17:15
-  HomeTeam : Aston Villa
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2005-02-05 17:15
+   HomeTeam : Aston Villa
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2005-02-14 20:00
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 1
-  AwayTeam : C Palace
-  ArsenalScore : 5
+ - Competition : Premiership
+   Date : 2005-02-14 20:00
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 1
+   AwayTeam : C Palace
+   ArsenalScore : 5
 
-- Competition : English FA Cup
-  Date : 2005-02-19 12:30
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Sheff Utd
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 2005-02-19 12:30
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Sheff Utd
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2005-02-22 19:45
-  HomeTeam : B Munich
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2005-02-22 19:45
+   HomeTeam : B Munich
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2005-02-26 12:45
-  HomeTeam : Southampton
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2005-02-26 12:45
+   HomeTeam : Southampton
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 2005-03-01 20:05
-  HomeTeam : Sheff Utd
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English FA Cup
+   Date : 2005-03-01 20:05
+   HomeTeam : Sheff Utd
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premiership
-  Date : 2005-03-05 15:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Portsmouth
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2005-03-05 15:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Portsmouth
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2005-03-09 19:45
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : B Munich
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2005-03-09 19:45
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : B Munich
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 2005-03-12 12:15
-  HomeTeam : Bolton
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 2005-03-12 12:15
+   HomeTeam : Bolton
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2005-03-19 12:45
-  HomeTeam : Blackburn
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2005-03-19 12:45
+   HomeTeam : Blackburn
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2005-04-02 15:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Norwich
-  ArsenalScore : 4
+ - Competition : Premiership
+   Date : 2005-04-02 15:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Norwich
+   ArsenalScore : 4
 
-- Competition : Premiership
-  Date : 2005-04-09 15:00
-  HomeTeam : Middlesbro
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2005-04-09 15:00
+   HomeTeam : Middlesbro
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 2005-04-16 12:15
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Blackburn
-  ArsenalScore : 3
+ - Competition : English FA Cup
+   Date : 2005-04-16 12:15
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Blackburn
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2005-04-20 20:00
-  HomeTeam : Chelsea
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premiership
+   Date : 2005-04-20 20:00
+   HomeTeam : Chelsea
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premiership
-  Date : 2005-04-25 20:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Tottenham
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2005-04-25 20:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Tottenham
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2005-05-02 20:00
-  HomeTeam : West Brom
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2005-05-02 20:00
+   HomeTeam : West Brom
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2005-05-08 16:05
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Liverpool
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2005-05-08 16:05
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Liverpool
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2005-05-11 20:00
-  HomeTeam : Arsenal
-  HomeScore : 7
-  AwayScore : 0
-  AwayTeam : Everton
-  ArsenalScore : 7
+ - Competition : Premiership
+   Date : 2005-05-11 20:00
+   HomeTeam : Arsenal
+   HomeScore : 7
+   AwayScore : 0
+   AwayTeam : Everton
+   ArsenalScore : 7
 
-- Competition : Premiership
-  Date : 2005-05-15 15:00
-  HomeTeam : Birmingham
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2005-05-15 15:00
+   HomeTeam : Birmingham
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 2005-05-21 15:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Man Utd
-  ArsenalScore : 0
-
+ - Competition : English FA Cup
+   Date : 2005-05-21 15:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Man Utd
+   ArsenalScore : 0

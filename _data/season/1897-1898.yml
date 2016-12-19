@@ -1,248 +1,249 @@
-- Competition : English Div 2 (old)
-  Date : 1897-09-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Grimsby
-  ArsenalScore : 4
+Season : 1897-1898
+Matches :
+ - Competition : English Div 2 (old)
+   Date : 1897-09-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Grimsby
+   ArsenalScore : 4
 
-- Competition : English Div 2 (old)
-  Date : 1897-09-04 00:00
-  HomeTeam : Newcastle
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 2 (old)
+   Date : 1897-09-04 00:00
+   HomeTeam : Newcastle
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 2 (old)
-  Date : 1897-09-06 00:00
-  HomeTeam : Burnley
-  HomeScore : 5
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 2 (old)
+   Date : 1897-09-06 00:00
+   HomeTeam : Burnley
+   HomeScore : 5
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 2 (old)
-  Date : 1897-09-11 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Lincoln
-  ArsenalScore : 2
+ - Competition : English Div 2 (old)
+   Date : 1897-09-11 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Lincoln
+   ArsenalScore : 2
 
-- Competition : English Div 2 (old)
-  Date : 1897-09-18 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Gainsborough
-  ArsenalScore : 4
+ - Competition : English Div 2 (old)
+   Date : 1897-09-18 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Gainsborough
+   ArsenalScore : 4
 
-- Competition : English Div 2 (old)
-  Date : 1897-09-25 00:00
-  HomeTeam : Man City
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 2 (old)
+   Date : 1897-09-25 00:00
+   HomeTeam : Man City
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 2 (old)
-  Date : 1897-10-02 00:00
-  HomeTeam : Luton
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 2 (old)
+   Date : 1897-10-02 00:00
+   HomeTeam : Luton
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 2 (old)
-  Date : 1897-10-09 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Luton
-  ArsenalScore : 3
+ - Competition : English Div 2 (old)
+   Date : 1897-10-09 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Luton
+   ArsenalScore : 3
 
-- Competition : English Div 2 (old)
-  Date : 1897-10-16 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Newcastle
-  ArsenalScore : 0
+ - Competition : English Div 2 (old)
+   Date : 1897-10-16 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Newcastle
+   ArsenalScore : 0
 
-- Competition : English Div 2 (old)
-  Date : 1897-10-23 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 3
-  AwayTeam : Leicester
-  ArsenalScore : 0
+ - Competition : English Div 2 (old)
+   Date : 1897-10-23 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 3
+   AwayTeam : Leicester
+   ArsenalScore : 0
 
-- Competition : English Div 2 (old)
-  Date : 1897-11-06 00:00
-  HomeTeam : Walsall
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 2 (old)
+   Date : 1897-11-06 00:00
+   HomeTeam : Walsall
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 2 (old)
-  Date : 1897-11-13 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Walsall
-  ArsenalScore : 4
+ - Competition : English Div 2 (old)
+   Date : 1897-11-13 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Walsall
+   ArsenalScore : 4
 
-- Competition : English Div 2 (old)
-  Date : 1897-11-27 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Blackpool
-  ArsenalScore : 2
+ - Competition : English Div 2 (old)
+   Date : 1897-11-27 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Blackpool
+   ArsenalScore : 2
 
-- Competition : English Div 2 (old)
-  Date : 1897-12-04 00:00
-  HomeTeam : Leicester
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 2 (old)
+   Date : 1897-12-04 00:00
+   HomeTeam : Leicester
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 2 (old)
-  Date : 1897-12-18 00:00
-  HomeTeam : Loughbr'gh Dy
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 2 (old)
+   Date : 1897-12-18 00:00
+   HomeTeam : Loughbr'gh Dy
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 2 (old)
-  Date : 1897-12-27 00:00
-  HomeTeam : Lincoln
-  HomeScore : 2
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 2 (old)
+   Date : 1897-12-27 00:00
+   HomeTeam : Lincoln
+   HomeScore : 2
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 2 (old)
-  Date : 1898-01-01 00:00
-  HomeTeam : Blackpool
-  HomeScore : 3
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 2 (old)
+   Date : 1898-01-01 00:00
+   HomeTeam : Blackpool
+   HomeScore : 3
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 2 (old)
-  Date : 1898-01-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 1
-  AwayTeam : Man Utd
-  ArsenalScore : 5
+ - Competition : English Div 2 (old)
+   Date : 1898-01-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 1
+   AwayTeam : Man Utd
+   ArsenalScore : 5
 
-- Competition : English Div 2 (old)
-  Date : 1898-01-15 00:00
-  HomeTeam : Burton United
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 2 (old)
+   Date : 1898-01-15 00:00
+   HomeTeam : Burton United
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English FA Cup
-  Date : 1898-01-29 00:00
-  HomeTeam : Burnley
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1898-01-29 00:00
+   HomeTeam : Burnley
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 2 (old)
-  Date : 1898-02-05 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Man City
-  ArsenalScore : 2
+ - Competition : English Div 2 (old)
+   Date : 1898-02-05 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Man City
+   ArsenalScore : 2
 
-- Competition : English Div 2 (old)
-  Date : 1898-02-12 00:00
-  HomeTeam : Grimsby
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : English Div 2 (old)
+   Date : 1898-02-12 00:00
+   HomeTeam : Grimsby
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : English Div 2 (old)
-  Date : 1898-02-26 00:00
-  HomeTeam : Man Utd
-  HomeScore : 5
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 2 (old)
+   Date : 1898-02-26 00:00
+   HomeTeam : Man Utd
+   HomeScore : 5
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 2 (old)
-  Date : 1898-03-05 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Birmingham
-  ArsenalScore : 4
+ - Competition : English Div 2 (old)
+   Date : 1898-03-05 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Birmingham
+   ArsenalScore : 4
 
-- Competition : English Div 2 (old)
-  Date : 1898-03-12 00:00
-  HomeTeam : Darwen
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : English Div 2 (old)
+   Date : 1898-03-12 00:00
+   HomeTeam : Darwen
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : English Div 2 (old)
-  Date : 1898-03-19 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Loughbr'gh Dy
-  ArsenalScore : 4
+ - Competition : English Div 2 (old)
+   Date : 1898-03-19 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Loughbr'gh Dy
+   ArsenalScore : 4
 
-- Competition : English Div 2 (old)
-  Date : 1898-03-26 00:00
-  HomeTeam : Gainsborough
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 2 (old)
+   Date : 1898-03-26 00:00
+   HomeTeam : Gainsborough
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 2 (old)
-  Date : 1898-04-02 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Burnley
-  ArsenalScore : 1
+ - Competition : English Div 2 (old)
+   Date : 1898-04-02 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Burnley
+   ArsenalScore : 1
 
-- Competition : English Div 2 (old)
-  Date : 1898-04-09 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Darwen
-  ArsenalScore : 3
+ - Competition : English Div 2 (old)
+   Date : 1898-04-09 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Darwen
+   ArsenalScore : 3
 
-- Competition : English Div 2 (old)
-  Date : 1898-04-11 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Burton United
-  ArsenalScore : 3
+ - Competition : English Div 2 (old)
+   Date : 1898-04-11 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Burton United
+   ArsenalScore : 3
 
-- Competition : English Div 2 (old)
-  Date : 1898-04-23 00:00
-  HomeTeam : Birmingham
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
-
+ - Competition : English Div 2 (old)
+   Date : 1898-04-23 00:00
+   HomeTeam : Birmingham
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1

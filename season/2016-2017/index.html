@@ -16,13 +16,15 @@ title: Season 2016-2017
                 </tr>
             </thead>
             <tbody>
-                {% for data in site.data.season.2016-2017 %}
+                {% for data in site.data.season.2016-2017.Matches %}
                 <tr>
                     <td>{{data.HomeTeam}} {{data.HomeScore}} - {{data.AwayScore}} {{data.AwayTeam}} </td>
                     <td>{{data.Competition}}</td>
                     <td>{{data.Date}}</td>
+                    <td>{{data.Season}}</td>
                 </tr>
                 {% endfor %}
+
             </tbody>
         </table>
     </div>

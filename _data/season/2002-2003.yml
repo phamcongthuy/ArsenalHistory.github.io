@@ -1,472 +1,473 @@
-- Competition : Community Shield
-  Date : 2002-08-11 14:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Liverpool
-  ArsenalScore : 1
+Season : 2002-2003
+Matches :
+ - Competition : Community Shield
+   Date : 2002-08-11 14:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Liverpool
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2002-08-18 16:05
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Birmingham
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2002-08-18 16:05
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Birmingham
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2002-08-24 15:00
-  HomeTeam : West Ham
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2002-08-24 15:00
+   HomeTeam : West Ham
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2002-08-27 20:00
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 2
-  AwayTeam : West Brom
-  ArsenalScore : 5
+ - Competition : Premiership
+   Date : 2002-08-27 20:00
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 2
+   AwayTeam : West Brom
+   ArsenalScore : 5
 
-- Competition : Premiership
-  Date : 2002-09-01 16:05
-  HomeTeam : Chelsea
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2002-09-01 16:05
+   HomeTeam : Chelsea
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2002-09-10 20:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Man City
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2002-09-10 20:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Man City
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2002-09-14 15:00
-  HomeTeam : Charlton
-  HomeScore : 0
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2002-09-14 15:00
+   HomeTeam : Charlton
+   HomeScore : 0
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2002-09-17 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : B Dortmund
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2002-09-17 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : B Dortmund
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2002-09-21 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Bolton
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2002-09-21 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Bolton
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2002-09-25 19:45
-  HomeTeam : PSV Eindhoven
-  HomeScore : 0
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : Champions League
+   Date : 2002-09-25 19:45
+   HomeTeam : PSV Eindhoven
+   HomeScore : 0
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : Premiership
-  Date : 2002-09-28 12:00
-  HomeTeam : Leeds
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : Premiership
+   Date : 2002-09-28 12:00
+   HomeTeam : Leeds
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : Champions League
-  Date : 2002-10-02 19:45
-  HomeTeam : Auxerre
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2002-10-02 19:45
+   HomeTeam : Auxerre
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2002-10-06 14:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Sunderland
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2002-10-06 14:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Sunderland
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2002-10-19 15:00
-  HomeTeam : Everton
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2002-10-19 15:00
+   HomeTeam : Everton
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2002-10-22 19:45
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Auxerre
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2002-10-22 19:45
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Auxerre
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2002-10-26 15:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Blackburn
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2002-10-26 15:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Blackburn
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2002-10-30 19:45
-  HomeTeam : B Dortmund
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2002-10-30 19:45
+   HomeTeam : B Dortmund
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2002-11-03 14:00
-  HomeTeam : Fulham
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2002-11-03 14:00
+   HomeTeam : Fulham
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English League Cup
-  Date : 2002-11-06 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 3
-  AwayTeam : Sunderland
-  ArsenalScore : 2
+ - Competition : English League Cup
+   Date : 2002-11-06 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 3
+   AwayTeam : Sunderland
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2002-11-09 15:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Newcastle
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2002-11-09 15:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Newcastle
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2002-11-12 19:45
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : PSV Eindhoven
-  ArsenalScore : 0
+ - Competition : Champions League
+   Date : 2002-11-12 19:45
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : PSV Eindhoven
+   ArsenalScore : 0
 
-- Competition : Premiership
-  Date : 2002-11-16 15:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Tottenham
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2002-11-16 15:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Tottenham
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2002-11-23 15:00
-  HomeTeam : Southampton
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2002-11-23 15:00
+   HomeTeam : Southampton
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2002-11-27 19:45
-  HomeTeam : Roma
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Champions League
+   Date : 2002-11-27 19:45
+   HomeTeam : Roma
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2002-11-30 15:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Aston Villa
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2002-11-30 15:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Aston Villa
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2002-12-07 12:15
-  HomeTeam : Man Utd
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premiership
+   Date : 2002-12-07 12:15
+   HomeTeam : Man Utd
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Champions League
-  Date : 2002-12-10 19:45
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Valencia
-  ArsenalScore : 0
+ - Competition : Champions League
+   Date : 2002-12-10 19:45
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Valencia
+   ArsenalScore : 0
 
-- Competition : Premiership
-  Date : 2002-12-15 14:00
-  HomeTeam : Tottenham
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2002-12-15 14:00
+   HomeTeam : Tottenham
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2002-12-21 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Middlesbro
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2002-12-21 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Middlesbro
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2002-12-26 14:00
-  HomeTeam : West Brom
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2002-12-26 14:00
+   HomeTeam : West Brom
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2002-12-29 16:05
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Liverpool
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2002-12-29 16:05
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Liverpool
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2003-01-01 15:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Chelsea
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2003-01-01 15:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Chelsea
+   ArsenalScore : 3
 
-- Competition : English FA Cup
-  Date : 2003-01-04 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Oxford
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 2003-01-04 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Oxford
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2003-01-12 16:05
-  HomeTeam : Birmingham
-  HomeScore : 0
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : Premiership
+   Date : 2003-01-12 16:05
+   HomeTeam : Birmingham
+   HomeScore : 0
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : Premiership
-  Date : 2003-01-19 14:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : West Ham
-  ArsenalScore : 3
+ - Competition : Premiership
+   Date : 2003-01-19 14:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : West Ham
+   ArsenalScore : 3
 
-- Competition : English FA Cup
-  Date : 2003-01-25 15:00
-  HomeTeam : Farnborough
-  HomeScore : 1
-  AwayScore : 5
-  AwayTeam : Arsenal
-  ArsenalScore : 5
+ - Competition : English FA Cup
+   Date : 2003-01-25 15:00
+   HomeTeam : Farnborough
+   HomeScore : 1
+   AwayScore : 5
+   AwayTeam : Arsenal
+   ArsenalScore : 5
 
-- Competition : Premiership
-  Date : 2003-01-29 20:00
-  HomeTeam : Liverpool
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2003-01-29 20:00
+   HomeTeam : Liverpool
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2003-02-01 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Fulham
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2003-02-01 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Fulham
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2003-02-09 16:05
-  HomeTeam : Newcastle
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2003-02-09 16:05
+   HomeTeam : Newcastle
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 2003-02-15 12:15
-  HomeTeam : Man Utd
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 2003-02-15 12:15
+   HomeTeam : Man Utd
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2003-02-18 19:45
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Ajax
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2003-02-18 19:45
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Ajax
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2003-02-22 15:00
-  HomeTeam : Man City
-  HomeScore : 1
-  AwayScore : 5
-  AwayTeam : Arsenal
-  ArsenalScore : 5
+ - Competition : Premiership
+   Date : 2003-02-22 15:00
+   HomeTeam : Man City
+   HomeScore : 1
+   AwayScore : 5
+   AwayTeam : Arsenal
+   ArsenalScore : 5
 
-- Competition : Champions League
-  Date : 2003-02-26 19:45
-  HomeTeam : Ajax
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Champions League
+   Date : 2003-02-26 19:45
+   HomeTeam : Ajax
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premiership
-  Date : 2003-03-02 12:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Charlton
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2003-03-02 12:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Charlton
+   ArsenalScore : 2
 
-- Competition : English FA Cup
-  Date : 2003-03-08 17:15
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Chelsea
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 2003-03-08 17:15
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Chelsea
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2003-03-11 19:45
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Roma
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2003-03-11 19:45
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Roma
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2003-03-15 15:00
-  HomeTeam : Blackburn
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premiership
+   Date : 2003-03-15 15:00
+   HomeTeam : Blackburn
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Champions League
-  Date : 2003-03-19 19:45
-  HomeTeam : Valencia
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2003-03-19 19:45
+   HomeTeam : Valencia
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2003-03-23 16:05
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Everton
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2003-03-23 16:05
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Everton
+   ArsenalScore : 2
 
-- Competition : English FA Cup
-  Date : 2003-03-25 19:45
-  HomeTeam : Chelsea
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English FA Cup
+   Date : 2003-03-25 19:45
+   HomeTeam : Chelsea
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premiership
-  Date : 2003-04-05 15:00
-  HomeTeam : Aston Villa
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premiership
+   Date : 2003-04-05 15:00
+   HomeTeam : Aston Villa
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 2003-04-13 13:30
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Sheff Utd
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 2003-04-13 13:30
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Sheff Utd
+   ArsenalScore : 1
 
-- Competition : Premiership
-  Date : 2003-04-16 20:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Man Utd
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2003-04-16 20:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Man Utd
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2003-04-19 15:00
-  HomeTeam : Middlesbro
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2003-04-19 15:00
+   HomeTeam : Middlesbro
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2003-04-26 12:30
-  HomeTeam : Bolton
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2003-04-26 12:30
+   HomeTeam : Bolton
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2003-05-04 16:05
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 3
-  AwayTeam : Leeds
-  ArsenalScore : 2
+ - Competition : Premiership
+   Date : 2003-05-04 16:05
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 3
+   AwayTeam : Leeds
+   ArsenalScore : 2
 
-- Competition : Premiership
-  Date : 2003-05-07 19:45
-  HomeTeam : Arsenal
-  HomeScore : 6
-  AwayScore : 1
-  AwayTeam : Southampton
-  ArsenalScore : 6
+ - Competition : Premiership
+   Date : 2003-05-07 19:45
+   HomeTeam : Arsenal
+   HomeScore : 6
+   AwayScore : 1
+   AwayTeam : Southampton
+   ArsenalScore : 6
 
-- Competition : Premiership
-  Date : 2003-05-11 15:00
-  HomeTeam : Sunderland
-  HomeScore : 0
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : Premiership
+   Date : 2003-05-11 15:00
+   HomeTeam : Sunderland
+   HomeScore : 0
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : English FA Cup
-  Date : 2003-05-17 15:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Southampton
-  ArsenalScore : 1
-
+ - Competition : English FA Cup
+   Date : 2003-05-17 15:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Southampton
+   ArsenalScore : 1

@@ -1,392 +1,393 @@
-- Competition : English Div 1 (old)
-  Date : 1949-08-20 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Burnley
-  ArsenalScore : 0
+Season : 1949-1950
+Matches :
+ - Competition : English Div 1 (old)
+   Date : 1949-08-20 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Burnley
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1949-08-24 00:00
-  HomeTeam : Chelsea
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-08-24 00:00
+   HomeTeam : Chelsea
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-08-27 00:00
-  HomeTeam : Sunderland
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-08-27 00:00
+   HomeTeam : Sunderland
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-08-31 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 3
-  AwayTeam : Chelsea
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-08-31 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 3
+   AwayTeam : Chelsea
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-09-03 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Liverpool
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1949-09-03 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Liverpool
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1949-09-07 00:00
-  HomeTeam : West Brom
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-09-07 00:00
+   HomeTeam : West Brom
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-09-10 00:00
-  HomeTeam : Huddersfield
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-09-10 00:00
+   HomeTeam : Huddersfield
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-09-14 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : West Brom
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1949-09-14 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : West Brom
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1949-09-17 00:00
-  HomeTeam : Bolton
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-09-17 00:00
+   HomeTeam : Bolton
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-09-24 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Birmingham
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1949-09-24 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Birmingham
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1949-10-01 00:00
-  HomeTeam : Derby
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-10-01 00:00
+   HomeTeam : Derby
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-10-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 2
-  AwayTeam : Everton
-  ArsenalScore : 5
+ - Competition : English Div 1 (old)
+   Date : 1949-10-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 2
+   AwayTeam : Everton
+   ArsenalScore : 5
 
-- Competition : English Div 1 (old)
-  Date : 1949-10-15 00:00
-  HomeTeam : Middlesbro
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1949-10-15 00:00
+   HomeTeam : Middlesbro
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1949-10-22 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Blackpool
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1949-10-22 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Blackpool
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1949-10-29 00:00
-  HomeTeam : Newcastle
-  HomeScore : 0
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1949-10-29 00:00
+   HomeTeam : Newcastle
+   HomeScore : 0
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1949-11-05 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Fulham
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-11-05 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Fulham
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-11-12 00:00
-  HomeTeam : Man City
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-11-12 00:00
+   HomeTeam : Man City
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-11-19 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 3
-  AwayTeam : Charlton
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1949-11-19 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 3
+   AwayTeam : Charlton
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1949-11-26 00:00
-  HomeTeam : Aston Villa
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1949-11-26 00:00
+   HomeTeam : Aston Villa
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1949-12-03 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Wolves
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1949-12-03 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Wolves
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1949-12-10 00:00
-  HomeTeam : Portsmouth
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1949-12-10 00:00
+   HomeTeam : Portsmouth
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1949-12-17 00:00
-  HomeTeam : Burnley
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1949-12-17 00:00
+   HomeTeam : Burnley
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1949-12-24 00:00
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 0
-  AwayTeam : Sunderland
-  ArsenalScore : 5
+ - Competition : English Div 1 (old)
+   Date : 1949-12-24 00:00
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 0
+   AwayTeam : Sunderland
+   ArsenalScore : 5
 
-- Competition : English Div 1 (old)
-  Date : 1949-12-26 00:00
-  HomeTeam : Man Utd
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1949-12-26 00:00
+   HomeTeam : Man Utd
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1949-12-27 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Man Utd
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1949-12-27 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Man Utd
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1949-12-31 00:00
-  HomeTeam : Liverpool
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1949-12-31 00:00
+   HomeTeam : Liverpool
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 1950-01-07 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Sheff Wed
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1950-01-07 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Sheff Wed
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1950-01-14 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Huddersfield
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1950-01-14 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Huddersfield
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1950-01-21 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Bolton
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1950-01-21 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Bolton
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1950-01-28 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Swansea
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 1950-01-28 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Swansea
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1950-02-04 00:00
-  HomeTeam : Birmingham
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1950-02-04 00:00
+   HomeTeam : Birmingham
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1950-02-11 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Burnley
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 1950-02-11 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Burnley
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1950-02-18 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Derby
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1950-02-18 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Derby
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1950-02-25 00:00
-  HomeTeam : Everton
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1950-02-25 00:00
+   HomeTeam : Everton
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1950-03-04 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Leeds
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1950-03-04 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Leeds
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1950-03-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Middlesbro
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1950-03-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Middlesbro
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1950-03-11 00:00
-  HomeTeam : Charlton
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1950-03-11 00:00
+   HomeTeam : Charlton
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1950-03-18 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Chelsea
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 1950-03-18 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Chelsea
+   ArsenalScore : 2
 
-- Competition : English FA Cup
-  Date : 1950-03-22 00:00
-  HomeTeam : Chelsea
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1950-03-22 00:00
+   HomeTeam : Chelsea
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1950-03-25 00:00
-  HomeTeam : Fulham
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1950-03-25 00:00
+   HomeTeam : Fulham
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1950-03-29 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Aston Villa
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1950-03-29 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Aston Villa
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1950-04-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Man City
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1950-04-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Man City
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1950-04-08 00:00
-  HomeTeam : Blackpool
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1950-04-08 00:00
+   HomeTeam : Blackpool
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1950-04-10 00:00
-  HomeTeam : Arsenal
-  HomeScore : 6
-  AwayScore : 0
-  AwayTeam : Stoke
-  ArsenalScore : 6
+ - Competition : English Div 1 (old)
+   Date : 1950-04-10 00:00
+   HomeTeam : Arsenal
+   HomeScore : 6
+   AwayScore : 0
+   AwayTeam : Stoke
+   ArsenalScore : 6
 
-- Competition : English Div 1 (old)
-  Date : 1950-04-15 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Newcastle
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1950-04-15 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Newcastle
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1950-04-22 00:00
-  HomeTeam : Wolves
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1950-04-22 00:00
+   HomeTeam : Wolves
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 1950-04-29 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Liverpool
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 1950-04-29 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Liverpool
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1950-05-03 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Portsmouth
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1950-05-03 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Portsmouth
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1950-05-06 00:00
-  HomeTeam : Stoke
-  HomeScore : 2
-  AwayScore : 5
-  AwayTeam : Arsenal
-  ArsenalScore : 5
-
+ - Competition : English Div 1 (old)
+   Date : 1950-05-06 00:00
+   HomeTeam : Stoke
+   HomeScore : 2
+   AwayScore : 5
+   AwayTeam : Arsenal
+   ArsenalScore : 5

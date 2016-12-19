@@ -1,448 +1,449 @@
-- Competition : Premier League
-  Date : 2013-08-17 15:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Aston Villa
-  ArsenalScore : 1
+Season : 2013-2014
+Matches :
+ - Competition : Premier League
+   Date : 2013-08-17 15:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Aston Villa
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2013-08-21 19:45
-  HomeTeam : Fenerbahce
-  HomeScore : 0
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Champions League
+   Date : 2013-08-21 19:45
+   HomeTeam : Fenerbahce
+   HomeScore : 0
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2013-08-24 12:45
-  HomeTeam : Fulham
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2013-08-24 12:45
+   HomeTeam : Fulham
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2013-08-27 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Fenerbahce
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2013-08-27 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Fenerbahce
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2013-09-01 16:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Tottenham
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2013-09-01 16:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Tottenham
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2013-09-14 15:00
-  HomeTeam : Sunderland
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2013-09-14 15:00
+   HomeTeam : Sunderland
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2013-09-18 19:45
-  HomeTeam : Marseille
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2013-09-18 19:45
+   HomeTeam : Marseille
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2013-09-22 13:30
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Stoke
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2013-09-22 13:30
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Stoke
+   ArsenalScore : 3
 
-- Competition : Capital One Cup
-  Date : 2013-09-25 20:00
-  HomeTeam : West Brom
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Capital One Cup
+   Date : 2013-09-25 20:00
+   HomeTeam : West Brom
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2013-09-28 17:30
-  HomeTeam : Swansea
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2013-09-28 17:30
+   HomeTeam : Swansea
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2013-10-01 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Napoli
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2013-10-01 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Napoli
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2013-10-06 16:00
-  HomeTeam : West Brom
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2013-10-06 16:00
+   HomeTeam : West Brom
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2013-10-19 15:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Norwich
-  ArsenalScore : 4
+ - Competition : Premier League
+   Date : 2013-10-19 15:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Norwich
+   ArsenalScore : 4
 
-- Competition : Champions League
-  Date : 2013-10-22 19:45
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : B Dortmund
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2013-10-22 19:45
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : B Dortmund
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2013-10-26 12:45
-  HomeTeam : C Palace
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2013-10-26 12:45
+   HomeTeam : C Palace
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Capital One Cup
-  Date : 2013-10-29 19:45
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Chelsea
-  ArsenalScore : 0
+ - Competition : Capital One Cup
+   Date : 2013-10-29 19:45
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Chelsea
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2013-11-02 17:30
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Liverpool
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2013-11-02 17:30
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Liverpool
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2013-11-06 19:45
-  HomeTeam : B Dortmund
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2013-11-06 19:45
+   HomeTeam : B Dortmund
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2013-11-10 16:10
-  HomeTeam : Man Utd
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2013-11-10 16:10
+   HomeTeam : Man Utd
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2013-11-23 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Southampton
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2013-11-23 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Southampton
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2013-11-26 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Marseille
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2013-11-26 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Marseille
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2013-11-30 15:00
-  HomeTeam : Cardiff
-  HomeScore : 0
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2013-11-30 15:00
+   HomeTeam : Cardiff
+   HomeScore : 0
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2013-12-04 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Hull
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2013-12-04 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Hull
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2013-12-08 16:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Everton
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2013-12-08 16:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Everton
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2013-12-11 19:45
-  HomeTeam : Napoli
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Champions League
+   Date : 2013-12-11 19:45
+   HomeTeam : Napoli
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2013-12-14 12:45
-  HomeTeam : Man City
-  HomeScore : 6
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2013-12-14 12:45
+   HomeTeam : Man City
+   HomeScore : 6
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2013-12-23 20:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Chelsea
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2013-12-23 20:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Chelsea
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2013-12-26 15:00
-  HomeTeam : West Ham
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2013-12-26 15:00
+   HomeTeam : West Ham
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2013-12-29 13:30
-  HomeTeam : Newcastle
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2013-12-29 13:30
+   HomeTeam : Newcastle
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2014-01-01 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Cardiff
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2014-01-01 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Cardiff
+   ArsenalScore : 2
 
-- Competition : English FA Cup
-  Date : 2014-01-04 17:15
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Tottenham
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 2014-01-04 17:15
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Tottenham
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2014-01-13 20:00
-  HomeTeam : Aston Villa
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2014-01-13 20:00
+   HomeTeam : Aston Villa
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2014-01-18 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Fulham
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2014-01-18 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Fulham
+   ArsenalScore : 2
 
-- Competition : English FA Cup
-  Date : 2014-01-24 19:45
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Coventry
-  ArsenalScore : 4
+ - Competition : English FA Cup
+   Date : 2014-01-24 19:45
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Coventry
+   ArsenalScore : 4
 
-- Competition : Premier League
-  Date : 2014-01-28 19:45
-  HomeTeam : Southampton
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2014-01-28 19:45
+   HomeTeam : Southampton
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2014-02-02 16:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : C Palace
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2014-02-02 16:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : C Palace
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2014-02-08 12:45
-  HomeTeam : Liverpool
-  HomeScore : 5
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2014-02-08 12:45
+   HomeTeam : Liverpool
+   HomeScore : 5
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2014-02-12 19:45
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Man Utd
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2014-02-12 19:45
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Man Utd
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 2014-02-16 16:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Liverpool
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 2014-02-16 16:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Liverpool
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2014-02-19 19:45
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : B Munich
-  ArsenalScore : 0
+ - Competition : Champions League
+   Date : 2014-02-19 19:45
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : B Munich
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2014-02-22 15:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Sunderland
-  ArsenalScore : 4
+ - Competition : Premier League
+   Date : 2014-02-22 15:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Sunderland
+   ArsenalScore : 4
 
-- Competition : Premier League
-  Date : 2014-03-01 15:00
-  HomeTeam : Stoke
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2014-03-01 15:00
+   HomeTeam : Stoke
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 2014-03-08 12:45
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Everton
-  ArsenalScore : 4
+ - Competition : English FA Cup
+   Date : 2014-03-08 12:45
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Everton
+   ArsenalScore : 4
 
-- Competition : Champions League
-  Date : 2014-03-11 19:45
-  HomeTeam : B Munich
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2014-03-11 19:45
+   HomeTeam : B Munich
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2014-03-16 16:00
-  HomeTeam : Tottenham
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2014-03-16 16:00
+   HomeTeam : Tottenham
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2014-03-22 12:45
-  HomeTeam : Chelsea
-  HomeScore : 6
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2014-03-22 12:45
+   HomeTeam : Chelsea
+   HomeScore : 6
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2014-03-25 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Swansea
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2014-03-25 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Swansea
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2014-03-29 17:30
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Man City
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2014-03-29 17:30
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Man City
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2014-04-06 13:30
-  HomeTeam : Everton
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2014-04-06 13:30
+   HomeTeam : Everton
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 2014-04-12 17:07
-  HomeTeam : Wigan
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 2014-04-12 17:07
+   HomeTeam : Wigan
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2014-04-15 19:45
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : West Ham
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2014-04-15 19:45
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : West Ham
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2014-04-20 14:05
-  HomeTeam : Hull
-  HomeScore : 0
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2014-04-20 14:05
+   HomeTeam : Hull
+   HomeScore : 0
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2014-04-28 20:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Newcastle
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2014-04-28 20:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Newcastle
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2014-05-04 13:30
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : West Brom
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2014-05-04 13:30
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : West Brom
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2014-05-11 15:00
-  HomeTeam : Norwich
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2014-05-11 15:00
+   HomeTeam : Norwich
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English FA Cup
-  Date : 2014-05-17 17:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Hull
-  ArsenalScore : 3
-
+ - Competition : English FA Cup
+   Date : 2014-05-17 17:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Hull
+   ArsenalScore : 3

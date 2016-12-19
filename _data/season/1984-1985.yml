@@ -1,384 +1,385 @@
-- Competition : English Div 1 (old)
-  Date : 1984-08-25 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Chelsea
-  ArsenalScore : 1
+Season : 1984-1985
+Matches :
+ - Competition : English Div 1 (old)
+   Date : 1984-08-25 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Chelsea
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1984-08-29 00:00
-  HomeTeam : Nottm Forest
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1984-08-29 00:00
+   HomeTeam : Nottm Forest
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1984-09-01 00:00
-  HomeTeam : Watford
-  HomeScore : 3
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1984-09-01 00:00
+   HomeTeam : Watford
+   HomeScore : 3
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1984-09-04 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Newcastle
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1984-09-04 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Newcastle
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1984-09-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Liverpool
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1984-09-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Liverpool
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1984-09-15 00:00
-  HomeTeam : Ipswich
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1984-09-15 00:00
+   HomeTeam : Ipswich
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1984-09-22 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Stoke
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1984-09-22 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Stoke
+   ArsenalScore : 4
 
-- Competition : English League Cup
-  Date : 1984-09-25 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Bristol R
-  ArsenalScore : 4
+ - Competition : English League Cup
+   Date : 1984-09-25 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Bristol R
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1984-09-29 00:00
-  HomeTeam : Coventry
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1984-09-29 00:00
+   HomeTeam : Coventry
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1984-10-06 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Everton
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1984-10-06 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Everton
+   ArsenalScore : 1
 
-- Competition : English League Cup
-  Date : 1984-10-09 00:00
-  HomeTeam : Bristol R
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English League Cup
+   Date : 1984-10-09 00:00
+   HomeTeam : Bristol R
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1984-10-13 00:00
-  HomeTeam : Leicester
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1984-10-13 00:00
+   HomeTeam : Leicester
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1984-10-20 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Sunderland
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1984-10-20 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Sunderland
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1984-10-27 00:00
-  HomeTeam : West Ham
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1984-10-27 00:00
+   HomeTeam : West Ham
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English League Cup
-  Date : 1984-10-31 00:00
-  HomeTeam : Oxford
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English League Cup
+   Date : 1984-10-31 00:00
+   HomeTeam : Oxford
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1984-11-02 00:00
-  HomeTeam : Man Utd
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1984-11-02 00:00
+   HomeTeam : Man Utd
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1984-11-10 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Aston Villa
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1984-11-10 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Aston Villa
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1984-11-17 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : QPR
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1984-11-17 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : QPR
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1984-11-25 00:00
-  HomeTeam : Sheff Wed
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1984-11-25 00:00
+   HomeTeam : Sheff Wed
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1984-12-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Luton
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1984-12-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Luton
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1984-12-08 00:00
-  HomeTeam : Southampton
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1984-12-08 00:00
+   HomeTeam : Southampton
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1984-12-15 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : West Brom
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1984-12-15 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : West Brom
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1984-12-22 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Watford
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1984-12-22 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Watford
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1984-12-26 00:00
-  HomeTeam : Norwich
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1984-12-26 00:00
+   HomeTeam : Norwich
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1984-12-29 00:00
-  HomeTeam : Newcastle
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1984-12-29 00:00
+   HomeTeam : Newcastle
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1985-01-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Tottenham
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1985-01-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Tottenham
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1985-01-05 00:00
-  HomeTeam : Hereford
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1985-01-05 00:00
+   HomeTeam : Hereford
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1985-01-19 00:00
-  HomeTeam : Chelsea
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1985-01-19 00:00
+   HomeTeam : Chelsea
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1985-01-21 00:00
-  HomeTeam : Arsenal
-  HomeScore : 7
-  AwayScore : 2
-  AwayTeam : Hereford
-  ArsenalScore : 7
+ - Competition : English FA Cup
+   Date : 1985-01-21 00:00
+   HomeTeam : Arsenal
+   HomeScore : 7
+   AwayScore : 2
+   AwayTeam : Hereford
+   ArsenalScore : 7
 
-- Competition : English FA Cup
-  Date : 1985-01-26 00:00
-  HomeTeam : York
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English FA Cup
+   Date : 1985-01-26 00:00
+   HomeTeam : York
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1985-02-02 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Coventry
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1985-02-02 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Coventry
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1985-02-12 00:00
-  HomeTeam : Liverpool
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1985-02-12 00:00
+   HomeTeam : Liverpool
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1985-02-23 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Man Utd
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1985-02-23 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Man Utd
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1985-03-02 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : West Ham
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1985-03-02 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : West Ham
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1985-03-09 00:00
-  HomeTeam : Sunderland
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1985-03-09 00:00
+   HomeTeam : Sunderland
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1985-03-13 00:00
-  HomeTeam : Aston Villa
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1985-03-13 00:00
+   HomeTeam : Aston Villa
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1985-03-16 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Leicester
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1985-03-16 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Leicester
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1985-03-19 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Ipswich
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1985-03-19 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Ipswich
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1985-03-23 00:00
-  HomeTeam : Everton
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1985-03-23 00:00
+   HomeTeam : Everton
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1985-03-30 00:00
-  HomeTeam : Stoke
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1985-03-30 00:00
+   HomeTeam : Stoke
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1985-04-06 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Norwich
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1985-04-06 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Norwich
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1985-04-13 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Nottm Forest
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1985-04-13 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Nottm Forest
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1985-04-17 00:00
-  HomeTeam : Tottenham
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1985-04-17 00:00
+   HomeTeam : Tottenham
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1985-04-20 00:00
-  HomeTeam : QPR
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1985-04-20 00:00
+   HomeTeam : QPR
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1985-04-27 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Sheff Wed
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1985-04-27 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Sheff Wed
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1985-05-04 00:00
-  HomeTeam : Luton
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1985-05-04 00:00
+   HomeTeam : Luton
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1985-05-06 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Southampton
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1985-05-06 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Southampton
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1985-05-11 00:00
-  HomeTeam : West Brom
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
-
+ - Competition : English Div 1 (old)
+   Date : 1985-05-11 00:00
+   HomeTeam : West Brom
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2

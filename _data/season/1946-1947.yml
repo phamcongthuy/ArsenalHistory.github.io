@@ -1,360 +1,361 @@
-- Competition : English Div 1 (old)
-  Date : 1946-08-31 00:00
-  HomeTeam : Wolves
-  HomeScore : 6
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+Season : 1946-1947
+Matches :
+ - Competition : English Div 1 (old)
+   Date : 1946-08-31 00:00
+   HomeTeam : Wolves
+   HomeScore : 6
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1946-09-04 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Blackburn
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1946-09-04 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Blackburn
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1946-09-07 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Sunderland
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-09-07 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Sunderland
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-09-11 00:00
-  HomeTeam : Everton
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-09-11 00:00
+   HomeTeam : Everton
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-09-14 00:00
-  HomeTeam : Aston Villa
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-09-14 00:00
+   HomeTeam : Aston Villa
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-09-17 00:00
-  HomeTeam : Blackburn
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-09-17 00:00
+   HomeTeam : Blackburn
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-09-21 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Derby
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1946-09-21 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Derby
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1946-09-28 00:00
-  HomeTeam : Man Utd
-  HomeScore : 5
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-09-28 00:00
+   HomeTeam : Man Utd
+   HomeScore : 5
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-10-05 00:00
-  HomeTeam : Blackpool
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1946-10-05 00:00
+   HomeTeam : Blackpool
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1946-10-12 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Brentford
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-10-12 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Brentford
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-10-19 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Stoke
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1946-10-19 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Stoke
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1946-10-26 00:00
-  HomeTeam : Chelsea
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1946-10-26 00:00
+   HomeTeam : Chelsea
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1946-11-02 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 3
-  AwayTeam : Sheff Utd
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-11-02 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 3
+   AwayTeam : Sheff Utd
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-11-09 00:00
-  HomeTeam : Preston
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1946-11-09 00:00
+   HomeTeam : Preston
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1946-11-16 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Leeds
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1946-11-16 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Leeds
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1946-11-23 00:00
-  HomeTeam : Liverpool
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-11-23 00:00
+   HomeTeam : Liverpool
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-11-30 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Bolton
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-11-30 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Bolton
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-12-07 00:00
-  HomeTeam : Middlesbro
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1946-12-07 00:00
+   HomeTeam : Middlesbro
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1946-12-14 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Charlton
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1946-12-14 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Charlton
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1946-12-21 00:00
-  HomeTeam : Grimsby
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1946-12-21 00:00
+   HomeTeam : Grimsby
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1946-12-25 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Portsmouth
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-12-25 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Portsmouth
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-12-26 00:00
-  HomeTeam : Portsmouth
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1946-12-26 00:00
+   HomeTeam : Portsmouth
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1946-12-28 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Wolves
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1946-12-28 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Wolves
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-01-04 00:00
-  HomeTeam : Sunderland
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1947-01-04 00:00
+   HomeTeam : Sunderland
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : English FA Cup
-  Date : 1947-01-11 00:00
-  HomeTeam : Chelsea
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1947-01-11 00:00
+   HomeTeam : Chelsea
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1947-01-15 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Chelsea
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1947-01-15 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Chelsea
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-01-18 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Aston Villa
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1947-01-18 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Aston Villa
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 1947-01-20 00:00
-  HomeTeam : Chelsea
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English FA Cup
+   Date : 1947-01-20 00:00
+   HomeTeam : Chelsea
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1947-02-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 6
-  AwayScore : 2
-  AwayTeam : Man Utd
-  ArsenalScore : 6
+ - Competition : English Div 1 (old)
+   Date : 1947-02-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 6
+   AwayScore : 2
+   AwayTeam : Man Utd
+   ArsenalScore : 6
 
-- Competition : English Div 1 (old)
-  Date : 1947-02-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Blackpool
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1947-02-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Blackpool
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-02-22 00:00
-  HomeTeam : Stoke
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1947-02-22 00:00
+   HomeTeam : Stoke
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-03-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Chelsea
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1947-03-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Chelsea
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-03-15 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Preston
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1947-03-15 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Preston
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1947-03-22 00:00
-  HomeTeam : Leeds
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1947-03-22 00:00
+   HomeTeam : Leeds
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-04-04 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Huddersfield
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1947-04-04 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Huddersfield
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-04-05 00:00
-  HomeTeam : Bolton
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1947-04-05 00:00
+   HomeTeam : Bolton
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1947-04-07 00:00
-  HomeTeam : Huddersfield
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1947-04-07 00:00
+   HomeTeam : Huddersfield
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1947-04-12 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Middlesbro
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1947-04-12 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Middlesbro
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1947-04-19 00:00
-  HomeTeam : Charlton
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1947-04-19 00:00
+   HomeTeam : Charlton
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1947-04-26 00:00
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 3
-  AwayTeam : Grimsby
-  ArsenalScore : 5
+ - Competition : English Div 1 (old)
+   Date : 1947-04-26 00:00
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 3
+   AwayTeam : Grimsby
+   ArsenalScore : 5
 
-- Competition : English Div 1 (old)
-  Date : 1947-05-10 00:00
-  HomeTeam : Derby
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1947-05-10 00:00
+   HomeTeam : Derby
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-05-24 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Liverpool
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1947-05-24 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Liverpool
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-05-26 00:00
-  HomeTeam : Brentford
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1947-05-26 00:00
+   HomeTeam : Brentford
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1947-05-31 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Everton
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1947-05-31 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Everton
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1947-06-07 00:00
-  HomeTeam : Sheff Utd
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
-
+ - Competition : English Div 1 (old)
+   Date : 1947-06-07 00:00
+   HomeTeam : Sheff Utd
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1

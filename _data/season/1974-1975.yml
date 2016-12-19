@@ -1,416 +1,417 @@
-- Competition : English Div 1 (old)
-  Date : 1974-08-17 00:00
-  HomeTeam : Leicester
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+Season : 1974-1975
+Matches :
+ - Competition : English Div 1 (old)
+   Date : 1974-08-17 00:00
+   HomeTeam : Leicester
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1974-08-20 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Ipswich
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1974-08-20 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Ipswich
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1974-08-24 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Man City
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1974-08-24 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Man City
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1974-08-27 00:00
-  HomeTeam : Ipswich
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1974-08-27 00:00
+   HomeTeam : Ipswich
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1974-08-31 00:00
-  HomeTeam : Everton
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1974-08-31 00:00
+   HomeTeam : Everton
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1974-09-07 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Burnley
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1974-09-07 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Burnley
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1974-09-14 00:00
-  HomeTeam : Chelsea
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1974-09-14 00:00
+   HomeTeam : Chelsea
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1974-09-21 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Luton
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1974-09-21 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Luton
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1974-09-28 00:00
-  HomeTeam : Birmingham
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1974-09-28 00:00
+   HomeTeam : Birmingham
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1974-10-05 00:00
-  HomeTeam : Leeds
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1974-10-05 00:00
+   HomeTeam : Leeds
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1974-10-12 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : QPR
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1974-10-12 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : QPR
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1974-10-16 00:00
-  HomeTeam : Man City
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1974-10-16 00:00
+   HomeTeam : Man City
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1974-10-19 00:00
-  HomeTeam : Tottenham
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1974-10-19 00:00
+   HomeTeam : Tottenham
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1974-10-26 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : West Ham
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1974-10-26 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : West Ham
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1974-11-02 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Wolves
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1974-11-02 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Wolves
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1974-11-09 00:00
-  HomeTeam : Liverpool
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1974-11-09 00:00
+   HomeTeam : Liverpool
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1974-11-16 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Derby
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1974-11-16 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Derby
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1974-11-23 00:00
-  HomeTeam : Coventry
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1974-11-23 00:00
+   HomeTeam : Coventry
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1974-11-30 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Middlesbro
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1974-11-30 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Middlesbro
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1974-12-07 00:00
-  HomeTeam : Carlisle
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1974-12-07 00:00
+   HomeTeam : Carlisle
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1974-12-14 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Leicester
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1974-12-14 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Leicester
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1974-12-21 00:00
-  HomeTeam : Stoke
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1974-12-21 00:00
+   HomeTeam : Stoke
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1974-12-26 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Chelsea
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1974-12-26 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Chelsea
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1974-12-28 00:00
-  HomeTeam : Sheff Utd
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1974-12-28 00:00
+   HomeTeam : Sheff Utd
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1975-01-04 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : York
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1975-01-04 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : York
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1975-01-07 00:00
-  HomeTeam : York
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English FA Cup
+   Date : 1975-01-07 00:00
+   HomeTeam : York
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1975-01-11 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Carlisle
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1975-01-11 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Carlisle
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1975-01-18 00:00
-  HomeTeam : Middlesbro
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1975-01-18 00:00
+   HomeTeam : Middlesbro
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 1975-01-25 00:00
-  HomeTeam : Coventry
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1975-01-25 00:00
+   HomeTeam : Coventry
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1975-01-29 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Coventry
-  ArsenalScore : 3
+ - Competition : English FA Cup
+   Date : 1975-01-29 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Coventry
+   ArsenalScore : 3
 
-- Competition : English League Cup
-  Date : 1975-01-30 00:00
-  HomeTeam : Leicester
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English League Cup
+   Date : 1975-01-30 00:00
+   HomeTeam : Leicester
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English League Cup
-  Date : 1975-01-30 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Leicester
-  ArsenalScore : 1
+ - Competition : English League Cup
+   Date : 1975-01-30 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Leicester
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1975-02-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Liverpool
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1975-02-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Liverpool
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1975-02-08 00:00
-  HomeTeam : Wolves
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1975-02-08 00:00
+   HomeTeam : Wolves
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 1975-02-15 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Leicester
-  ArsenalScore : 0
+ - Competition : English FA Cup
+   Date : 1975-02-15 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Leicester
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 1975-02-19 00:00
-  HomeTeam : Leicester
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1975-02-19 00:00
+   HomeTeam : Leicester
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1975-02-22 00:00
-  HomeTeam : Derby
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1975-02-22 00:00
+   HomeTeam : Derby
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1975-02-24 00:00
-  HomeTeam : Leicester
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1975-02-24 00:00
+   HomeTeam : Leicester
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1975-03-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Everton
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1975-03-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Everton
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 1975-03-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : West Ham
-  ArsenalScore : 0
+ - Competition : English FA Cup
+   Date : 1975-03-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : West Ham
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1975-03-15 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Birmingham
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1975-03-15 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Birmingham
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1975-03-18 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Newcastle
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1975-03-18 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Newcastle
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1975-03-22 00:00
-  HomeTeam : Burnley
-  HomeScore : 3
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1975-03-22 00:00
+   HomeTeam : Burnley
+   HomeScore : 3
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1975-03-25 00:00
-  HomeTeam : Luton
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1975-03-25 00:00
+   HomeTeam : Luton
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1975-03-29 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Stoke
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1975-03-29 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Stoke
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1975-03-31 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Sheff Utd
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1975-03-31 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Sheff Utd
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1975-04-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Coventry
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1975-04-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Coventry
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1975-04-12 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Leeds
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1975-04-12 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Leeds
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1975-04-19 00:00
-  HomeTeam : QPR
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1975-04-19 00:00
+   HomeTeam : QPR
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1975-04-23 00:00
-  HomeTeam : Newcastle
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1975-04-23 00:00
+   HomeTeam : Newcastle
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1975-04-26 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Tottenham
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1975-04-26 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Tottenham
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1975-04-28 00:00
-  HomeTeam : West Ham
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
-
+ - Competition : English Div 1 (old)
+   Date : 1975-04-28 00:00
+   HomeTeam : West Ham
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0

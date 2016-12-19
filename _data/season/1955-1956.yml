@@ -1,376 +1,377 @@
-- Competition : English Div 1 (old)
-  Date : 1955-08-20 00:00
-  HomeTeam : Blackpool
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+Season : 1955-1956
+Matches :
+ - Competition : English Div 1 (old)
+   Date : 1955-08-20 00:00
+   HomeTeam : Blackpool
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-08-23 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Cardiff
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1955-08-23 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Cardiff
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1955-08-27 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Chelsea
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-08-27 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Chelsea
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-08-31 00:00
-  HomeTeam : Man City
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1955-08-31 00:00
+   HomeTeam : Man City
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1955-09-03 00:00
-  HomeTeam : Bolton
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-09-03 00:00
+   HomeTeam : Bolton
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-09-06 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Man City
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1955-09-06 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Man City
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1955-09-10 00:00
-  HomeTeam : Tottenham
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-09-10 00:00
+   HomeTeam : Tottenham
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-09-17 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Portsmouth
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-09-17 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Portsmouth
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-09-24 00:00
-  HomeTeam : Sunderland
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-09-24 00:00
+   HomeTeam : Sunderland
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-10-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Aston Villa
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-10-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Aston Villa
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-10-08 00:00
-  HomeTeam : Everton
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-10-08 00:00
+   HomeTeam : Everton
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-10-15 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Newcastle
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-10-15 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Newcastle
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-10-22 00:00
-  HomeTeam : Luton
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1955-10-22 00:00
+   HomeTeam : Luton
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1955-10-29 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 4
-  AwayTeam : Charlton
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1955-10-29 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 4
+   AwayTeam : Charlton
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1955-11-05 00:00
-  HomeTeam : Man Utd
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-11-05 00:00
+   HomeTeam : Man Utd
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-11-12 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Sheff Utd
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1955-11-12 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Sheff Utd
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1955-11-19 00:00
-  HomeTeam : Preston
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1955-11-19 00:00
+   HomeTeam : Preston
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1955-11-26 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Burnley
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1955-11-26 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Burnley
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1955-12-03 00:00
-  HomeTeam : Birmingham
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1955-12-03 00:00
+   HomeTeam : Birmingham
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1955-12-10 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : West Brom
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1955-12-10 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : West Brom
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1955-12-17 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Blackpool
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1955-12-17 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Blackpool
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1955-12-24 00:00
-  HomeTeam : Chelsea
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1955-12-24 00:00
+   HomeTeam : Chelsea
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1955-12-26 00:00
-  HomeTeam : Wolves
-  HomeScore : 3
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1955-12-26 00:00
+   HomeTeam : Wolves
+   HomeScore : 3
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1955-12-27 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Wolves
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1955-12-27 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Wolves
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1955-12-31 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Bolton
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1955-12-31 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Bolton
+   ArsenalScore : 3
 
-- Competition : English FA Cup
-  Date : 1956-01-07 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Bedford
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 1956-01-07 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Bedford
+   ArsenalScore : 2
 
-- Competition : English FA Cup
-  Date : 1956-01-12 00:00
-  HomeTeam : Bedford
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 1956-01-12 00:00
+   HomeTeam : Bedford
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1956-01-14 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Tottenham
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1956-01-14 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Tottenham
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1956-01-21 00:00
-  HomeTeam : Portsmouth
-  HomeScore : 5
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1956-01-21 00:00
+   HomeTeam : Portsmouth
+   HomeScore : 5
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English FA Cup
-  Date : 1956-01-28 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Aston Villa
-  ArsenalScore : 4
+ - Competition : English FA Cup
+   Date : 1956-01-28 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Aston Villa
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1956-02-04 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Sunderland
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1956-02-04 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Sunderland
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1956-02-11 00:00
-  HomeTeam : Aston Villa
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1956-02-11 00:00
+   HomeTeam : Aston Villa
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1956-02-18 00:00
-  HomeTeam : Charlton
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 1956-02-18 00:00
+   HomeTeam : Charlton
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1956-02-21 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Everton
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1956-02-21 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Everton
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1956-02-25 00:00
-  HomeTeam : Newcastle
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1956-02-25 00:00
+   HomeTeam : Newcastle
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 1956-03-03 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Birmingham
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1956-03-03 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Birmingham
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1956-03-06 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Preston
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1956-03-06 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Preston
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1956-03-10 00:00
-  HomeTeam : Charlton
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1956-03-10 00:00
+   HomeTeam : Charlton
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1956-03-17 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Man Utd
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1956-03-17 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Man Utd
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1956-03-24 00:00
-  HomeTeam : Sheff Utd
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1956-03-24 00:00
+   HomeTeam : Sheff Utd
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1956-03-31 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Luton
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1956-03-31 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Luton
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1956-04-02 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Huddersfield
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1956-04-02 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Huddersfield
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1956-04-03 00:00
-  HomeTeam : Huddersfield
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1956-04-03 00:00
+   HomeTeam : Huddersfield
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1956-04-07 00:00
-  HomeTeam : Burnley
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1956-04-07 00:00
+   HomeTeam : Burnley
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1956-04-14 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Birmingham
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1956-04-14 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Birmingham
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1956-04-21 00:00
-  HomeTeam : West Brom
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1956-04-21 00:00
+   HomeTeam : West Brom
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1956-04-28 00:00
-  HomeTeam : Cardiff
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
-
+ - Competition : English Div 1 (old)
+   Date : 1956-04-28 00:00
+   HomeTeam : Cardiff
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2

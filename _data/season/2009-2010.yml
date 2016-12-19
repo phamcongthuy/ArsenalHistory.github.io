@@ -1,440 +1,441 @@
-- Competition : Premier League
-  Date : 2009-08-15 17:30
-  HomeTeam : Everton
-  HomeScore : 1
-  AwayScore : 6
-  AwayTeam : Arsenal
-  ArsenalScore : 6
+Season : 2009-2010
+Matches :
+ - Competition : Premier League
+   Date : 2009-08-15 17:30
+   HomeTeam : Everton
+   HomeScore : 1
+   AwayScore : 6
+   AwayTeam : Arsenal
+   ArsenalScore : 6
 
-- Competition : Champions League
-  Date : 2009-08-18 19:45
-  HomeTeam : Celtic
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2009-08-18 19:45
+   HomeTeam : Celtic
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2009-08-22 15:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Portsmouth
-  ArsenalScore : 4
+ - Competition : Premier League
+   Date : 2009-08-22 15:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Portsmouth
+   ArsenalScore : 4
 
-- Competition : Champions League
-  Date : 2009-08-26 19:45
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Celtic
-  ArsenalScore : 3
+ - Competition : Champions League
+   Date : 2009-08-26 19:45
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Celtic
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2009-08-29 17:15
-  HomeTeam : Man Utd
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2009-08-29 17:15
+   HomeTeam : Man Utd
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2009-09-12 00:00
-  HomeTeam : Man City
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2009-09-12 00:00
+   HomeTeam : Man City
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2009-09-16 19:45
-  HomeTeam : St Liege
-  HomeScore : 2
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Champions League
+   Date : 2009-09-16 19:45
+   HomeTeam : St Liege
+   HomeScore : 2
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2009-09-19 15:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Wigan
-  ArsenalScore : 4
+ - Competition : Premier League
+   Date : 2009-09-19 15:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Wigan
+   ArsenalScore : 4
 
-- Competition : Carling Cup
-  Date : 2009-09-22 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : West Brom
-  ArsenalScore : 2
+ - Competition : Carling Cup
+   Date : 2009-09-22 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : West Brom
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2009-09-26 17:30
-  HomeTeam : Fulham
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2009-09-26 17:30
+   HomeTeam : Fulham
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2009-09-29 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Olympiakos
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2009-09-29 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Olympiakos
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2009-10-04 13:30
-  HomeTeam : Arsenal
-  HomeScore : 6
-  AwayScore : 2
-  AwayTeam : Blackburn
-  ArsenalScore : 6
+ - Competition : Premier League
+   Date : 2009-10-04 13:30
+   HomeTeam : Arsenal
+   HomeScore : 6
+   AwayScore : 2
+   AwayTeam : Blackburn
+   ArsenalScore : 6
 
-- Competition : Premier League
-  Date : 2009-10-17 15:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Birmingham
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2009-10-17 15:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Birmingham
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2009-10-20 19:45
-  HomeTeam : AZ Alkmaar
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2009-10-20 19:45
+   HomeTeam : AZ Alkmaar
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2009-10-25 16:15
-  HomeTeam : West Ham
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2009-10-25 16:15
+   HomeTeam : West Ham
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Carling Cup
-  Date : 2009-10-28 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Liverpool
-  ArsenalScore : 2
+ - Competition : Carling Cup
+   Date : 2009-10-28 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Liverpool
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2009-10-31 12:45
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Tottenham
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2009-10-31 12:45
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Tottenham
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2009-11-04 19:45
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : AZ Alkmaar
-  ArsenalScore : 4
+ - Competition : Champions League
+   Date : 2009-11-04 19:45
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : AZ Alkmaar
+   ArsenalScore : 4
 
-- Competition : Premier League
-  Date : 2009-11-07 17:30
-  HomeTeam : Wolves
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : Premier League
+   Date : 2009-11-07 17:30
+   HomeTeam : Wolves
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : Premier League
-  Date : 2009-11-21 15:00
-  HomeTeam : Sunderland
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2009-11-21 15:00
+   HomeTeam : Sunderland
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Champions League
-  Date : 2009-11-24 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : St Liege
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2009-11-24 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : St Liege
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2009-11-29 16:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 3
-  AwayTeam : Chelsea
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2009-11-29 16:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 3
+   AwayTeam : Chelsea
+   ArsenalScore : 0
 
-- Competition : Carling Cup
-  Date : 2009-12-02 19:45
-  HomeTeam : Man City
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Carling Cup
+   Date : 2009-12-02 19:45
+   HomeTeam : Man City
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2009-12-05 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Stoke
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2009-12-05 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Stoke
+   ArsenalScore : 2
 
-- Competition : Champions League
-  Date : 2009-12-09 19:45
-  HomeTeam : Olympiakos
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Champions League
+   Date : 2009-12-09 19:45
+   HomeTeam : Olympiakos
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2009-12-13 16:00
-  HomeTeam : Liverpool
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2009-12-13 16:00
+   HomeTeam : Liverpool
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2009-12-16 19:45
-  HomeTeam : Burnley
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2009-12-16 19:45
+   HomeTeam : Burnley
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2009-12-19 17:30
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Hull
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2009-12-19 17:30
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Hull
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2009-12-27 13:30
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Aston Villa
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2009-12-27 13:30
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Aston Villa
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2009-12-30 19:45
-  HomeTeam : Portsmouth
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : Premier League
+   Date : 2009-12-30 19:45
+   HomeTeam : Portsmouth
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : English FA Cup
-  Date : 2010-01-03 16:15
-  HomeTeam : West Ham
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 2010-01-03 16:15
+   HomeTeam : West Ham
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2010-01-09 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Everton
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2010-01-09 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Everton
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2010-01-17 16:00
-  HomeTeam : Bolton
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2010-01-17 16:00
+   HomeTeam : Bolton
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2010-01-20 19:45
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Bolton
-  ArsenalScore : 4
+ - Competition : Premier League
+   Date : 2010-01-20 19:45
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Bolton
+   ArsenalScore : 4
 
-- Competition : English FA Cup
-  Date : 2010-01-24 13:30
-  HomeTeam : Stoke
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 2010-01-24 13:30
+   HomeTeam : Stoke
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2010-01-27 19:45
-  HomeTeam : Aston Villa
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2010-01-27 19:45
+   HomeTeam : Aston Villa
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2010-01-31 16:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Man Utd
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2010-01-31 16:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Man Utd
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2010-02-07 16:00
-  HomeTeam : Chelsea
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2010-02-07 16:00
+   HomeTeam : Chelsea
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2010-02-10 19:45
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Liverpool
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2010-02-10 19:45
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Liverpool
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2010-02-17 19:45
-  HomeTeam : Porto
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2010-02-17 19:45
+   HomeTeam : Porto
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2010-02-20 15:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Sunderland
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2010-02-20 15:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Sunderland
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2010-02-27 17:30
-  HomeTeam : Stoke
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2010-02-27 17:30
+   HomeTeam : Stoke
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : Premier League
-  Date : 2010-03-06 15:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Burnley
-  ArsenalScore : 3
+ - Competition : Premier League
+   Date : 2010-03-06 15:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Burnley
+   ArsenalScore : 3
 
-- Competition : Champions League
-  Date : 2010-03-09 19:45
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 0
-  AwayTeam : Porto
-  ArsenalScore : 5
+ - Competition : Champions League
+   Date : 2010-03-09 19:45
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 0
+   AwayTeam : Porto
+   ArsenalScore : 5
 
-- Competition : Premier League
-  Date : 2010-03-13 17:30
-  HomeTeam : Hull
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2010-03-13 17:30
+   HomeTeam : Hull
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2010-03-20 17:30
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : West Ham
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2010-03-20 17:30
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : West Ham
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2010-03-27 15:00
-  HomeTeam : Birmingham
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2010-03-27 15:00
+   HomeTeam : Birmingham
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2010-03-31 19:45
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Barcelona
-  ArsenalScore : 2
+ - Competition : Champions League
+   Date : 2010-03-31 19:45
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Barcelona
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2010-04-03 15:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Wolves
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2010-04-03 15:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Wolves
+   ArsenalScore : 1
 
-- Competition : Champions League
-  Date : 2010-04-06 19:45
-  HomeTeam : Barcelona
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Champions League
+   Date : 2010-04-06 19:45
+   HomeTeam : Barcelona
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2010-04-14 20:00
-  HomeTeam : Tottenham
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2010-04-14 20:00
+   HomeTeam : Tottenham
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2010-04-18 13:30
-  HomeTeam : Wigan
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Premier League
+   Date : 2010-04-18 13:30
+   HomeTeam : Wigan
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : Premier League
-  Date : 2010-04-24 17:30
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Man City
-  ArsenalScore : 0
+ - Competition : Premier League
+   Date : 2010-04-24 17:30
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Man City
+   ArsenalScore : 0
 
-- Competition : Premier League
-  Date : 2010-05-03 17:00
-  HomeTeam : Blackburn
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Premier League
+   Date : 2010-05-03 17:00
+   HomeTeam : Blackburn
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Premier League
-  Date : 2010-05-09 16:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Fulham
-  ArsenalScore : 4
-
+ - Competition : Premier League
+   Date : 2010-05-09 16:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Fulham
+   ArsenalScore : 4

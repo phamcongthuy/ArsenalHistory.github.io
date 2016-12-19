@@ -1,480 +1,481 @@
-- Competition : English Div 1 (old)
-  Date : 1969-08-09 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Everton
-  ArsenalScore : 0
+Season : 1969-1970
+Matches :
+ - Competition : English Div 1 (old)
+   Date : 1969-08-09 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Everton
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1969-08-13 00:00
-  HomeTeam : Leeds
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1969-08-13 00:00
+   HomeTeam : Leeds
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1969-08-16 00:00
-  HomeTeam : West Brom
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-08-16 00:00
+   HomeTeam : West Brom
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1969-08-19 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Leeds
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-08-19 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Leeds
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1969-08-23 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Nottm Forest
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1969-08-23 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Nottm Forest
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1969-08-25 00:00
-  HomeTeam : West Ham
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-08-25 00:00
+   HomeTeam : West Ham
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1969-08-30 00:00
-  HomeTeam : Newcastle
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-08-30 00:00
+   HomeTeam : Newcastle
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English League Cup
-  Date : 1969-09-02 00:00
-  HomeTeam : Southampton
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English League Cup
+   Date : 1969-09-02 00:00
+   HomeTeam : Southampton
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English League Cup
-  Date : 1969-09-04 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Southampton
-  ArsenalScore : 2
+ - Competition : English League Cup
+   Date : 1969-09-04 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Southampton
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1969-09-06 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Sheff Wed
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1969-09-06 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Sheff Wed
+   ArsenalScore : 0
 
-- Competition : Fairs Cup
-  Date : 1969-09-09 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Glentoran
-  ArsenalScore : 3
+ - Competition : Fairs Cup
+   Date : 1969-09-09 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Glentoran
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1969-09-13 00:00
-  HomeTeam : Burnley
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-09-13 00:00
+   HomeTeam : Burnley
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1969-09-16 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 3
-  AwayTeam : Tottenham
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1969-09-16 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 3
+   AwayTeam : Tottenham
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1969-09-20 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Man Utd
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1969-09-20 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Man Utd
+   ArsenalScore : 2
 
-- Competition : English League Cup
-  Date : 1969-09-24 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Everton
-  ArsenalScore : 0
+ - Competition : English League Cup
+   Date : 1969-09-24 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Everton
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1969-09-27 00:00
-  HomeTeam : Chelsea
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1969-09-27 00:00
+   HomeTeam : Chelsea
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Fairs Cup
-  Date : 1969-09-29 00:00
-  HomeTeam : Glentoran
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Fairs Cup
+   Date : 1969-09-29 00:00
+   HomeTeam : Glentoran
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English League Cup
-  Date : 1969-10-01 00:00
-  HomeTeam : Everton
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English League Cup
+   Date : 1969-10-01 00:00
+   HomeTeam : Everton
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1969-10-04 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Coventry
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1969-10-04 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Coventry
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1969-10-07 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : West Brom
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-10-07 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : West Brom
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1969-10-11 00:00
-  HomeTeam : Stoke
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1969-10-11 00:00
+   HomeTeam : Stoke
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1969-10-18 00:00
-  HomeTeam : Sunderland
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-10-18 00:00
+   HomeTeam : Sunderland
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1969-10-25 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Ipswich
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1969-10-25 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Ipswich
+   ArsenalScore : 0
 
-- Competition : Fairs Cup
-  Date : 1969-10-29 00:00
-  HomeTeam : Sp. Lisbon
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Fairs Cup
+   Date : 1969-10-29 00:00
+   HomeTeam : Sp. Lisbon
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1969-11-01 00:00
-  HomeTeam : C Palace
-  HomeScore : 1
-  AwayScore : 5
-  AwayTeam : Arsenal
-  ArsenalScore : 5
+ - Competition : English Div 1 (old)
+   Date : 1969-11-01 00:00
+   HomeTeam : C Palace
+   HomeScore : 1
+   AwayScore : 5
+   AwayTeam : Arsenal
+   ArsenalScore : 5
 
-- Competition : English Div 1 (old)
-  Date : 1969-11-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Derby
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1969-11-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Derby
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1969-11-15 00:00
-  HomeTeam : Wolves
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1969-11-15 00:00
+   HomeTeam : Wolves
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1969-11-22 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Man City
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-11-22 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Man City
+   ArsenalScore : 1
 
-- Competition : Fairs Cup
-  Date : 1969-11-26 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Sp. Lisbon
-  ArsenalScore : 3
+ - Competition : Fairs Cup
+   Date : 1969-11-26 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Sp. Lisbon
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1969-11-29 00:00
-  HomeTeam : Liverpool
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-11-29 00:00
+   HomeTeam : Liverpool
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1969-12-06 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Southampton
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1969-12-06 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Southampton
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1969-12-13 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Burnley
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1969-12-13 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Burnley
+   ArsenalScore : 3
 
-- Competition : Fairs Cup
-  Date : 1969-12-17 00:00
-  HomeTeam : Rouen
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Fairs Cup
+   Date : 1969-12-17 00:00
+   HomeTeam : Rouen
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1969-12-20 00:00
-  HomeTeam : Sheff Wed
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-12-20 00:00
+   HomeTeam : Sheff Wed
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1969-12-26 00:00
-  HomeTeam : Nottm Forest
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1969-12-26 00:00
+   HomeTeam : Nottm Forest
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1969-12-27 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Newcastle
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1969-12-27 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Newcastle
+   ArsenalScore : 0
 
-- Competition : English FA Cup
-  Date : 1970-01-03 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Blackpool
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1970-01-03 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Blackpool
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1970-01-10 00:00
-  HomeTeam : Man Utd
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1970-01-10 00:00
+   HomeTeam : Man Utd
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Fairs Cup
-  Date : 1970-01-13 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Rouen
-  ArsenalScore : 1
+ - Competition : Fairs Cup
+   Date : 1970-01-13 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Rouen
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1970-01-15 00:00
-  HomeTeam : Blackpool
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English FA Cup
+   Date : 1970-01-15 00:00
+   HomeTeam : Blackpool
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1970-01-17 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 3
-  AwayTeam : Chelsea
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1970-01-17 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 3
+   AwayTeam : Chelsea
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1970-01-31 00:00
-  HomeTeam : Coventry
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1970-01-31 00:00
+   HomeTeam : Coventry
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1970-02-07 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Stoke
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1970-02-07 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Stoke
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1970-02-14 00:00
-  HomeTeam : Everton
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1970-02-14 00:00
+   HomeTeam : Everton
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1970-02-18 00:00
-  HomeTeam : Man City
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1970-02-18 00:00
+   HomeTeam : Man City
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1970-02-21 00:00
-  HomeTeam : Derby
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1970-02-21 00:00
+   HomeTeam : Derby
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1970-02-28 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Sunderland
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1970-02-28 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Sunderland
+   ArsenalScore : 3
 
-- Competition : Fairs Cup
-  Date : 1970-03-11 00:00
-  HomeTeam : Dynamo Bacau
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : Fairs Cup
+   Date : 1970-03-11 00:00
+   HomeTeam : Dynamo Bacau
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1970-03-14 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Liverpool
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1970-03-14 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Liverpool
+   ArsenalScore : 2
 
-- Competition : Fairs Cup
-  Date : 1970-03-18 00:00
-  HomeTeam : Arsenal
-  HomeScore : 7
-  AwayScore : 1
-  AwayTeam : Dynamo Bacau
-  ArsenalScore : 7
+ - Competition : Fairs Cup
+   Date : 1970-03-18 00:00
+   HomeTeam : Arsenal
+   HomeScore : 7
+   AwayScore : 1
+   AwayTeam : Dynamo Bacau
+   ArsenalScore : 7
 
-- Competition : English Div 1 (old)
-  Date : 1970-03-21 00:00
-  HomeTeam : Southampton
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1970-03-21 00:00
+   HomeTeam : Southampton
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1970-03-28 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Wolves
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1970-03-28 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Wolves
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1970-03-30 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : C Palace
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1970-03-30 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : C Palace
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1970-03-31 00:00
-  HomeTeam : Ipswich
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1970-03-31 00:00
+   HomeTeam : Ipswich
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1970-04-04 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : West Ham
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1970-04-04 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : West Ham
+   ArsenalScore : 2
 
-- Competition : Fairs Cup
-  Date : 1970-04-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Ajax
-  ArsenalScore : 3
+ - Competition : Fairs Cup
+   Date : 1970-04-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Ajax
+   ArsenalScore : 3
 
-- Competition : Fairs Cup
-  Date : 1970-04-15 00:00
-  HomeTeam : Ajax
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : Fairs Cup
+   Date : 1970-04-15 00:00
+   HomeTeam : Ajax
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : Fairs Cup
-  Date : 1970-04-22 00:00
-  HomeTeam : Anderlecht
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : Fairs Cup
+   Date : 1970-04-22 00:00
+   HomeTeam : Anderlecht
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : Fairs Cup
-  Date : 1970-04-28 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 0
-  AwayTeam : Anderlecht
-  ArsenalScore : 3
+ - Competition : Fairs Cup
+   Date : 1970-04-28 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 0
+   AwayTeam : Anderlecht
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1970-05-02 00:00
-  HomeTeam : Tottenham
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
-
+ - Competition : English Div 1 (old)
+   Date : 1970-05-02 00:00
+   HomeTeam : Tottenham
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0

@@ -1,408 +1,409 @@
-- Competition : Charity Shield
-  Date : 1991-08-10 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Tottenham
-  ArsenalScore : 0
+Season : 1991-1992
+Matches :
+ - Competition : Charity Shield
+   Date : 1991-08-10 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Tottenham
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1991-08-17 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : QPR
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1991-08-17 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : QPR
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1991-08-20 00:00
-  HomeTeam : Everton
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1991-08-20 00:00
+   HomeTeam : Everton
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1991-08-24 00:00
-  HomeTeam : Aston Villa
-  HomeScore : 3
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1991-08-24 00:00
+   HomeTeam : Aston Villa
+   HomeScore : 3
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1991-08-27 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Luton
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1991-08-27 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Luton
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1991-08-31 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Man City
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1991-08-31 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Man City
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1991-09-03 00:00
-  HomeTeam : Leeds
-  HomeScore : 2
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1991-09-03 00:00
+   HomeTeam : Leeds
+   HomeScore : 2
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1991-09-07 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 2
-  AwayTeam : Coventry
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1991-09-07 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 2
+   AwayTeam : Coventry
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1991-09-14 00:00
-  HomeTeam : C Palace
-  HomeScore : 1
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1991-09-14 00:00
+   HomeTeam : C Palace
+   HomeScore : 1
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : European Cup
-  Date : 1991-09-18 00:00
-  HomeTeam : Arsenal
-  HomeScore : 6
-  AwayScore : 1
-  AwayTeam : Aus. Vienna
-  ArsenalScore : 6
+ - Competition : European Cup
+   Date : 1991-09-18 00:00
+   HomeTeam : Arsenal
+   HomeScore : 6
+   AwayScore : 1
+   AwayTeam : Aus. Vienna
+   ArsenalScore : 6
 
-- Competition : English Div 1 (old)
-  Date : 1991-09-21 00:00
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 2
-  AwayTeam : Sheff Utd
-  ArsenalScore : 5
+ - Competition : English Div 1 (old)
+   Date : 1991-09-21 00:00
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 2
+   AwayTeam : Sheff Utd
+   ArsenalScore : 5
 
-- Competition : English League Cup
-  Date : 1991-09-25 00:00
-  HomeTeam : Leicester
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English League Cup
+   Date : 1991-09-25 00:00
+   HomeTeam : Leicester
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1991-09-28 00:00
-  HomeTeam : Southampton
-  HomeScore : 0
-  AwayScore : 4
-  AwayTeam : Arsenal
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1991-09-28 00:00
+   HomeTeam : Southampton
+   HomeScore : 0
+   AwayScore : 4
+   AwayTeam : Arsenal
+   ArsenalScore : 4
 
-- Competition : European Cup
-  Date : 1991-10-02 00:00
-  HomeTeam : Aus. Vienna
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : European Cup
+   Date : 1991-10-02 00:00
+   HomeTeam : Aus. Vienna
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1991-10-05 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Chelsea
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1991-10-05 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Chelsea
+   ArsenalScore : 3
 
-- Competition : English League Cup
-  Date : 1991-10-08 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Leicester
-  ArsenalScore : 2
+ - Competition : English League Cup
+   Date : 1991-10-08 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Leicester
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1991-10-19 00:00
-  HomeTeam : Man Utd
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1991-10-19 00:00
+   HomeTeam : Man Utd
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : European Cup
-  Date : 1991-10-23 00:00
-  HomeTeam : Benfica
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : European Cup
+   Date : 1991-10-23 00:00
+   HomeTeam : Benfica
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1991-10-26 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Notts Co
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1991-10-26 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Notts Co
+   ArsenalScore : 2
 
-- Competition : English League Cup
-  Date : 1991-10-30 00:00
-  HomeTeam : Coventry
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English League Cup
+   Date : 1991-10-30 00:00
+   HomeTeam : Coventry
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1991-11-02 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : West Ham
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1991-11-02 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : West Ham
+   ArsenalScore : 0
 
-- Competition : European Cup
-  Date : 1991-11-06 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Benfica
-  ArsenalScore : 1
+ - Competition : European Cup
+   Date : 1991-11-06 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Benfica
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1991-11-16 00:00
-  HomeTeam : Oldham
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1991-11-16 00:00
+   HomeTeam : Oldham
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1991-11-23 00:00
-  HomeTeam : Sheff Wed
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1991-11-23 00:00
+   HomeTeam : Sheff Wed
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1991-12-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Tottenham
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1991-12-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Tottenham
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1991-12-08 00:00
-  HomeTeam : Nottm Forest
-  HomeScore : 3
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1991-12-08 00:00
+   HomeTeam : Nottm Forest
+   HomeScore : 3
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1991-12-21 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 2
-  AwayTeam : Everton
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1991-12-21 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 2
+   AwayTeam : Everton
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1991-12-26 00:00
-  HomeTeam : Luton
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1991-12-26 00:00
+   HomeTeam : Luton
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1991-12-28 00:00
-  HomeTeam : Man City
-  HomeScore : 1
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1991-12-28 00:00
+   HomeTeam : Man City
+   HomeScore : 1
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1992-01-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Wimbledon
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1992-01-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Wimbledon
+   ArsenalScore : 1
 
-- Competition : English FA Cup
-  Date : 1992-01-04 00:00
-  HomeTeam : Wrexham
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English FA Cup
+   Date : 1992-01-04 00:00
+   HomeTeam : Wrexham
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1992-01-11 00:00
-  HomeTeam : Arsenal
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Aston Villa
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1992-01-11 00:00
+   HomeTeam : Arsenal
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Aston Villa
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1992-01-18 00:00
-  HomeTeam : QPR
-  HomeScore : 0
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1992-01-18 00:00
+   HomeTeam : QPR
+   HomeScore : 0
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1992-01-29 00:00
-  HomeTeam : Liverpool
-  HomeScore : 2
-  AwayScore : 0
-  AwayTeam : Arsenal
-  ArsenalScore : 0
+ - Competition : English Div 1 (old)
+   Date : 1992-01-29 00:00
+   HomeTeam : Liverpool
+   HomeScore : 2
+   AwayScore : 0
+   AwayTeam : Arsenal
+   ArsenalScore : 0
 
-- Competition : English Div 1 (old)
-  Date : 1992-02-01 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Man Utd
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1992-02-01 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Man Utd
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1992-02-08 00:00
-  HomeTeam : Notts Co
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1992-02-08 00:00
+   HomeTeam : Notts Co
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1992-02-11 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Norwich
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1992-02-11 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Norwich
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1992-02-15 00:00
-  HomeTeam : Arsenal
-  HomeScore : 7
-  AwayScore : 1
-  AwayTeam : Sheff Wed
-  ArsenalScore : 7
+ - Competition : English Div 1 (old)
+   Date : 1992-02-15 00:00
+   HomeTeam : Arsenal
+   HomeScore : 7
+   AwayScore : 1
+   AwayTeam : Sheff Wed
+   ArsenalScore : 7
 
-- Competition : English Div 1 (old)
-  Date : 1992-02-22 00:00
-  HomeTeam : Tottenham
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1992-02-22 00:00
+   HomeTeam : Tottenham
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1992-03-10 00:00
-  HomeTeam : Arsenal
-  HomeScore : 2
-  AwayScore : 1
-  AwayTeam : Oldham
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1992-03-10 00:00
+   HomeTeam : Arsenal
+   HomeScore : 2
+   AwayScore : 1
+   AwayTeam : Oldham
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1992-03-14 00:00
-  HomeTeam : West Ham
-  HomeScore : 0
-  AwayScore : 2
-  AwayTeam : Arsenal
-  ArsenalScore : 2
+ - Competition : English Div 1 (old)
+   Date : 1992-03-14 00:00
+   HomeTeam : West Ham
+   HomeScore : 0
+   AwayScore : 2
+   AwayTeam : Arsenal
+   ArsenalScore : 2
 
-- Competition : English Div 1 (old)
-  Date : 1992-03-22 00:00
-  HomeTeam : Arsenal
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Leeds
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1992-03-22 00:00
+   HomeTeam : Arsenal
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Leeds
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1992-03-28 00:00
-  HomeTeam : Wimbledon
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1992-03-28 00:00
+   HomeTeam : Wimbledon
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1992-03-31 00:00
-  HomeTeam : Arsenal
-  HomeScore : 3
-  AwayScore : 3
-  AwayTeam : Nottm Forest
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1992-03-31 00:00
+   HomeTeam : Arsenal
+   HomeScore : 3
+   AwayScore : 3
+   AwayTeam : Nottm Forest
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1992-04-04 00:00
-  HomeTeam : Coventry
-  HomeScore : 0
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1992-04-04 00:00
+   HomeTeam : Coventry
+   HomeScore : 0
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1992-04-08 00:00
-  HomeTeam : Norwich
-  HomeScore : 1
-  AwayScore : 3
-  AwayTeam : Arsenal
-  ArsenalScore : 3
+ - Competition : English Div 1 (old)
+   Date : 1992-04-08 00:00
+   HomeTeam : Norwich
+   HomeScore : 1
+   AwayScore : 3
+   AwayTeam : Arsenal
+   ArsenalScore : 3
 
-- Competition : English Div 1 (old)
-  Date : 1992-04-11 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 1
-  AwayTeam : C Palace
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1992-04-11 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 1
+   AwayTeam : C Palace
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1992-04-18 00:00
-  HomeTeam : Sheff Utd
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1992-04-18 00:00
+   HomeTeam : Sheff Utd
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1992-04-20 00:00
-  HomeTeam : Arsenal
-  HomeScore : 4
-  AwayScore : 0
-  AwayTeam : Liverpool
-  ArsenalScore : 4
+ - Competition : English Div 1 (old)
+   Date : 1992-04-20 00:00
+   HomeTeam : Arsenal
+   HomeScore : 4
+   AwayScore : 0
+   AwayTeam : Liverpool
+   ArsenalScore : 4
 
-- Competition : English Div 1 (old)
-  Date : 1992-04-25 00:00
-  HomeTeam : Chelsea
-  HomeScore : 1
-  AwayScore : 1
-  AwayTeam : Arsenal
-  ArsenalScore : 1
+ - Competition : English Div 1 (old)
+   Date : 1992-04-25 00:00
+   HomeTeam : Chelsea
+   HomeScore : 1
+   AwayScore : 1
+   AwayTeam : Arsenal
+   ArsenalScore : 1
 
-- Competition : English Div 1 (old)
-  Date : 1992-05-02 00:00
-  HomeTeam : Arsenal
-  HomeScore : 5
-  AwayScore : 1
-  AwayTeam : Southampton
-  ArsenalScore : 5
-
+ - Competition : English Div 1 (old)
+   Date : 1992-05-02 00:00
+   HomeTeam : Arsenal
+   HomeScore : 5
+   AwayScore : 1
+   AwayTeam : Southampton
+   ArsenalScore : 5
