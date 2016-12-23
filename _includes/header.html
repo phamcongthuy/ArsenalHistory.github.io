@@ -9,7 +9,9 @@
           <ul id='dropdown3' class='dropdown-content'>
            {% assign sorted = (site.seasons | sort: 'Season') | reverse %}
             {% for data in sorted %}
+            {% if data.Season != "" and data.Season != nil %}
             <li><a href="/seasons/{{ data.Season }}/">{{ data.Season }}</a></li>
+            {% endif %}
             {% endfor %}
           </ul>
         </li>
