@@ -24,3 +24,8 @@ sass:
     style: compressed
 
 permalink: /:categories/:year/:title/index.html
+
+collections:
+  seasons:
+    output: true
+    permalink: /:collection/:path/

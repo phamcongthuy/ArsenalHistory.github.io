@@ -7,9 +7,9 @@
         <li> <a class='dropdown-button btn' href='#' data-activates='dropdown3'>Choose Season</a>
           <!-- Dropdown Structure -->
           <ul id='dropdown3' class='dropdown-content'>
-            {% for org_hash in site.data.season %} 
-            {% assign data = org_hash[1] %}
-            <li><a href="/season/{{ data.Season }}/">{{ data.Season }}</a></li>
+           {% assign sorted = (site.seasons | sort: 'season') | reverse %}
+            {% for data in sorted %}
+            <li><a href="/seasons/{{ data.season }}/">{{ data.season }}</a></li>
             {% endfor %}
           </ul>
         </li>
