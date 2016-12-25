@@ -1,5 +1,41 @@
+{% for data in page.Matches %} 
+{% capture arsenal_score %} 
+{% if data.Competition == "League" %} 
+{{ arsenal_score | plus: data.ArsenalScore }} 
+{% else %}
+{{ arsenal_score | plus: 0 }} 
+{% endif %} 
+{% endcapture %}
+
+{% capture opposition_score %} 
+{% if data.HomeTeam == "Arsenal" and data.Competition == "League" %} 
+{{ opposition_score | plus: data.AwayScore }} 
+{% elsif data.AwayTeam == "Arsenal" and data.Competition == "League" %} 
+{{ opposition_score | plus: data.HomeScore }} 
+{% else %}
+{{ opposition_score | plus: 0 }}
+{% endif %} 
+{% endcapture %} 
+{% endfor %}
+
+
 <div class="container">
     <h1>{{page.title}}</h1>
+    <div class="responsive-table card-panel hoverable">
+        <table class="highlight">
+             <thead>
+                <tr>
+                    <th colspan="2">{{ page.Season }} league season summary</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Goals scored: {{ arsenal_score }}</td>
+                    <td>Goals conceded: {{ opposition_score }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
     <div class="responsive-table card-panel hoverable">
         <table class="highlight">
             <thead>
@@ -11,7 +47,7 @@
             </thead>
             <tbody>
                 {% for data in page.Matches %}
-                 <tr>
+                <tr>
                     <td>{{data.HomeTeam}} {{data.HomeScore}} - {{data.AwayScore}} {{data.AwayTeam}} </td>
                     <td>{{data.Competition}}</td>
                     <td>{{data.Date}}</td>
