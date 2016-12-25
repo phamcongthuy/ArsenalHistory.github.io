@@ -30,8 +30,15 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>Goals scored: {{ arsenal_score }}</td>
-                    <td>Goals conceded: {{ opposition_score }}</td>
+                    <td>
+                        <div class="chip">
+                        <img src="/assets/img/goal.svg"/> Goals scored: {{ arsenal_score }}                        
+                    </div>
+                    </td>
+                    <td>
+                          <div class="chip">
+                        <img src="/assets/img/suspended.svg"/> Goals conceded: {{ opposition_score }}
+                        </div></td>
                 </tr>
             </tbody>
         </table>
