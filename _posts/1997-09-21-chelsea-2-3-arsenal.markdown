@@ -5,5 +5,5 @@ date: 1997-09-21
 categories: premier-league
 video: AznDwOhJ8cw
 summary: A Nigel Winterburn stunner gave Arsenal the three points against Chelsea
-title: everton-4-1-arsenal
+title: Chelsea 2-3 Arsenal
 ---
