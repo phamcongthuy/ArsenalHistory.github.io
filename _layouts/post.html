@@ -1,29 +1,28 @@
----
-layout: default
+--- 
+layout: default 
 ---
 <article class="container post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta">
+    <div class="card-panel hoverable">
+    <div class="row">
+       <div class="col s12 m6 offset-m3">
+       <h2> {{ page.title }} </h2>  
+      <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{%
       endif %}</p>
-  </header>
-
-   <div class="row">
-      <div class="col s12 m6">
-        <div class="post-content" itemprop="articleBody">
-          {{ page.summary }}
+      </div>
+      </div>
+        <div class="row">
+        <div class="col s12 m6 offset-m3">
+          <div class="post-content" itemprop="articleBody">
+            {{ page.summary }}
+          </div>
         </div>
-      </div>
-      <div class="col s12 m6">
-      <div class="video-container">
-        <iframe class="responsive-video" src="https://www.youtube.com/embed/{{page.video}}" content="https://www.youtube.com/embed/{{page.video}}"
-          id="video_{{page.video}}" data-video="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe>
-      </div>
-      </div>    
+        <div class="col s12 m6 offset-m3">
+          <div class="video-container">
+            <iframe class="responsive-video" src="https://www.youtube.com/embed/{{page.video}}" content="https://www.youtube.com/embed/{{page.video}}"
+              id="video_{{page.video}}" data-video="https://www.youtube.com/embed/{{page.video}}" frameborder="0" allowfullscreen></iframe>
+          </div>
+        </div>
+        </div>
     </div>
-
-
-
 </article>
