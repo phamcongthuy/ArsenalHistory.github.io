@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arsenal 3-1 Juventus
+header: Arsenal 3-1 Juventus
 date: 2001-12-04
 categories: champions-league
 video: FEsNhSwILAA

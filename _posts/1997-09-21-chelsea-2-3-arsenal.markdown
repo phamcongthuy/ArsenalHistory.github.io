@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chelsea 2-3 Arsenal
+header: Chelsea 2-3 Arsenal
 date: 1997-09-21
 categories: premier-league
 video: AznDwOhJ8cw

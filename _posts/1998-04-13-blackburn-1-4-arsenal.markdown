@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blackburn 1-4 Arsenal
+header: Blackburn 1-4 Arsenal
 date: 1998-04-13
 categories: premier-league
 video: TWTNSsqG2uk
