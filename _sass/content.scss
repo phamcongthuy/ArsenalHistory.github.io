@@ -73,6 +73,10 @@ ul {
     li{
           vertical-align: top;
           height: 30px;
+
+          &:active{
+            border-radius: 2px 2px 0px 0px;
+          }
     }
 
   }
