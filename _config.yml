@@ -22,7 +22,7 @@ sass:
     sass_dir: _sass
     style: compressed
 
-permalink: /:categories/:year/:title/index.html
+permalink: /:categories/:year/:title
 
 collections:
   seasons:
