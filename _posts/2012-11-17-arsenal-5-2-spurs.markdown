@@ -1,6 +1,6 @@
 ---
 layout: post
-header: Arsenal 5-2 spurs
+header: Arsenal 5-2 Spurs
 date:   2012-11-17
 categories: premier-league
 video: "CZmj7hjiW7U"
