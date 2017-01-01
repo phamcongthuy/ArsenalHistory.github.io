@@ -5,9 +5,21 @@
     <description>A history of all the famous moments for the Arsenal Football Club. Going unbeaten in 2003/2004 which immortalised Arsenal FC.</description>
     <link>http://www.arsenalhistory.co.uk/</link>
     <atom:link href="http://www.arsenalhistory.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Jan 2017 19:42:31 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Jan 2017 19:42:31 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Jan 2017 20:19:41 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Jan 2017 20:19:41 +0000</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Arsenal 3-0 Manchester United</title>
+        <description>Arsenal stunned Manchester United by scoring 3 goals in 20 minutes to end the contest. Goals from Ozil and Sanchez completed the win.</description>
+        <pubDate>Sun, 04 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://www.arsenalhistory.co.uk/premier-league/2015/arsenal-3-0-manchester-united/index.html</link>
+        <guid isPermaLink="true">http://www.arsenalhistory.co.uk/premier-league/2015/arsenal-3-0-manchester-united/index.html</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
     
       <item>
         <title>Arsenal 4-0 Aston Villa</title>
@@ -18,6 +30,18 @@
         
         
         <category>fa-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 4-1 Liverpool</title>
+        <description>Arsenal blitz liverpool with 3 goals within 8 minutes to secure all three points. Goals from Bellerin, Ozil and Sanchez set Arsenal on their way</description>
+        <pubDate>Sat, 04 Apr 2015 00:00:00 +0100</pubDate>
+        <link>http://www.arsenalhistory.co.uk/premier-league/2015/arsenal-4-1-liverpool/index.html</link>
+        <guid isPermaLink="true">http://www.arsenalhistory.co.uk/premier-league/2015/arsenal-4-1-liverpool/index.html</guid>
+        
+        
+        <category>premier-league</category>
         
       </item>
     
@@ -99,30 +123,6 @@
         <pubDate>Sun, 15 Aug 2004 00:00:00 +0100</pubDate>
         <link>http://www.arsenalhistory.co.uk/premier-league/2004/everton-1-4-arsenal/index.html</link>
         <guid isPermaLink="true">http://www.arsenalhistory.co.uk/premier-league/2004/everton-1-4-arsenal/index.html</guid>
-        
-        
-        <category>premier-league</category>
-        
-      </item>
-    
-      <item>
-        <title>Arsenal 2-1 Leicester City</title>
-        <description>Arsenal became the first team to win the Premier League unbeaten. Goals from Thierry Henry and Patrick Vieira secured the win over Leicester City.</description>
-        <pubDate>Sat, 15 May 2004 00:00:00 +0100</pubDate>
-        <link>http://www.arsenalhistory.co.uk/premier-league/2004/arsenal-2-1-leicester/index.html</link>
-        <guid isPermaLink="true">http://www.arsenalhistory.co.uk/premier-league/2004/arsenal-2-1-leicester/index.html</guid>
-        
-        
-        <category>premier-league</category>
-        
-      </item>
-    
-      <item>
-        <title>Leeds 1-4 Arsenal</title>
-        <description>Arsenal sweep past Leeds with an outstanding attacking display</description>
-        <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
-        <link>http://www.arsenalhistory.co.uk/premier-league/2003/leeds-1-4-arsenal/index.html</link>
-        <guid isPermaLink="true">http://www.arsenalhistory.co.uk/premier-league/2003/leeds-1-4-arsenal/index.html</guid>
         
         
         <category>premier-league</category>
