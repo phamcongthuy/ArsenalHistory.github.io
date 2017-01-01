@@ -60,7 +60,8 @@ excerpt:  A history of all the famous moments for the Arsenal Football Club. A r
     {% else %}
     <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
     {% endif %} {% for page in (1..paginator.total_pages) %} {% if page == paginator.page %}
-    <em>{{ page }}</em> {% elsif page == 1 %}
+    <li class="active"><a href="#!">{{ page }}</a></li>
+    {% elsif page == 1 %}
     <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
     {% else %}
     <li class="waves-effect"><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>

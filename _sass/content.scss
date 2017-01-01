@@ -70,6 +70,12 @@ ul {
     color: #000;
     background-color: rgba(51,51,51,0.08);
 
+    li{
+          vertical-align: top;
+          height: 30px;
+          line-height: inherit;
+    }
+
   }
 }
 
