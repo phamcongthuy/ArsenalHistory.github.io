@@ -93,8 +93,8 @@ excerpt:  A history of all the famous moments for the Arsenal Football Club. A r
     {% assign seasons = site.seasons | reverse %}
     {% for season in seasons limit:1 %}
      <tbody>
-      {% assign matchesSort = (season.Matches) %}
-      {% assign matches = (matchesSort) %}
+       {% assign matchesSorted = (season.Matches | reverse) %}
+       {% assign matches = (matchesSorted | where_exp: 'item', 'item.HomeScore != nil' ) %}
       {% for match in matches limit:5 %}
        <tr>
           <td>{{match.HomeTeam}} {{match.HomeScore}} - {{match.AwayScore}} {{match.AwayTeam}} </td>
