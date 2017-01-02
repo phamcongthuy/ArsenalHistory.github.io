@@ -89,10 +89,11 @@ excerpt:  A history of all the famous moments for the Arsenal Football Club. A r
                     <th>Date</th>
                 </tr>
             </thead>
-    {% assign seasons = (site.seasons | sort: 'Season') | reverse %}
+            
+    {% assign seasons = site.seasons | reverse %}
     {% for season in seasons limit:1 %}
      <tbody>
-      {% assign matchesSort = (season.Matches | where_exp: 'item', 'item.HomeScore != ''') %}
+      {% assign matchesSort = (season.Matches) %}
       {% assign matches = (matchesSort) %}
       {% for match in matches limit:5 %}
        <tr>
@@ -118,10 +119,10 @@ excerpt:  A history of all the famous moments for the Arsenal Football Club. A r
                     <th>Date</th>
                 </tr>
             </thead>
-    {% assign seasons = (site.seasons | sort: 'Season') | reverse %}
+    {% assign seasons = site.seasons | sort: 'Season' | reverse %}
     {% for season in seasons limit:1 %}
      <tbody>
-        {% assign matches = (season.Matches | where: 'HomeScore', '') %}
+        {% assign matches = (season.Matches | where_exp: 'item', 'item.HomeScore == nil' ) %}
       {% for match in matches limit:5 %}
        <tr>
           <td>{{match.HomeTeam}} {{match.HomeScore}} - {{match.AwayScore}} {{match.AwayTeam}} </td>
