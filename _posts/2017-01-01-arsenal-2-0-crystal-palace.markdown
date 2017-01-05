@@ -1,6 +1,6 @@
 ---
 layout: post
-header: Arsenal 2-0 Crystal Palace
+header: Arsenal 2-0 Palace
 date:   2017-01-01
 categories: premier-league
 video: "4f5jHfuLKRg"
