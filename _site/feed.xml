@@ -5,16 +5,16 @@
     <description>A history of all the famous moments for the Arsenal Football Club. Going unbeaten in 2003/2004 which immortalised Arsenal FC.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Jan 2017 22:36:36 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Jan 2017 22:36:36 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Jan 2017 22:54:45 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Jan 2017 22:54:45 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Arsenal 2-0 Crystal Palace</title>
         <description>Olivier Giroud scored a stunning scorpion goal to set Arsenal on their way to victory. Iwobi completed the win with a precise header</description>
         <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/premier-league/2017/arsenal-2-0-crystal-palace</link>
-        <guid isPermaLink="true">http://localhost:4000/premier-league/2017/arsenal-2-0-crystal-palace</guid>
+        <link>http://localhost:4000/premier-league/2017/arsenal-2-0-crystal-palace/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2017/arsenal-2-0-crystal-palace/</guid>
         
         
         <category>premier-league</category>
@@ -25,8 +25,8 @@
         <title>Arsenal 3-0 Manchester United</title>
         <description>Arsenal stunned Manchester United by scoring 3 goals in 20 minutes to end the contest. Goals from Ozil and Sanchez completed the win.</description>
         <pubDate>Sun, 04 Oct 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/premier-league/2015/arsenal-3-0-manchester-united</link>
-        <guid isPermaLink="true">http://localhost:4000/premier-league/2015/arsenal-3-0-manchester-united</guid>
+        <link>http://localhost:4000/premier-league/2015/arsenal-3-0-manchester-united/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2015/arsenal-3-0-manchester-united/</guid>
         
         
         <category>premier-league</category>
@@ -37,8 +37,8 @@
         <title>Arsenal 4-0 Aston Villa</title>
         <description>Arsenal win the FA Cup for a record 12 times, punishing Aston Villa 4-0. A wonder goal from Alexis Sanchez put Arsenal in command after Theo Walcott's opener. Per Mertesacker and Olivier Giroud completed the rout.</description>
         <pubDate>Sat, 30 May 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fa-cup/2015/arsenal-4-0-aston-villa</link>
-        <guid isPermaLink="true">http://localhost:4000/fa-cup/2015/arsenal-4-0-aston-villa</guid>
+        <link>http://localhost:4000/fa-cup/2015/arsenal-4-0-aston-villa/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/2015/arsenal-4-0-aston-villa/</guid>
         
         
         <category>fa-cup</category>
@@ -49,8 +49,8 @@
         <title>Arsenal 4-1 Liverpool</title>
         <description>Arsenal blitz liverpool with 3 goals within 8 minutes to secure all three points. Goals from Bellerin, Ozil and Sanchez set Arsenal on their way</description>
         <pubDate>Sat, 04 Apr 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/premier-league/2015/arsenal-4-1-liverpool</link>
-        <guid isPermaLink="true">http://localhost:4000/premier-league/2015/arsenal-4-1-liverpool</guid>
+        <link>http://localhost:4000/premier-league/2015/arsenal-4-1-liverpool/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2015/arsenal-4-1-liverpool/</guid>
         
         
         <category>premier-league</category>
@@ -61,8 +61,8 @@
         <title>Arsenal 3-2 Hull</title>
         <description>Arsenal staged an incredible fightback after being 2-0 down within 10 minutes against Hull. Santi Cazorla's wonderful freekick put Arsenal back in contention before Koscielny equalised shortly before full time. Aaron Ramsey scored the winner in extra time.</description>
         <pubDate>Sat, 17 May 2014 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fa-cup/2014/arsenal-3-2-hull</link>
-        <guid isPermaLink="true">http://localhost:4000/fa-cup/2014/arsenal-3-2-hull</guid>
+        <link>http://localhost:4000/fa-cup/2014/arsenal-3-2-hull/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/2014/arsenal-3-2-hull/</guid>
         
         
         <category>fa-cup</category>
@@ -73,8 +73,8 @@
         <title>Arsenal 5-2 Tottenham Hotspur</title>
         <description>Arsenal put in a 5 star performance to crush fierce rivals Tottenham 5-2. Adebayor opened the scoring before a reckless tackle saw him sent off. Mertesacker equalised before Podolski and Giroud set Arsenal on their way to a memorable victory.</description>
         <pubDate>Sat, 17 Nov 2012 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/premier-league/2012/arsenal-5-2-spurs</link>
-        <guid isPermaLink="true">http://localhost:4000/premier-league/2012/arsenal-5-2-spurs</guid>
+        <link>http://localhost:4000/premier-league/2012/arsenal-5-2-spurs/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2012/arsenal-5-2-spurs/</guid>
         
         
         <category>premier-league</category>
@@ -85,8 +85,8 @@
         <title>Reading 5-7 Arsenal</title>
         <description>Arsenal mount an incredible comeback from being 4-0 down to win 7-5 in extra time. A hat trick from Theo Walcott helped Arsenal recover from an impossible situation.</description>
         <pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/league-cup/2012/reading-5-7-arsenal</link>
-        <guid isPermaLink="true">http://localhost:4000/league-cup/2012/reading-5-7-arsenal</guid>
+        <link>http://localhost:4000/league-cup/2012/reading-5-7-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/league-cup/2012/reading-5-7-arsenal/</guid>
         
         
         <category>league-cup</category>
@@ -97,8 +97,8 @@
         <title>Arsenal 5-2 Tottenham Hotspur</title>
         <description>Arsenal stunned Spurs with a magnificent comeback after being 2-0 down early on. A Sagna header and a magnificent long ranger from Van Persie saw Arsenal level at half time. Rosicky put Arsenal ahead and a double from Walcott sent the gunners fans wild.</description>
         <pubDate>Sun, 26 Feb 2012 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/premier-league/2012/arsenal-5-2-spurs</link>
-        <guid isPermaLink="true">http://localhost:4000/premier-league/2012/arsenal-5-2-spurs</guid>
+        <link>http://localhost:4000/premier-league/2012/arsenal-5-2-spurs/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2012/arsenal-5-2-spurs/</guid>
         
         
         <category>premier-league</category>
@@ -109,8 +109,8 @@
         <title>Arsenal 5-4 Manchester United</title>
         <description>Arsenal win the FA Cup for the 10th time with a penalty shootout victory over Manchester United. Arsenal were on the back foot for the majority of the game with Patrick Vieira scoring the crucial penalty.</description>
         <pubDate>Tue, 17 May 2005 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fa-cup/2005/arsenal-0-0-manchester-united</link>
-        <guid isPermaLink="true">http://localhost:4000/fa-cup/2005/arsenal-0-0-manchester-united</guid>
+        <link>http://localhost:4000/fa-cup/2005/arsenal-0-0-manchester-united/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/2005/arsenal-0-0-manchester-united/</guid>
         
         
         <category>fa-cup</category>
@@ -121,8 +121,8 @@
         <title>Arsenal 3-1 Aston Villa</title>
         <description>Arsenal set a record 49 games unbeaten seeing off Aston Villa 3-1. Villa took a shock lead through Hendrie before Robert Pires equalised from the penalty spot. Thierry Henry gave Arsenal the lead before Pires wrapped things up.</description>
         <pubDate>Sat, 16 Oct 2004 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/premier-league/2004/arsenal-3-1-aston-villa-49-unbeaten-record</link>
-        <guid isPermaLink="true">http://localhost:4000/premier-league/2004/arsenal-3-1-aston-villa-49-unbeaten-record</guid>
+        <link>http://localhost:4000/premier-league/2004/arsenal-3-1-aston-villa-49-unbeaten-record/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2004/arsenal-3-1-aston-villa-49-unbeaten-record/</guid>
         
         
         <category>premier-league</category>
