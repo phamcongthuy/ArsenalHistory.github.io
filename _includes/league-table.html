@@ -25,19 +25,23 @@
         <table class="highlight">
              <thead>
                 <tr>
-                    <th colspan="2">{{ page.Season }} league season summary</th>
+                    <th colspan="3"><h2>{{ page.Season }} league season summary</h2></th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>
-                        <div class="chip">
-                        <img src="/assets/img/goal.svg"/> Goals scored: {{ arsenal_score }}                        
+                    <td class="center-align">
+                        <div class="chip teal lighten-2">
+                        <i class="material-icons" style="vertical-align: middle;">play_arrow</i> Goals scored: {{ arsenal_score }}                        
                     </div>
                     </td>
-                    <td>
-                          <div class="chip">
-                        <img src="/assets/img/suspended.svg"/> Goals conceded: {{ opposition_score }}
+                    <td class="center-align">
+                          <div class="chip red lighten-2">
+                         <i class="material-icons" style="vertical-align: middle;">stop</i> Goals conceded: {{ opposition_score }}
+                        </div></td>
+                    <td class="center-align">
+                          <div class="chip blue lighten-2">
+                       <i class="material-icons" style="vertical-align: middle;">swap_vert</i> Goal difference: {{ arsenal_score | minus: opposition_score }}
                         </div></td>
                 </tr>
             </tbody>
