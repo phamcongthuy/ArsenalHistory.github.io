@@ -37,6 +37,12 @@ body::after {
   
       .card-content{
         max-height: 100%;
+
+        p{
+           @media only screen and (min-width: 1200px) {
+             font-size: 14.5px;
+           }
+        }
       }
   }
 
