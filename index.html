@@ -32,8 +32,9 @@ excerpt:  A history of all the famous moments for the Arsenal Football Club. A r
   </div>
 </div>
 <div class="row">
+  <div class="owl-carousel owl-theme">
   {% for post in site.posts %}
-    <div class="col s12 m6 l4">
+    <div class="col s12">
       <div class="card medium hoverable">
         <div class="card-image waves-effect waves-block waves-light activator">
           <img class="responsive-img activator" data-id="video_{{forloop.index}}" data-src="https://img.youtube.com/vi/{{post.video}}/0.jpg" onclick="ga('send', 'event', 'link', 'click', '{{ post.header }}')" alt="{{ post.header }}" />
@@ -55,6 +56,7 @@ excerpt:  A history of all the famous moments for the Arsenal Football Club. A r
       </div>
     </div>
   {% endfor %}
+  </div>
   </div>
  <!--{% if paginator.total_pages > 1 %}
   <ul class="pagination">
