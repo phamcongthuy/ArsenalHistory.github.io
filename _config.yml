@@ -12,9 +12,8 @@ description: A history of all the famous moments for the Arsenal Football Club. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.arsenalhistory.co.uk" # the base hostname & protocol for your site
 
-gems: [jekyll-paginate,jekyll-sitemap]
-paginate: 9
-paginate_path: "/page:num"
+gems: [jekyll-sitemap]
+
 
 # Build settings
 markdown: kramdown

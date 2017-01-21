@@ -32,7 +32,7 @@ excerpt:  A history of all the famous moments for the Arsenal Football Club. A r
   </div>
 </div>
 <div class="row">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     <div class="col s12 m6 l4">
       <div class="card medium hoverable">
         <div class="card-image waves-effect waves-block waves-light activator">
@@ -56,7 +56,7 @@ excerpt:  A history of all the famous moments for the Arsenal Football Club. A r
     </div>
   {% endfor %}
   </div>
- {% if paginator.total_pages > 1 %}
+ <!--{% if paginator.total_pages > 1 %}
   <ul class="pagination">
     {% if paginator.previous_page %}
     <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_left</i></a></li>
@@ -74,7 +74,7 @@ excerpt:  A history of all the famous moments for the Arsenal Football Club. A r
     <li class="disabled"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
     {% endif %}
   </ul>
-  {% endif %}
+  {% endif %}-->
 <div class="row">
   <div class="col s12 m6 l6">
     <h2>Recent Results</h2>
