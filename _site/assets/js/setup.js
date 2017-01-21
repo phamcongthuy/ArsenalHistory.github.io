@@ -21,7 +21,7 @@ $(document).ready(function(){
 
 $('.owl-carousel').owlCarousel({
     loop:true,
-    margin:10,
+    margin:0,
     responsiveClass:true,
     responsive:{
         0:{
@@ -38,8 +38,7 @@ $('.owl-carousel').owlCarousel({
             items:3,
             nav:true,
             dots: false,
-            loop:false,
-            margin:0
+            loop:false
         }
     }
 })
