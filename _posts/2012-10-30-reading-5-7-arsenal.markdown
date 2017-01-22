@@ -10,3 +10,5 @@ title: Reading 5-7 Arsenal
 excerpt: "Arsenal mount an incredible comeback from being 4-0 down to win 7-5 in extra time.
  A hat trick from Theo Walcott helped Arsenal recover from an impossible situation."
 ---
+
+{% include related-league-cup-matches.html  %}

@@ -8,3 +8,5 @@ summary: "Andy Linighan was the hero in extra time for Arsenal as he scored the 
 excerpt: "Andy Linighan was the hero in extra time for Arsenal as he scored the crucial header to win Arsenal the FA Cup."
 title: Arsenal 2-1 Sheffield Wednesday
 ---
+
+{% include related-fa-cup-matches.html  %}

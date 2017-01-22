@@ -8,3 +8,5 @@ summary: "One of Arsenal's most famous nights in Europe. against all odds Arsena
 excerpt: "One of Arsenal's most famous nights in Europe. against all odds Arsenal Beat Parma 1-0 thanks to Alan Smith's  fabulous volley"
 title: Arsenal 1-0 Parma
 ---
+
+{% include related-champions-league-matches.html  %}

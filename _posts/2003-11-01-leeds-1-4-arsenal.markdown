@@ -8,3 +8,5 @@ summary: "Arsenal sweep past Leeds with an outstanding attacking display"
 excerpt: "Arsenal sweep past Leeds with an outstanding attacking display"
 title: Leeds 1-4 Arsenal
 ---
+
+{% include related-premier-league-matches.html  %}

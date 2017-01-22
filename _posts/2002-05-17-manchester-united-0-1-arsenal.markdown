@@ -8,3 +8,5 @@ summary: "A famous night for Arsenal as Sylvan Wiltord scored the only goal to s
 excerpt: "A famous night for Arsenal as Sylvan Wiltord scored the only goal to secure the title at Old Trafford and complete another famous double."
 title: Manchester United 0-1 Arsenal
 ---
+
+{% include related-premier-league-matches.html  %}

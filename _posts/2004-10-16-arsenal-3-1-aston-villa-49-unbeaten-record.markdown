@@ -8,3 +8,5 @@ summary: "Arsenal set a record 49 games unbeaten seeing off Aston Villa 3-1. Vil
 excerpt: "Arsenal set a record 49 games unbeaten seeing off Aston Villa 3-1. Villa took a shock lead through Hendrie before Robert Pires equalised from the penalty spot. Thierry Henry gave Arsenal the lead before Pires wrapped things up."
 title: Arsenal 3-1 Aston Villa
 ---
+
+{% include related-premier-league-matches.html  %}

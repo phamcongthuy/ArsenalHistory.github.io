@@ -8,3 +8,5 @@ summary: "Arsenal thrash Wimbledon with 5 different goalscorers"
 excerpt: "Arsenal thrash Wimbledon with 5 different goalscorers"
 title: Arsenal 5-0 Wimbledon 
 ---
+
+{% include related-premier-league-matches.html  %}

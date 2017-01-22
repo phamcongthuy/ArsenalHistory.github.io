@@ -8,3 +8,5 @@ summary: "Arsenal stunned Chelsea with a hat trick from Kanu in the last 15 minu
 excerpt: "Arsenal stunned Chelsea with a hat trick from Kanu in the last 15 minutes to win 3-2 at Stamford Bridge."
 title: Chelsea 2-3 Arsenal
 ---
+
+{% include related-premier-league-matches.html  %}

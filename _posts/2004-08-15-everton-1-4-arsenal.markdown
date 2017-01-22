@@ -8,3 +8,5 @@ summary: "Arsenal start the defence of their title with a convincing win over Ev
 excerpt: "Arsenal start the defence of their title with a convincing win over Everton"
 title: Everton 1-4 Arsenal
 ---
+
+{% include related-premier-league-matches.html  %}

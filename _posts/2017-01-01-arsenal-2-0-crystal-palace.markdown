@@ -8,3 +8,6 @@ summary: "Olivier Giroud scored a stunning scorpion goal to set Arsenal on their
 title: Arsenal 2-0 Crystal Palace
 excerpt: "Olivier Giroud scored a stunning scorpion goal to set Arsenal on their way to victory. Iwobi completed the win with a precise header."
 ---
+
+{% include related-premier-league-matches.html  %}
+

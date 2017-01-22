@@ -5,8 +5,8 @@
     <description>A history of all the famous moments for the Arsenal Football Club. Going unbeaten in 2003/2004 which immortalised Arsenal FC.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Jan 2017 20:50:07 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Jan 2017 20:50:07 +0000</lastBuildDate>
+    <pubDate>Sun, 22 Jan 2017 22:44:16 +0000</pubDate>
+    <lastBuildDate>Sun, 22 Jan 2017 22:44:16 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -70,6 +70,18 @@
       </item>
     
       <item>
+        <title>Arsenal 7-3 Newcastle United</title>
+        <description>Arsenal hit 7 as a crazy game saw Theo Walcott score a hat trick. Arsenal and Newcastle were tied at 3-3 until Arsenal finally broke away.</description>
+        <pubDate>Sat, 29 Dec 2012 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/premier-league/2012/arsenal-7-3-newcastle-united/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2012/arsenal-7-3-newcastle-united/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
         <title>Arsenal 5-2 Tottenham Hotspur</title>
         <description>Arsenal put in a 5 star performance to crush fierce rivals Tottenham 5-2. Adebayor opened the scoring before a reckless tackle saw him sent off. Mertesacker equalised before Podolski and Giroud set Arsenal on their way to a memorable victory.</description>
         <pubDate>Sat, 17 Nov 2012 00:00:00 +0000</pubDate>
@@ -106,26 +118,14 @@
       </item>
     
       <item>
-        <title>Arsenal 5-4 Manchester United</title>
-        <description>Arsenal win the FA Cup for the 10th time with a penalty shootout victory over Manchester United. Arsenal were on the back foot for the majority of the game with Patrick Vieira scoring the crucial penalty.</description>
-        <pubDate>Tue, 17 May 2005 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fa-cup/2005/arsenal-0-0-manchester-united/</link>
-        <guid isPermaLink="true">http://localhost:4000/fa-cup/2005/arsenal-0-0-manchester-united/</guid>
+        <title>Liverpool 3-6 Arsenal</title>
+        <description>A stunning performance from Arsenal's youngsters as Julio Baptista hits 4 against Liverpool. Aliadiere and Song scored the other goals.</description>
+        <pubDate>Tue, 09 Jan 2007 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/league-cup/2007/liverpool-3-6-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/league-cup/2007/liverpool-3-6-arsenal/</guid>
         
         
-        <category>fa-cup</category>
-        
-      </item>
-    
-      <item>
-        <title>Arsenal 3-1 Aston Villa</title>
-        <description>Arsenal set a record 49 games unbeaten seeing off Aston Villa 3-1. Villa took a shock lead through Hendrie before Robert Pires equalised from the penalty spot. Thierry Henry gave Arsenal the lead before Pires wrapped things up.</description>
-        <pubDate>Sat, 16 Oct 2004 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/premier-league/2004/arsenal-3-1-aston-villa-49-unbeaten-record/</link>
-        <guid isPermaLink="true">http://localhost:4000/premier-league/2004/arsenal-3-1-aston-villa-49-unbeaten-record/</guid>
-        
-        
-        <category>premier-league</category>
+        <category>league-cup</category>
         
       </item>
     

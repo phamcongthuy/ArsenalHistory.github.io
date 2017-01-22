@@ -8,3 +8,5 @@ summary: "A double from Kanu gave Arsenal a comprehensive 1-4 victory over Leeds
 excerpt: "A double from Kanu gave Arsenal a comprehensive 1-4 victory over Leeds United."
 title: Leeds 1-4 Arsenal
 ---
+
+{% include related-premier-league-matches.html  %}

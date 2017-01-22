@@ -8,3 +8,5 @@ summary: "Arsenal stunned Manchester United by scoring 3 goals in 20 minutes to 
 title: Arsenal 3-0 Manchester United
 excerpt: "Arsenal stunned Manchester United by scoring 3 goals in 20 minutes to end the contest. Goals from Ozil and Sanchez completed the win."
 ---
+
+{% include related-premier-league-matches.html  %}

@@ -21,6 +21,10 @@
 <lastmod>2014-05-17T00:00:00+01:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/premier-league/2012/arsenal-7-3-newcastle-united/</loc>
+<lastmod>2012-12-29T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/premier-league/2012/arsenal-5-2-spurs/</loc>
 <lastmod>2012-11-17T00:00:00+00:00</lastmod>
 </url>
@@ -31,6 +35,10 @@
 <url>
 <loc>http://localhost:4000/premier-league/2012/arsenal-5-2-spurs/</loc>
 <lastmod>2012-02-26T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/league-cup/2007/liverpool-3-6-arsenal/</loc>
+<lastmod>2007-01-09T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/fa-cup/2005/arsenal-0-0-manchester-united/</loc>

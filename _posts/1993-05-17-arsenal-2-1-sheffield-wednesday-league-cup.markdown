@@ -8,3 +8,5 @@ summary: "Steve Morrow got the extra time winner which won the League cup for Ar
 excerpt: "Steve Morrow got the extra time winner which won the League cup for Arsenal after coming from behind against Sheffield Wednesday."
 title: Arsenal 2-1 Sheffield Wednesday
 ---
+
+{% include related-league-cup-matches.html  %}
