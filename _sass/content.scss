@@ -55,8 +55,14 @@ body::after {
   margin-top: 10px;
 }
 h1 {
-  font-size: 3rem;
-  margin: 1.5rem 0 1.68rem 0;
+  font-size: 1rem;
+  display:inline;
+  line-height: inherit;
+  padding-left:60px;
+
+  @media #{$medium-and-up} {
+      font-size:1.5rem;
+  }
 }
 
 h2{
@@ -103,6 +109,10 @@ nav {
   .brand-logo{
     left:0px;
     transform: inherit;
+  }
+
+  a{
+    padding-right:10px;
   }
 }
 
