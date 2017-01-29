@@ -5,8 +5,8 @@
     <description>A history of all the famous moments for the Arsenal Football Club. Going unbeaten in 2003/2004 which immortalised Arsenal FC.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 Jan 2017 21:27:02 +0000</pubDate>
-    <lastBuildDate>Sun, 29 Jan 2017 21:27:02 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Jan 2017 22:02:09 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Jan 2017 22:02:09 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -126,6 +126,258 @@
         
         
         <category>league-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 5-4 Manchester United</title>
+        <description>Arsenal win the FA Cup for the 10th time with a penalty shootout victory over Manchester United. Arsenal were on the back foot for the majority of the game with Patrick Vieira scoring the crucial penalty.</description>
+        <pubDate>Tue, 17 May 2005 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fa-cup/2005/arsenal-0-0-manchester-united/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/2005/arsenal-0-0-manchester-united/</guid>
+        
+        
+        <category>fa-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 3-1 Aston Villa</title>
+        <description>Arsenal set a record 49 games unbeaten seeing off Aston Villa 3-1. Villa took a shock lead through Hendrie before Robert Pires equalised from the penalty spot. Thierry Henry gave Arsenal the lead before Pires wrapped things up.</description>
+        <pubDate>Sat, 16 Oct 2004 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/2004/arsenal-3-1-aston-villa-49-unbeaten-record/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2004/arsenal-3-1-aston-villa-49-unbeaten-record/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Everton 1-4 Arsenal</title>
+        <description>Arsenal start the defence of their title with a convincing win over Everton</description>
+        <pubDate>Sun, 15 Aug 2004 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/2004/everton-1-4-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2004/everton-1-4-arsenal/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 2-1 Leicester City</title>
+        <description>Arsenal became the first team to win the Premier League unbeaten. Goals from Thierry Henry and Patrick Vieira secured the win over Leicester City.</description>
+        <pubDate>Sat, 15 May 2004 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/2004/arsenal-2-1-leicester/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2004/arsenal-2-1-leicester/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Leeds 1-4 Arsenal</title>
+        <description>Arsenal sweep past Leeds with an outstanding attacking display</description>
+        <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/premier-league/2003/leeds-1-4-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2003/leeds-1-4-arsenal/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 1-0 Southampton</title>
+        <description>Arsenal beat southampton 1-0 to secure their 9th FA Cup. An early Robert Pires goal secured the cup.</description>
+        <pubDate>Sat, 17 May 2003 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fa-cup/2003/arsenal-1-0-southampton/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/2003/arsenal-1-0-southampton/</guid>
+        
+        
+        <category>fa-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Leeds 1-4 Arsenal</title>
+        <description>A double from Kanu gave Arsenal a comprehensive 1-4 victory over Leeds United.</description>
+        <pubDate>Sat, 28 Sep 2002 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/2002/leeds-1-4-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2002/leeds-1-4-arsenal/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Manchester United 0-1 Arsenal</title>
+        <description>A famous night for Arsenal as Sylvan Wiltord scored the only goal to secure the title at Old Trafford and complete another famous double.</description>
+        <pubDate>Fri, 17 May 2002 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/2002/manchester-united-0-1-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/2002/manchester-united-0-1-arsenal/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 2-0 Chelsea</title>
+        <description>Stunning goals from Ray Parlour and Freddie Ljungberg gave Arsenal a 2-0 victory over Chelsea. That was Arsenal's 8th FA Cup victory.</description>
+        <pubDate>Fri, 17 May 2002 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fa-cup/2002/arsenal-2-0-chelsea/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/2002/arsenal-2-0-chelsea/</guid>
+        
+        
+        <category>fa-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 3-1 Juventus</title>
+        <description>Arsenal beat a strong Juventus side with a double from Freddie Ljungberg</description>
+        <pubDate>Tue, 04 Dec 2001 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/champions-league/2001/arsenal-3-1-juventus/</link>
+        <guid isPermaLink="true">http://localhost:4000/champions-league/2001/arsenal-3-1-juventus/</guid>
+        
+        
+        <category>champions-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Chelsea 2-3 Arsenal</title>
+        <description>Arsenal stunned Chelsea with a hat trick from Kanu in the last 15 minutes to win 3-2 at Stamford Bridge.</description>
+        <pubDate>Sat, 23 Oct 1999 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/1999/chelsea-2-3-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/1999/chelsea-2-3-arsenal/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 4-0 Everton</title>
+        <description>A comfortable victory for Arsenal gave Arsene Wenger his first trophy for Arsenal. An own goal frim Bilic and a double from Overmars set Arsenal on their way before the captain Tony Adams sealed the 4-0 victory</description>
+        <pubDate>Sun, 17 May 1998 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/1998/arsenal-4-0-everton/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/1998/arsenal-4-0-everton/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 2-0 Newcastle United</title>
+        <description>Arsene Wenger's second trophy came straight after winning the league as he recorded a well deserved FA Cup victory over Newcastle United. Goals from Anelka and Overmars sealed the victory and Arsenal's 7th FA Cup.</description>
+        <pubDate>Sun, 17 May 1998 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fa-cup/1998/arsenal-2-0-newcastle-united/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/1998/arsenal-2-0-newcastle-united/</guid>
+        
+        
+        <category>fa-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 5-0 Wimbledon</title>
+        <description>Arsenal thrash Wimbledon with 5 different goalscorers</description>
+        <pubDate>Sat, 18 Apr 1998 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/1998/arsenal-5-0-wimbledon/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/1998/arsenal-5-0-wimbledon/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Blackburn 1-4 Arsenal</title>
+        <description>Arsenal brushed aside title rivals Blackburn with a scintillating first half display.</description>
+        <pubDate>Mon, 13 Apr 1998 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/1998/blackburn-1-4-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/1998/blackburn-1-4-arsenal/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Chelsea 2-3 Arsenal</title>
+        <description>A Nigel Winterburn stunner gave Arsenal the three points against Chelsea</description>
+        <pubDate>Sun, 21 Sep 1997 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/1997/chelsea-2-3-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/1997/chelsea-2-3-arsenal/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 1-0 Parma</title>
+        <description>One of Arsenal's most famous nights in Europe. against all odds Arsenal Beat Parma 1-0 thanks to Alan Smith's  fabulous volley</description>
+        <pubDate>Tue, 17 May 1994 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/cup-winners-cup/1994/arsenal-1-0-parma/</link>
+        <guid isPermaLink="true">http://localhost:4000/cup-winners-cup/1994/arsenal-1-0-parma/</guid>
+        
+        
+        <category>cup-winners-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 2-1 Sheffield Wednesday</title>
+        <description>Steve Morrow got the extra time winner which won the League cup for Arsenal after coming from behind against Sheffield Wednesday.</description>
+        <pubDate>Mon, 17 May 1993 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/league-cup/1993/arsenal-2-1-sheffield-wednesday-league-cup/</link>
+        <guid isPermaLink="true">http://localhost:4000/league-cup/1993/arsenal-2-1-sheffield-wednesday-league-cup/</guid>
+        
+        
+        <category>league-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 2-1 Sheffield Wednesday</title>
+        <description>Andy Linighan was the hero in extra time for Arsenal as he scored the crucial header to win Arsenal the FA Cup.</description>
+        <pubDate>Mon, 17 May 1993 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fa-cup/1993/arsenal-2-1-sheffield-wednesday-fa-cup/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/1993/arsenal-2-1-sheffield-wednesday-fa-cup/</guid>
+        
+        
+        <category>fa-cup</category>
+        
+      </item>
+    
+      <item>
+        <title>Arsenal 3-1 Manchester United</title>
+        <description>Alan Smith scored a hat trick which gave Arsenal a 3-1 victory over Manchester United to secure the league title.</description>
+        <pubDate>Fri, 17 May 1991 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/premier-league/1991/arsenal-3-1-manchester-united/</link>
+        <guid isPermaLink="true">http://localhost:4000/premier-league/1991/arsenal-3-1-manchester-united/</guid>
+        
+        
+        <category>premier-league</category>
+        
+      </item>
+    
+      <item>
+        <title>Liverpool 0-2 Arsenal</title>
+        <description>The most memorable league victory for Arsenal as they needed to win by two clear goals at Anfield against the Champions Liverpool. Michael Thomas scored in injury time to give Arsenal a 2-0 win after Alan Smith opened the scoring.</description>
+        <pubDate>Wed, 17 May 1989 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/old-division-one/1989/liverpool-0-2-arsenal/</link>
+        <guid isPermaLink="true">http://localhost:4000/old-division-one/1989/liverpool-0-2-arsenal/</guid>
+        
+        
+        <category>old-division-one</category>
         
       </item>
     
