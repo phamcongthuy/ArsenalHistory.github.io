@@ -1,0 +1,52 @@
+---
+layout: default
+excerpt:  A history of all the famous moments for the Arsenal Football Club. A record 12 FA Cup wins. Going unbeaten in 2003/2004 which immortalised the club.
+title: Memorable Matches
+---
+
+<div class="container">
+<div class="row">
+  {% for post in paginator.posts %}
+    <div class="col s12 m6 l4">
+      <div class="card medium hoverable">
+        <div class="card-image waves-effect waves-block waves-light activator">
+          <img class="responsive-img activator" data-id="video_{{forloop.index}}" data-src="https://img.youtube.com/vi/{{post.video}}/0.jpg" onclick="ga('send', 'event', 'link', 'click', '{{ post.header }}')" alt="{{ post.header }}" />
+          <span class="card-title activator valign-wrapper" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', '{{ post.header }}')">{{ post.header }}
+            <i class="activator small material-icons right" data-id="video_{{forloop.index}}" onclick="ga('send', 'event', 'link', 'click', '{{ post.header }}')">play_circle_outline</i>
+          </span>
+        </div>
+        <div class="card-content">
+          <span class="post-meta"><strong>{{ post.date | date: "%b %-d, %Y" }}</strong></span>
+          <p>{{post.summary}}</p>
+        </div>
+        <div class="card-reveal">
+          <span class="card-title grey-text text-darken-4">{{ post.header }}<i class="material-icons right">close</i></span>
+          <div class="video-container">
+            <iframe class="responsive-video" content="https://www.youtube.com/embed/{{post.video}}" id="video_{{forloop.index}}" data-video="https://www.youtube.com/embed/{{post.video}}" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <div><a href="{{post.url}}">Read more</a></div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+ {% if paginator.total_pages > 1 %}
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+    <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_left</i></a></li>
+    {% else %}
+    <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+    {% endif %} {% for page in (1..paginator.total_pages) %} {% if page == paginator.page %}
+    <li class="active"><a href="#!">{{ page }}</a></li>
+    {% elsif page == 1 %}
+    <li class="waves-effect"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+    {% else %}
+    <li class="waves-effect"><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %} {% endfor %} {% if paginator.next_page %}
+    <li class="waves-effect"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="material-icons">chevron_right</i></a></li>
+    {% else %}
+    <li class="disabled"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+    {% endif %}
+  </ul>
+  {% endif %}
+  </div>
