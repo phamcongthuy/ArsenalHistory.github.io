@@ -6,97 +6,7 @@ breadcrumbs:
       url : /statistics
       
 ---
-  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript">
-      google.charts.load('current', {'packages':['corechart']});
-      google.charts.setOnLoadCallback(drawChart);
-      google.charts.setOnLoadCallback(drawLeaguePosition);
-      google.charts.setOnLoadCallback(drawPremierLeaguePosition);
 
-      function drawChart() {
-        var data = google.visualization.arrayToDataTable([
-          ['Month', 'Points'],
-
-          {% for data in site.data.victories-per-month %}
-
-            ['{{data.Month}}',  {{data.PointsPerMonth}}],
-          {% endfor %}
-
-        ]);
-
-        var options = {
-          title: 'Points per month in the League (1893 - present)',
-          curveType: 'function',
-          legend: { position: 'bottom' },
-          series: {
-            0: { color: '#EA323D' },
-          }
-        };
-
-        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
-
-        chart.draw(data, options);
-      }
-
-    function drawLeaguePosition() {
-        var data = google.visualization.arrayToDataTable([
-          ['Season', 'Position'],
-
-          {% for data in site.data.season-finishes %}
-
-            ['{{data.Season}}',  {{data.Position}}],
-          {% endfor %}
-
-        ]);
-
-        var options = {
-          title: 'Season finishes (1893 - present)',
-          curveType: 'function',
-          legend: { position: 'bottom' },
-          series: {
-            0: { color: '#EA323D' },
-          },
-          vAxis: {direction: -1,viewWindow: {
-                    min: 0,
-                    max: 20
-                }}
-        };
-
-        var chart = new google.visualization.ScatterChart(document.getElementById('scatter_chart'));
-
-        chart.draw(data, options);
-      }
-
-       function drawPremierLeaguePosition() {
-        var data = google.visualization.arrayToDataTable([
-          ['Season', 'Position'],
-
-          {% for data in site.data.season-finishes-premier-league %}
-
-            ['{{data.Season}}',  {{data.Position}}],
-          {% endfor %}
-
-        ]);
-
-        var options = {
-          title: 'Season finishes in premier league (1992 - present)',
-          curveType: 'function',
-          legend: { position: 'bottom' },
-          series: {
-            0: { color: '#EA323D' },
-          },
-          vAxis: {direction: -1,viewWindow: {
-                    min: 0,
-                    max: 20
-                }}
-        };
-
-        var chart = new google.visualization.ScatterChart(document.getElementById('scatter_chart_premier_league'));
-
-        chart.draw(data, options);
-      }
-      
-    </script>
     <div class="container">
       {% include breadcrumb.html %}
       <div class="row">
@@ -104,12 +14,17 @@ breadcrumbs:
             <div id="curve_chart" style="width: 100%; min-height: 500px">  </div>
           </div>
             <div class="col s12 m6">
-            <div id="scatter_chart" style="width: 100%; min-height: 500px">  </div>
+            <div id="scatter_chart_premier_league" style="width: 100%; min-height: 500px">  </div>
           </div>
       </div>
       <div class="row">
-             <div class="col s12 m6">
-            <div id="scatter_chart_premier_league" style="width: 100%; min-height: 500px">  </div>
+             <div class="col s12">
+            <div id="scatter_chart" style="width: 100%; min-height: 500px">  </div>
+          </div>
+        </div>
+         <div class="row">
+             <div class="col s12">
+            <div id="pie_chart" style="width: 100%; min-height: 500px">  </div>
           </div>
         </div>
     </div>
