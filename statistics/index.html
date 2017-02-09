@@ -11,6 +11,7 @@ breadcrumbs:
       google.charts.load('current', {'packages':['corechart']});
       google.charts.setOnLoadCallback(drawChart);
       google.charts.setOnLoadCallback(drawLeaguePosition);
+      google.charts.setOnLoadCallback(drawPremierLeaguePosition);
 
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
@@ -24,7 +25,7 @@ breadcrumbs:
         ]);
 
         var options = {
-          title: 'Points per month in the League (1886 - present)',
+          title: 'Points per month in the League (1893 - present)',
           curveType: 'function',
           legend: { position: 'bottom' },
           series: {
@@ -55,12 +56,42 @@ breadcrumbs:
           series: {
             0: { color: '#EA323D' },
           },
-          vAxis: {direction: -1, minValue:1,viewWindow: {
-                    min: 1
+          vAxis: {direction: -1,viewWindow: {
+                    min: 0,
+                    max: 20
                 }}
         };
 
         var chart = new google.visualization.ScatterChart(document.getElementById('scatter_chart'));
+
+        chart.draw(data, options);
+      }
+
+       function drawPremierLeaguePosition() {
+        var data = google.visualization.arrayToDataTable([
+          ['Season', 'Position'],
+
+          {% for data in site.data.season-finishes-premier-league %}
+
+            ['{{data.Season}}',  {{data.Position}}],
+          {% endfor %}
+
+        ]);
+
+        var options = {
+          title: 'Season finishes in premier league (1992 - present)',
+          curveType: 'function',
+          legend: { position: 'bottom' },
+          series: {
+            0: { color: '#EA323D' },
+          },
+          vAxis: {direction: -1,viewWindow: {
+                    min: 0,
+                    max: 20
+                }}
+        };
+
+        var chart = new google.visualization.ScatterChart(document.getElementById('scatter_chart_premier_league'));
 
         chart.draw(data, options);
       }
@@ -69,11 +100,16 @@ breadcrumbs:
     <div class="container">
       {% include breadcrumb.html %}
       <div class="row">
-          <div class="col s12">
+          <div class="col s12 m6">
             <div id="curve_chart" style="width: 100%; min-height: 500px">  </div>
           </div>
-            <div class="col s12">
+            <div class="col s12 m6">
             <div id="scatter_chart" style="width: 100%; min-height: 500px">  </div>
+          </div>
+      </div>
+      <div class="row">
+             <div class="col s12 m6">
+            <div id="scatter_chart_premier_league" style="width: 100%; min-height: 500px">  </div>
           </div>
         </div>
     </div>
