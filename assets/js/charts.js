@@ -2,12 +2,12 @@
 ---
 
 google.charts.load('current', { 'packages': ['corechart'] });
-google.charts.setOnLoadCallback(drawChart);
+google.charts.setOnLoadCallback(victoriesPerMonthChart);
 google.charts.setOnLoadCallback(drawLeaguePosition);
 google.charts.setOnLoadCallback(drawPremierLeaguePosition);
 google.charts.setOnLoadCallback(drawWinLossDrawChart);
 
-function drawChart() {
+function victoriesPerMonthChart() {
     var data = google.visualization.arrayToDataTable([
         ['Month', 'Points'],
         {% for data in site.data.victories-per-month %}
@@ -105,3 +105,11 @@ var chart = new google.visualization.PieChart(document.getElementById('pie_chart
 
 chart.draw(data, options);
       }
+
+
+      $(window).resize(function(){
+        victoriesPerMonthChart();
+        drawLeaguePosition();
+        drawPremierLeaguePosition();
+        drawWinLossDrawChart();
+      });
