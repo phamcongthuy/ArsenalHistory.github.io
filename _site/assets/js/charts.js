@@ -374,7 +374,7 @@ function drawWinLossDrawChart() {
     var data = google.visualization.arrayToDataTable([
         ['Results', 'Def'],
         
-        ['Wins', 2031],
+        ['Wins', 2032],
         ['Draws', 1107],
         ['Losses', 1296],
         
