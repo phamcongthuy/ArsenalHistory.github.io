@@ -1,0 +1,53 @@
+---
+layout: default
+title: Season 2016-2017 - Arsenal Results 
+excerpt: Arsenal season 2016-2017 review. Goals, results, fixtures from the 2016-2017 season on History of Arsenal Football Club
+Season : 2016-2017
+---
+
+  {% assign sorted = (site.seasons | sort: 'Season') | reverse %} 
+  {% for data in sorted %} 
+    {% if data.Season != "" and data.Season != nil %}
+     {% for match in data.Matches %}
+      {% capture manUtdWins %}
+        {% if match.HomeTeam == "Man Utd" and match.HomeScore > match.ArsenalScore and match.Competition == "League" %}
+          {{ manUtdWins | plus: 1 }}
+        {% elsif match.AwayTeam == "Man Utd" and match.AwayScore > match.ArsenalScore and match.Competition == "League" %}
+          {{ manUtdWins | plus: 1 }}
+        {% else %}
+          {{ manUtdWins | plus: 0 }}
+        {% endif %} 
+      {% endcapture %}
+      {% capture arsenalWins %}
+        {% if match.HomeTeam == "Man Utd" and match.HomeScore < match.ArsenalScore and match.Competition == "League" %}
+          {{ arsenalWins | plus: 1 }}
+        {% elsif match.AwayTeam == "Man Utd" and match.AwayScore < match.ArsenalScore and match.Competition == "League" %}
+          {{ arsenalWins | plus: 1 }}
+        {% else %}
+          {{ arsenalWins | plus: 0 }}
+        {% endif %} 
+      {% endcapture %}
+      {% capture draws %}
+        {% if match.AwayTeam == "Man Utd" or match.HomeTeam == "Man Utd" and match.HomeScore == match.AwayScore and match.Competition == "League" %}
+          {{ draws | plus: 1 }} 
+        {% else %}
+          {{ draws | plus: 0 }}
+        {% endif %} 
+      {% endcapture %}    
+      {% endfor %}
+    {% endif %} 
+  {% endfor %}
+
+<div class="container">
+ <div class="row">
+          <div class="col s12 m6">
+            <div id="curve_chart" style="width: 100%; min-height: 500px">  </div>
+          </div>
+            <div class="col s12 m6">
+            <div id="scatter_chart_premier_league" style="width: 100%; min-height: 500px">  </div>
+          </div>
+      </div>
+</div>
+{{manUtdWins}}</br>
+{{arsenalWins}}</br>
+{{draws}}</br>
