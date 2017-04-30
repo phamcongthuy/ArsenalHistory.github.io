@@ -1,0 +1,71 @@
+---
+layout: default
+title: Season 2016-2017 - Arsenal Results 
+excerpt: Arsenal season 2016-2017 review. Goals, results, fixtures from the 2016-2017 season on History of Arsenal Football Club
+Season : 2016-2017
+breadcrumbs:
+    - title : Head to Head
+      url : /head-to-head
+    - title : Arsenal vs Chelsea
+      url : /head-to-head/arsenal-vs-chelsea
+---
+
+  {% assign sorted = (site.seasons | sort: 'Season') | reverse %} 
+  {% for data in sorted %} 
+    {% if data.Season != "" and data.Season != nil %}
+     {% for match in data.Matches %}
+      {% capture chelseaWins %}
+        {% if match.HomeTeam == "Chelsea" and match.HomeScore > match.ArsenalScore and match.Competition == "League" %}
+          {{ chelseaWins | plus: 1 }}
+        {% elsif match.AwayTeam == "Chelsea" and match.AwayScore > match.ArsenalScore and match.Competition == "League" %}
+          {{ chelseaWins | plus: 1 }}
+        {% else %}
+          {{ chelseaWins | plus: 0 }}
+        {% endif %} 
+      {% endcapture %}
+      {% capture arsenalWins %}
+        {% if match.HomeTeam == "Chelsea" and match.HomeScore < match.ArsenalScore and match.Competition == "League" %}
+          {{ arsenalWins | plus: 1 }}
+        {% elsif match.AwayTeam == "Chelsea" and match.AwayScore < match.ArsenalScore and match.Competition == "League" %}
+          {{ arsenalWins | plus: 1 }}
+        {% else %}
+          {{ arsenalWins | plus: 0 }}
+        {% endif %} 
+      {% endcapture %}
+      {% capture draws %}
+        {% if match.AwayTeam == "Chelsea" or match.HomeTeam == "Chelsea" and match.HomeScore == match.AwayScore and match.Competition == "League" %}
+          {{ draws | plus: 1 }} 
+        {% else %}
+          {{ draws | plus: 0 }}
+        {% endif %} 
+      {% endcapture %}    
+      {% endfor %}
+    {% endif %} 
+  {% endfor %}
+
+<div class="container">
+  {% include breadcrumb.html %}
+  <div class="row">
+    <div class="col s12">
+      <div class="responsive-table card-panel hoverable">
+        <table class="highlight">
+          <thead>
+            <tr>
+              <th>Arsenal Wins</th>
+              <th>Chelsea Wins</th>
+              <th>Draws</th>
+            </tr>
+          </thead>
+          <tbody>
+
+            <tr>
+              <td>{{arsenalWins}} </td>
+              <td>{{chelseaWins}}</td>
+              <td>{{draws}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
