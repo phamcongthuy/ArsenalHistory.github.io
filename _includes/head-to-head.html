@@ -21,7 +21,9 @@
         {% endif %} 
       {% endcapture %}
       {% capture draws %}
-        {% if match.AwayTeam == page.OppositionTeam or match.HomeTeam == page.OppositionTeam and match.HomeScore == match.AwayScore and match.Competition == "League" %}
+        {% if match.AwayTeam == page.OppositionTeam and match.HomeScore == match.AwayScore and match.Competition == "League" %}
+          {{ draws | plus: 1 }} 
+        {% elsif match.HomeTeam == page.OppositionTeam and match.HomeScore == match.AwayScore and match.Competition == "League" %}
           {{ draws | plus: 1 }} 
         {% else %}
           {{ draws | plus: 0 }}
