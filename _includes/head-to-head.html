@@ -1,36 +1,29 @@
-  {% assign sorted = (site.seasons | sort: 'Season') | reverse %} 
-  {% for data in sorted %} 
-    {% if data.Season != "" and data.Season != nil %}
+  {% for data in site.seasons %} 
      {% for match in data.Matches %}
+        {% if match.HomeTeam == page.OppositionTeam or match.AwayTeam == page.OppositionTeam %}
       {% capture oppositionWins %}
-        {% if match.HomeTeam == page.OppositionTeam and match.HomeScore > match.ArsenalScore and match.Competition == "League" %}
-          {{ oppositionWins | plus: 1 }}
-        {% elsif match.AwayTeam == page.OppositionTeam and match.AwayScore > match.ArsenalScore and match.Competition == "League" %}
+        {% if match.OppositionScore > match.ArsenalScore and match.Competition == "League" %}
           {{ oppositionWins | plus: 1 }}
         {% else %}
           {{ oppositionWins | plus: 0 }}
         {% endif %} 
       {% endcapture %}
       {% capture arsenalWins %}
-        {% if match.HomeTeam == page.OppositionTeam and match.HomeScore < match.ArsenalScore and match.Competition == "League" %}
-          {{ arsenalWins | plus: 1 }}
-        {% elsif match.AwayTeam == page.OppositionTeam and match.AwayScore < match.ArsenalScore and match.Competition == "League" %}
+        {% if match.OppositionScore < match.ArsenalScore and match.Competition == "League" %}
           {{ arsenalWins | plus: 1 }}
         {% else %}
           {{ arsenalWins | plus: 0 }}
         {% endif %} 
       {% endcapture %}
       {% capture draws %}
-        {% if match.AwayTeam == page.OppositionTeam and match.HomeScore == match.AwayScore and match.Competition == "League" %}
-          {{ draws | plus: 1 }} 
-        {% elsif match.HomeTeam == page.OppositionTeam and match.HomeScore == match.AwayScore and match.Competition == "League" %}
+        {% if match.HomeScore == match.AwayScore and match.Competition == "League" %}
           {{ draws | plus: 1 }} 
         {% else %}
           {{ draws | plus: 0 }}
         {% endif %} 
-      {% endcapture %}    
+      {% endcapture %}   
+       {% endif %}  
       {% endfor %}
-    {% endif %} 
   {% endfor %}
 
 <div class="container">
