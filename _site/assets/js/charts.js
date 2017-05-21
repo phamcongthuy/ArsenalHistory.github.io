@@ -295,6 +295,8 @@ function drawLeaguePosition() {
         
         ['2015/2016', 2],
         
+        ['2016/2017', 5],
+        
     ]);
 
     var options = {
@@ -367,6 +369,8 @@ function drawPremierLeaguePosition() {
         
         ['2015/2016', 2],
         
+        ['2016/2017', 5],
+        
     ]);
 
     var options = {
@@ -391,7 +395,7 @@ function drawWinLossDrawChart() {
     var data = google.visualization.arrayToDataTable([
         ['Results', 'Def'],
         
-        ['Wins', 2038],
+        ['Wins', 2040],
         ['Draws', 1108],
         ['Losses', 1300],
         
