@@ -5,16 +5,28 @@
     <description>A history of all the famous moments for the Arsenal Football Club. Going unbeaten in 2003/2004 which immortalised Arsenal FC.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 May 2017 21:32:03 +0100</pubDate>
-    <lastBuildDate>Tue, 30 May 2017 21:32:03 +0100</lastBuildDate>
+    <pubDate>Sat, 03 Jun 2017 11:49:37 +0100</pubDate>
+    <lastBuildDate>Sat, 03 Jun 2017 11:49:37 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Arsenal 3-0 Manchester City</title>
+        <description>Arsenal set a record of 13 FA Cup titles by stunning champions Chelsea. Goals from Sanchez and Ramsey gave Arsenal a deserved win.</description>
+        <pubDate>Sun, 04 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city/</guid>
+        
+        
+        <category>fa-cup</category>
+        
+      </item>
     
       <item>
         <title>Arsenal 3-0 Manchester City</title>
         <description>Arsenal completed a comeback against Manchester city as goals from Monreal and Sanchez takes Arsenal to the FA Cup final.</description>
         <pubDate>Sun, 04 Oct 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city/</link>
-        <guid isPermaLink="true">http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city/</guid>
+        <link>http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city.1/</link>
+        <guid isPermaLink="true">http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city.1/</guid>
         
         
         <category>fa-cup</category>
