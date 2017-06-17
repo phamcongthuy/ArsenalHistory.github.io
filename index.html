@@ -66,8 +66,8 @@ title: History of Arsenal Football Club
                     <th>Date</th>
                 </tr>
             </thead>
-            
-    {% assign seasons = site.seasons | reverse %}
+
+    {% assign seasons = site.seasons | where:"Season","2016-2017" %}
     {% for season in seasons limit:1 %}
      <tbody>
        {% assign matchesSorted = (season.Matches | reverse) %}
