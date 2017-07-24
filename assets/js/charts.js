@@ -102,14 +102,38 @@ function drawPremierLeaguePosition() {
     renderChart('ScatterChart','scatter_chart_premier_league', options, data);
 }
 
+  {% for data in site.seasons %} 
+     {% for match in data.Matches %}
+      {% capture oppositionWins %}
+        {% if match.OppositionScore > match.ArsenalScore and match.Competition == "League" %}
+          {{ oppositionWins | plus: 1 }}
+        {% else %}
+          {{ oppositionWins | plus: 0 }}
+        {% endif %} 
+      {% endcapture %}
+      {% capture arsenalWins %}
+        {% if match.OppositionScore < match.ArsenalScore and match.Competition == "League" %}
+          {{ arsenalWins | plus: 1 }}
+        {% else %}
+          {{ arsenalWins | plus: 0 }}
+        {% endif %} 
+      {% endcapture %}
+      {% capture draws %}
+        {% if match.HomeScore == match.AwayScore and match.Competition == "League" %}
+          {{ draws | plus: 1 }} 
+        {% else %}
+          {{ draws | plus: 0 }}
+        {% endif %} 
+      {% endcapture %}    
+      {% endfor %}
+  {% endfor %}
+
 function drawWinLossDrawChart() {
     var data = google.visualization.arrayToDataTable([
         ['Results', 'Def'],
-        {% for data in site.data.win-loss-record %}
-        ['Wins', {{data.Wins }}],
-        ['Draws', {{data.Draws }}],
-        ['Losses', {{data.Losses }}],
-        {% endfor %}
+        ['Wins', {{arsenalWins }}],
+        ['Draws', {{draws }}],
+        ['Losses', {{oppositionWins }}],
     ]);
 
     var options = {

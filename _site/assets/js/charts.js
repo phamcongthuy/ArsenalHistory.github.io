@@ -391,14 +391,26 @@ function drawPremierLeaguePosition() {
     renderChart('ScatterChart','scatter_chart_premier_league', options, data);
 }
 
+  
+
 function drawWinLossDrawChart() {
     var data = google.visualization.arrayToDataTable([
         ['Results', 'Def'],
+        ['Wins', 
         
-        ['Wins', 2040],
-        ['Draws', 1108],
-        ['Losses', 1300],
+          2040
+         
+      ],
+        ['Draws', 
         
+          1146 
+         
+      ],
+        ['Losses', 
+        
+          1299
+         
+      ],
     ]);
 
     var options = {
