@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="robots" content="index, follow">
+  <meta name="robots" content="{% if page.robots %}{{ page.robots }}{% else %}{{ 'index,follow' }}{% endif %}">
   <meta name="google-site-verification" content="gQQ3Ov9T4WA4mXI4ynlnUoIoQ5ZQ9BajLrG3e5e1vxc" />
   <meta name="msvalidate.01" content="B13568B632345207C6B93D4277221EAF" />
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | ArsenalHistory.co.uk</title>
