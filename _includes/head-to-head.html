@@ -1,4 +1,8 @@
-  {% for data in site.seasons %} 
+<div class="container">
+  {% include breadcrumb.html %}
+  {% include teams.html %}
+
+{% for data in site.seasons %} 
      {% for match in data.Matches %}
         {% if match.HomeTeam == page.OppositionTeam or match.AwayTeam == page.OppositionTeam %}
       {% capture oppositionWins %}
@@ -26,9 +30,7 @@
       {% endfor %}
   {% endfor %}
 
-<div class="container">
-  {% include breadcrumb.html %}
-  {% include teams.html %}
+
   <div class="row">
     <div class="col s12">
       <div class="responsive-table card-panel hoverable">
@@ -51,4 +53,35 @@
       </div>
     </div>
   </div>
+
+  <div class="row">
+    <div class="col s12">
+      <div class="responsive-table card-panel hoverable bordered">
+        <table class="highlight">
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Result</th>
+              <th>Competition</th>
+            </tr>
+          </thead>
+          <tbody>
+{% for data in site.seasons reversed %} 
+     {% for match in data.Matches reversed %}
+        {% if match.HomeTeam == page.OppositionTeam or match.AwayTeam == page.OppositionTeam %}
+        <tr class="{% if match.ArsenalScore > match.OppositionScore %}{{'green accent-4'}}{% elsif match.ArsenalScore == match.OppositionScore %}{{'yellow accent-4'}}{% else %}{{'red accent-4'}}{% endif %}">
+          <td>{{match.Date}} </td>
+          <td>{{match.HomeTeam}} {{match.HomeScore}} - {{match.AwayScore}} {{match.AwayTeam}}</td>
+          <td>{{match.Competition}}</td>
+        </tr>
+        {% endif %}  
+        {% endfor %}
+    {% endfor %}
+  </tbody>
+  </table>
+  </div>
+  </div>
+  </div>
+
+
 </div>
