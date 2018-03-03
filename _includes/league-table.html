@@ -68,7 +68,7 @@
             </thead>
             <tbody>
                 {% for data in page.Matches %}
-                <tr>
+                <tr class="{% if data.ArsenalScore > data.OppositionScore %}{{'green accent-4'}}{% elsif data.ArsenalScore == data.OppositionScore %}{{'yellow accent-4'}}{% else %}{{'red accent-4'}}{% endif %}">
                     <td>{{data.HomeTeam}} {{data.HomeScore}} - {{data.AwayScore}} {{data.AwayTeam}} </td>
                     <td>{{data.Competition}}</td>
                     <td>{{data.Date}}</td>
