@@ -31,6 +31,8 @@ function victoriesPerMonthChart() {
     var data = google.visualization.arrayToDataTable([
         ['Month', 'Points'],
         
+        ['Aug', 0.946236559139785],
+        
         ['Sep', 1.0172711571675301],
         
         ['Oct', 1.0711297071129706],
@@ -46,8 +48,6 @@ function victoriesPerMonthChart() {
         ['Mar', 0.9664694280078896],
         
         ['Apr', 1.0603174603174603],
-        
-        ['Aug', 0.946236559139785],
         
         ['May', 1.1197604790419162],
         
