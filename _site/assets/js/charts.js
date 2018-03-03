@@ -403,12 +403,12 @@ function drawWinLossDrawChart() {
       ],
         ['Draws', 
         
-          1134 
+          1133 
          
       ],
         ['Losses', 
         
-          1314
+          1316
          
       ],
     ]);
