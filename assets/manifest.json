@@ -1,12 +1,12 @@
 {
-    "short_name": "Arenal History",
+    "short_name": "Arsenal History",
     "name": "History of Arsenal Football Club",
     "start-url": "/",
     "theme_color":"#ea323d",
     "background_color": "#ea323d",
     "display": "standalone",
     "icons": [{
-        "src": "assets/img/icon.png",
+        "src": "/assets/img/icon.png",
         "type": "image/png",
         "sizes": "192x192"
       }]
