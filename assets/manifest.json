@@ -3,5 +3,10 @@
     "name": "History of Arsenal Football Club",
     "start-url": "/",
     "theme_color":"#ea323d",
-    "display": "browser"
+    "display": "browser",
+    "icons": [{
+        "src": "assets/img/icon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }]
 }
