@@ -5,10 +5,6 @@
 <lastmod>2015-10-04T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city.1/</loc>
-<lastmod>2015-10-04T00:00:00+01:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/premier-league/2015/arsenal-3-0-manchester-united/</loc>
 <lastmod>2015-10-04T00:00:00+01:00</lastmod>
 </url>
@@ -145,9 +141,6 @@
 <loc>http://localhost:4000/head-to-head/arsenal-vs-bury/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/head-to-head/arsenal-vs-c-palace/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/head-to-head/arsenal-vs-cardiff/</loc>
 </url>
 <url>
@@ -167,6 +160,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/head-to-head/arsenal-vs-crewe/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/head-to-head/arsenal-vs-crystal-palace/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/head-to-head/arsenal-vs-darwen/</loc>
@@ -226,10 +222,10 @@
 <loc>http://localhost:4000/head-to-head/arsenal-vs-luton/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/head-to-head/arsenal-vs-man-city/</loc>
+<loc>http://localhost:4000/head-to-head/arsenal-vs-manchester-city/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/head-to-head/arsenal-vs-man-utd/</loc>
+<loc>http://localhost:4000/head-to-head/arsenal-vs-manchester-utd/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/head-to-head/arsenal-vs-middlesbro/</loc>

@@ -5,8 +5,8 @@
     <description>A history of all the famous moments for the Arsenal Football Club. Going unbeaten in 2003/2004 which immortalised Arsenal FC.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Mar 2018 16:21:20 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Mar 2018 16:21:20 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Mar 2018 17:16:28 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Mar 2018 17:16:28 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -15,18 +15,6 @@
         <pubDate>Sun, 04 Oct 2015 00:00:00 +0100</pubDate>
         <link>http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city/</link>
         <guid isPermaLink="true">http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city/</guid>
-        
-        
-        <category>fa-cup</category>
-        
-      </item>
-    
-      <item>
-        <title>Arsenal 3-0 Manchester City</title>
-        <description>Arsenal completed a comeback against Manchester city as goals from Monreal and Sanchez takes Arsenal to the FA Cup final.</description>
-        <pubDate>Sun, 04 Oct 2015 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city.1/</link>
-        <guid isPermaLink="true">http://localhost:4000/fa-cup/2015/arsenal-2-1-manchester-city.1/</guid>
         
         
         <category>fa-cup</category>
