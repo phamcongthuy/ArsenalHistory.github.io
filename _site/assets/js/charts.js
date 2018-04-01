@@ -51,8 +51,6 @@ function victoriesPerMonthChart() {
         
         ['May', 1.1197604790419162],
         
-        ['Jun', 0],
-        
     ]);
 
     var options = {
