@@ -396,7 +396,7 @@ function drawWinLossDrawChart() {
         ['Results', 'Def'],
         ['Wins', 
         
-          2078
+          2079
          
       ],
         ['Draws', 
