@@ -63,10 +63,10 @@ title: History of Arsenal Football Club
     {% for season in seasons limit:1 %}
      <tbody>
        {% assign matchesSorted = (season.Matches | reverse) %}
-       {% assign matches = (matchesSorted | where_exp: 'item', 'item.HomeScore != nil' ) %}
+       {% assign matches = (matchesSorted | where_exp: 'item', 'item.ArsenalScore != nil' ) %}
       {% for match in matches limit:5 %}
        <tr>
-          <td>{{match.HomeTeam}} {{match.HomeScore}} - {{match.AwayScore}} {{match.AwayTeam}} </td>
+          <td> {% if match.HomeOrAway == "Home" %}Arsenal {{ match.ArsenalScore}} - {{match.OppositionScore}} {{match.OppositionTeam}} {% else %}{{match.OppositionTeam}} {{match.OppositionScore}} - {{ match.ArsenalScore}} Arsenal{% endif %} </td>
           <td>{{match.Competition}}</td>
           <td>{{match.Date}}</td>
       </tr>
@@ -91,10 +91,10 @@ title: History of Arsenal Football Club
     {% assign seasons = site.seasons | sort: 'Season' | reverse %}
     {% for season in seasons limit:1 %}
      <tbody>
-        {% assign matches = (season.Matches | where_exp: 'item', 'item.HomeScore == nil' ) %}
+        {% assign matches = (season.Matches | where_exp: 'item', 'item.ArsenalScore == nil' ) %}
       {% for match in matches limit:5 %}
        <tr>
-          <td>{{match.HomeTeam}} {{match.HomeScore}} - {{match.AwayScore}} {{match.AwayTeam}} </td>
+          <td>{% if match.HomeOrAway == "Home" %}Arsenal {{ match.ArsenalScore}} - {{match.OppositionScore}} {{match.OppositionTeam}} {% else %}{{match.OppositionTeam}} {{match.OppositionScore}} - {{ match.ArsenalScore}} Arsenal{% endif %} </td>
           <td>{{match.Competition}}</td>
           <td>{{match.Date}}</td>
       </tr>

@@ -119,7 +119,7 @@ function drawPremierLeaguePosition() {
         {% endif %} 
       {% endcapture %}
       {% capture draws %}
-        {% if match.HomeScore == match.AwayScore and match.Competition == "League" %}
+        {% if match.OppositionScore == match.ArsenalScore and match.Competition == "League" %}
           {{ draws | plus: 1 }} 
         {% else %}
           {{ draws | plus: 0 }}

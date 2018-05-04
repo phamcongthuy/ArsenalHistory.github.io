@@ -69,7 +69,8 @@
             <tbody>
                 {% for data in page.Matches %}
                 <tr class="{% if data.ArsenalScore > data.OppositionScore %}{{'green accent-4'}}{% elsif data.ArsenalScore == data.OppositionScore %}{{'yellow accent-4'}}{% else %}{{'red accent-4'}}{% endif %}">
-                    <td>{{data.HomeTeam}} {{data.HomeScore}} - {{data.AwayScore}} {{data.AwayTeam}} </td>
+                    <td>{% if data.HomeOrAway == "Home" %}Arsenal {{ data.ArsenalScore}} - {{data.OppositionScore}} {{data.OppositionTeam}} {% else %}{{data.OppositionTeam}} {{data.OppositionScore}} - {{ data.ArsenalScore}} Arsenal{% endif %}
+                    </td>
                     <td>{{data.Competition}}</td>
                     <td>{{data.Date}}</td>
                 </tr>

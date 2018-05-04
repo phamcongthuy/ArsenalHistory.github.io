@@ -4,7 +4,7 @@
 
 {% for data in site.seasons %} 
      {% for match in data.Matches %}
-        {% if match.HomeTeam == page.OppositionTeam or match.AwayTeam == page.OppositionTeam %}
+        {% if match.OppositionTeam == page.OppositionTeam or match.OppositionTeam == page.OppositionTeam %}
       {% capture oppositionWins %}
         {% if match.OppositionScore > match.ArsenalScore and match.Competition == "League" %}
           {{ oppositionWins | plus: 1 }}
@@ -20,7 +20,7 @@
         {% endif %} 
       {% endcapture %}
       {% capture draws %}
-        {% if match.HomeScore == match.AwayScore and match.Competition == "League" %}
+        {% if match.OppositionScore == match.ArsenalScore and match.Competition == "League" %}
           {{ draws | plus: 1 }} 
         {% else %}
           {{ draws | plus: 0 }}
@@ -68,10 +68,10 @@
           <tbody>
 {% for data in site.seasons reversed %} 
      {% for match in data.Matches reversed %}
-        {% if match.HomeTeam == page.OppositionTeam or match.AwayTeam == page.OppositionTeam %}
+        {% if match.OppositionTeam == page.OppositionTeam or match.OppositionTeam == page.OppositionTeam %}
         <tr class="{% if match.ArsenalScore > match.OppositionScore %}{{'green accent-4'}}{% elsif match.ArsenalScore == match.OppositionScore %}{{'yellow accent-4'}}{% else %}{{'red accent-4'}}{% endif %}">
           <td>{{match.Date}} </td>
-          <td>{{match.HomeTeam}} {{match.HomeScore}} - {{match.AwayScore}} {{match.AwayTeam}}</td>
+          <td>{% if match.HomeOrAway == "Home" %}Arsenal {{ match.ArsenalScore}} - {{match.OppositionScore}} {{match.OppositionTeam}} {% else %}{{match.OppositionTeam}} {{match.OppositionScore}} - {{ match.ArsenalScore}} Arsenal{% endif %}</td>
           <td>{{match.Competition}}</td>
         </tr>
         {% endif %}  
