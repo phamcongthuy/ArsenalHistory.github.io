@@ -2,7 +2,6 @@
 ---
 
 google.charts.load('current', { 'packages': ['corechart'] });
-google.charts.setOnLoadCallback(victoriesPerMonthChart);
 google.charts.setOnLoadCallback(drawLeaguePosition);
 google.charts.setOnLoadCallback(drawPremierLeaguePosition);
 google.charts.setOnLoadCallback(drawWinLossDrawChart);
@@ -30,25 +29,6 @@ function renderChart(type, id, options, data){
      chart.draw(data, options);
 }
 
-function victoriesPerMonthChart() {
-    var data = google.visualization.arrayToDataTable([
-        ['Month', 'Points'],
-        {% for data in site.data.victories-per-month %}
-        ['{{data.Month}}', {{data.PointsPerMonth }}],
-        {% endfor %}
-    ]);
-
-    var options = {
-        title: 'Points per month in the League (1893 - present)',
-        curveType: 'function',
-        legend: { position: 'bottom' },
-        series: {
-            0: { color: '#EA323D' },
-        }
-    };
-
-    renderChart('LineChart','curve_chart', options, data);
-}
 
 function drawLeaguePosition() {
     var data = google.visualization.arrayToDataTable([
@@ -104,27 +84,29 @@ function drawPremierLeaguePosition() {
 
   {% for data in site.seasons %} 
      {% for match in data.Matches %}
+     {% if match.Competition == "League" %}
       {% capture oppositionWins %}
-        {% if match.OppositionScore > match.ArsenalScore and match.Competition == "League" %}
+        {% if match.OppositionScore > match.ArsenalScore %}
           {{ oppositionWins | plus: 1 }}
         {% else %}
           {{ oppositionWins | plus: 0 }}
         {% endif %} 
       {% endcapture %}
       {% capture arsenalWins %}
-        {% if match.OppositionScore < match.ArsenalScore and match.Competition == "League" %}
+        {% if match.OppositionScore < match.ArsenalScore %}
           {{ arsenalWins | plus: 1 }}
         {% else %}
           {{ arsenalWins | plus: 0 }}
         {% endif %} 
       {% endcapture %}
       {% capture draws %}
-        {% if match.OppositionScore == match.ArsenalScore and match.Competition == "League" %}
+        {% if match.OppositionScore == match.ArsenalScore %}
           {{ draws | plus: 1 }} 
         {% else %}
           {{ draws | plus: 0 }}
         {% endif %} 
-      {% endcapture %}    
+      {% endcapture %} 
+      {% endif %}   
       {% endfor %}
   {% endfor %}
 
@@ -147,7 +129,6 @@ function drawWinLossDrawChart() {
 
 
 $(window).resize(function(){
-    victoriesPerMonthChart();
     drawLeaguePosition();
     drawPremierLeaguePosition();
     drawWinLossDrawChart();
