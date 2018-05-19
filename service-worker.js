@@ -1,5 +1,6 @@
 var cacheName = 'arsenal-history';
 var filesToCache = [
+    '/',
     '/css/main.css',
     '/assets/img/emirates-fa-cup.jpg',
     '/css/owl.carousel.min.css',
